@@ -1,43 +1,6 @@
-const fs = require('fs');
 const axios = require('axios');
-const xml2js = require('xml2js');
-const pdfToBase64 = require('pdf-to-base64');
+const {headerOptions, readXmlFile, parseXml} = require("./utils");
 
-function readXmlFile(filePath) {
-    return new Promise((resolve, reject) => {
-        fs.readFile(filePath, 'utf-8', (err, data) => {
-            if (err) {
-                reject(err);
-            } else {
-                resolve(data);
-            }
-        });
-    });
-}
-
-// Fonction pour convertir XML en objet JavaScript
-function parseXml(xmlData) {
-    return new Promise((resolve, reject) => {
-        const parser = new xml2js.Parser({ explicitArray: false, mergeAttrs: true });
-        parser.parseString(xmlData, (err, result) => {
-            if (err) {
-                reject(err);
-            } else {
-                resolve(result);
-            }
-        });
-    });
-}
-
-
-// Fonction pour convertir un fichier PDF en base64
-function pdfToBase64Converter(pdfFilePath) {
-    return new Promise((resolve, reject) => {
-        pdfToBase64(pdfFilePath)
-            .then((base64String) => resolve(base64String))
-            .catch((error) => reject(error));
-    });
-}
 
 async function convertToArchives(jsonData) {
     let log = console.log
@@ -120,17 +83,9 @@ async function convertToArchives(jsonData) {
 
 // Fonction pour envoyer des données à une API
 async function sendDataToAPI(apiUrl, data) {
-    const authToken = 'phdF9WkJuTKkDuPXoqDZuOjLMAFGC6ZrqwSFnXohEKT1a0AUcIDxGYfs%2BaGFsLTm3GhJBb7nH0oBGVck0lowfqQ%2FzHbeeHkOG3v8KidIdDLoWzrBBPs293eB%2ByRpFicgXS6fT%2B7Bwyw%3D'
-    // const authToken = 'phdF9WkJuTKkDuPXoqDZuPs4jdJfIZgYGsDLBBhtCTCoic3rz4q5eOX12VEP5BJdzrQtk77AHJ6cTqgtr2S0MQ5kt79b%2FsXF1nRBjvM8lK8EUUFtEK8dKTUgGjw%2BPCg4KSuaZn7cEXOdatwaZ%2BrtLQ%3D%3D'
-
     try {
         const response = await axios.post(apiUrl, data,  {
-            headers: {
-                'Accept': 'application/json',
-                'Content-Type': 'application/json',
-                'User-Agent': 'service',
-                'Cookie': `LAABS-AUTH=${authToken}`
-            }
+            headers: headerOptions()
         });
         console.log('API Response:', response.data);
     } catch (error) {
