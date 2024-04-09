@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Alexandrie version="7.0">
+<fieldset>
+<fielddef code="TIT">
+<label>Titre</label>
+<type>S</type>
+</fielddef>
+<fielddef code="INTRO">
+<label>Introduction</label>
+<type>W</type>
+</fielddef>
+<fielddef code="FULL">
+<label>Texte complet</label>
+<type>W</type>
+</fielddef>
+<fielddef code="MOTC">
+<label>Mots clés libres</label>
+<type>S</type>
+</fielddef>
+</fieldset>
+<records total="11">
+<record id="18517">
+<recordnature code="DOC">DOCUMENTATION</recordnature>
+<recordtype code="BLOG0001">Le blog du CDI</recordtype>
+<recordcreation datetime="24/07/14 10:47" format="JJ/MM/AAAA">24/07/2014</recordcreation>
+<recordupdate datetime="24/07/14 10:47" format="JJ/MM/AAAA">24/07/2014</recordupdate>
+<recordindex datetime="24/07/14 10:47" format="JJ/MM/AAAA">24/07/2014</recordindex>
+<uri>https://documentation.boad.org/dyn/portal/index.seam?page=alo&amp;aloId=18517</uri>
+</record>
+<record id="18518">
+<recordnature code="DOC">DOCUMENTATION</recordnature>
+<recordtype code="BLOG0001">Le blog du CDI</recordtype>
+<recordcreation datetime="24/07/14 11:00" format="JJ/MM/AAAA">24/07/2014</recordcreation>
+<recordupdate datetime="24/07/14 12:11" format="JJ/MM/AAAA">24/07/2014</recordupdate>
+<recordindex datetime="24/07/14 11:00" format="JJ/MM/AAAA">24/07/2014</recordindex>
+<uri>https://documentation.boad.org/dyn/portal/index.seam?page=alo&amp;aloId=18518</uri>
+</record>
+<record id="18519">
+<recordnature code="DOC">DOCUMENTATION</recordnature>
+<recordtype code="BLOG0001">Le blog du CDI</recordtype>
+<recordcreation datetime="24/07/14 11:00" format="JJ/MM/AAAA">24/07/2014</recordcreation>
+<recordupdate datetime="24/07/14 11:00" format="JJ/MM/AAAA">24/07/2014</recordupdate>
+<recordindex datetime="24/07/14 11:00" format="JJ/MM/AAAA">24/07/2014</recordindex>
+<uri>https://documentation.boad.org/dyn/portal/index.seam?page=alo&amp;aloId=18519</uri>
+</record>
+<record id="18520">
+<recordnature code="DOC">DOCUMENTATION</recordnature>
+<recordtype code="BLOG0001">Le blog du CDI</recordtype>
+<recordcreation datetime="24/07/14 11:03" format="JJ/MM/AAAA">24/07/2014</recordcreation>
+<recordupdate datetime="24/07/14 11:03" format="JJ/MM/AAAA">24/07/2014</recordupdate>
+<recordindex datetime="24/07/14 11:03" format="JJ/MM/AAAA">24/07/2014</recordindex>
+<uri>https://documentation.boad.org/dyn/portal/index.seam?page=alo&amp;aloId=18520</uri>
+</record>
+<record id="18521">
+<recordnature code="DOC">DOCUMENTATION</recordnature>
+<recordtype code="BLOG0001">Le blog du CDI</recordtype>
+<recordcreation datetime="24/07/14 11:04" format="JJ/MM/AAAA">24/07/2014</recordcreation>
+<recordupdate datetime="24/07/14 11:04" format="JJ/MM/AAAA">24/07/2014</recordupdate>
+<recordindex datetime="24/07/14 11:04" format="JJ/MM/AAAA">24/07/2014</recordindex>
+<uri>https://documentation.boad.org/dyn/portal/index.seam?page=alo&amp;aloId=18521</uri>
+</record>
+<record id="18522">
+<recordnature code="DOC">DOCUMENTATION</recordnature>
+<recordtype code="BLOG0001">Le blog du CDI</recordtype>
+<recordcreation datetime="24/07/14 11:06" format="JJ/MM/AAAA">24/07/2014</recordcreation>
+<recordupdate datetime="24/07/14 11:58" format="JJ/MM/AAAA">24/07/2014</recordupdate>
+<recordindex datetime="24/07/14 11:58" format="JJ/MM/AAAA">24/07/2014</recordindex>
+<uri>https://documentation.boad.org/dyn/portal/index.seam?page=alo&amp;aloId=18522</uri>
+</record>
+<record id="18523">
+<recordnature code="DOC">DOCUMENTATION</recordnature>
+<recordtype code="BLOG0001">Le blog du CDI</recordtype>
+<recordcreation datetime="24/07/14 11:07" format="JJ/MM/AAAA">24/07/2014</recordcreation>
+<recordupdate datetime="24/07/14 12:40" format="JJ/MM/AAAA">24/07/2014</recordupdate>
+<recordindex datetime="24/07/14 11:07" format="JJ/MM/AAAA">24/07/2014</recordindex>
+<uri>https://documentation.boad.org/dyn/portal/index.seam?page=alo&amp;aloId=18523</uri>
+</record>
+<record id="18526">
+<recordnature code="DOC">DOCUMENTATION</recordnature>
+<recordtype code="BLOG0001">Le blog du CDI</recordtype>
+<recordcreation datetime="24/07/14 12:05" format="JJ/MM/AAAA">24/07/2014</recordcreation>
+<recordupdate datetime="24/07/14 12:07" format="JJ/MM/AAAA">24/07/2014</recordupdate>
+<recordindex datetime="24/07/14 12:05" format="JJ/MM/AAAA">24/07/2014</recordindex>
+<uri>https://documentation.boad.org/dyn/portal/index.seam?page=alo&amp;aloId=18526</uri>
+</record>
+<record id="18527">
+<recordnature code="DOC">DOCUMENTATION</recordnature>
+<recordtype code="BLOG0001">Le blog du CDI</recordtype>
+<recordcreation datetime="24/07/14 12:07" format="JJ/MM/AAAA">24/07/2014</recordcreation>
+<recordupdate datetime="24/07/14 12:14" format="JJ/MM/AAAA">24/07/2014</recordupdate>
+<recordindex datetime="24/07/14 12:07" format="JJ/MM/AAAA">24/07/2014</recordindex>
+<uri>https://documentation.boad.org/dyn/portal/index.seam?page=alo&amp;aloId=18527</uri>
+</record>
+<record id="18528">
+<recordnature code="DOC">DOCUMENTATION</recordnature>
+<recordtype code="BLOG0001">Le blog du CDI</recordtype>
+<recordcreation datetime="24/07/14 12:23" format="JJ/MM/AAAA">24/07/2014</recordcreation>
+<recordupdate datetime="24/07/14 12:23" format="JJ/MM/AAAA">24/07/2014</recordupdate>
+<recordindex datetime="24/07/14 12:23" format="JJ/MM/AAAA">24/07/2014</recordindex>
+<uri>https://documentation.boad.org/dyn/portal/index.seam?page=alo&amp;aloId=18528</uri>
+</record>
+<record id="18529">
+<recordnature code="DOC">DOCUMENTATION</recordnature>
+<recordtype code="BLOG0001">Le blog du CDI</recordtype>
+<recordcreation datetime="24/07/14 12:27" format="JJ/MM/AAAA">24/07/2014</recordcreation>
+<recordupdate datetime="24/07/14 12:34" format="JJ/MM/AAAA">24/07/2014</recordupdate>
+<recordindex datetime="24/07/14 12:27" format="JJ/MM/AAAA">24/07/2014</recordindex>
+<uri>https://documentation.boad.org/dyn/portal/index.seam?page=alo&amp;aloId=18529</uri>
+</record>
+</records>
+</Alexandrie>

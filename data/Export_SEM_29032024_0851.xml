@@ -1,0 +1,649 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Alexandrie version="7.0">
+<fieldset>
+<fielddef code="TIT">
+<label>Titre</label>
+<type>S</type>
+</fielddef>
+<fielddef code="DRE">
+<label>Date de tenue de la réunion</label>
+<type>D</type>
+</fielddef>
+<fielddef code="LIEUARC">
+<label>Partenaire</label>
+<type>S</type>
+</fielddef>
+<fielddef code="GED">
+<label>Fichiers annexes</label>
+<type>S</type>
+</fielddef>
+<fielddef code="MOTC">
+<label>Mots clés libres</label>
+<type>S</type>
+</fielddef>
+<fielddef code="NAPG">
+<label>Nature</label>
+<type>S</type>
+</fielddef>
+<fielddef code="Pro">
+<label>Présentateur-orateur</label>
+<type>S</type>
+</fielddef>
+</fieldset>
+<records total="36">
+<record id="15994">
+<recordnature code="PRGR">PRODUCTION GRISE</recordnature>
+<recordtype code="SEM">Séminaire-Atelier-Forum</recordtype>
+<recordcreation datetime="08/02/13 15:53" format="JJ/MM/AAAA">08/02/2013</recordcreation>
+<recordupdate datetime="08/02/13 15:55" format="JJ/MM/AAAA">08/02/2013</recordupdate>
+<recordindex datetime="08/02/13 15:55" format="JJ/MM/AAAA">08/02/2013</recordindex>
+<uri>https://documentation.boad.org/dyn/portal/index.seam?page=alo&amp;aloId=15994</uri>
+<field id="TIT" order="1">Séminaire sur l'initiation à l'informatique à la BOAD</field>
+<field_path id="TIT" order="1">doc/Alo/P000000/15994/236779/CR du séminaire 1986-1987.pdf</field_path>
+<field_pathLink id="TIT">jah6P0K-SukjP8nkarNKC4xNm1By6pO5&#13;
+</field_pathLink>
+<field_path id="TIT" order="1">doc/Alo/P000000/15994/236779/Rapport de mission a-s séminaire.pdf</field_path>
+<field_pathLink id="TIT">jah6P0K-SukjP8nkarNKC-3wK0fimi8c&#13;
+</field_pathLink>
+<field datetime="29/12/87 00:00" format="JJ/MM/AAAA" id="DRE">29/12/1987</field>
+<field id="LIEUARC">Lomé</field>
+</record>
+<record id="16000">
+<recordnature code="PRGR">PRODUCTION GRISE</recordnature>
+<recordtype code="SEM">Séminaire-Atelier-Forum</recordtype>
+<recordcreation datetime="08/02/13 15:58" format="JJ/MM/AAAA">08/02/2013</recordcreation>
+<recordupdate datetime="08/02/13 15:58" format="JJ/MM/AAAA">08/02/2013</recordupdate>
+<recordindex datetime="08/02/13 15:58" format="JJ/MM/AAAA">08/02/2013</recordindex>
+<uri>https://documentation.boad.org/dyn/portal/index.seam?page=alo&amp;aloId=16000</uri>
+<field id="TIT" order="1">1er Séminaire des BSRD </field>
+<field_path id="TIT" order="1">doc/Alo/P000000/16000/236802/Rapport de synthèse.pdf</field_path>
+<field_pathLink id="TIT">jah6P0K-SukjP8nkarNKC6-3fv6VUy6V&#13;
+</field_pathLink>
+<field datetime="04/09/91 00:00" format="JJ/MM/AAAA" id="DRE">04/09/1991</field>
+<field id="LIEUARC">Lomé</field>
+</record>
+<record id="16003">
+<recordnature code="PRGR">PRODUCTION GRISE</recordnature>
+<recordtype code="SEM">Séminaire-Atelier-Forum</recordtype>
+<recordcreation datetime="08/02/13 16:00" format="JJ/MM/AAAA">08/02/2013</recordcreation>
+<recordupdate datetime="08/02/13 16:01" format="JJ/MM/AAAA">08/02/2013</recordupdate>
+<recordindex datetime="08/02/13 16:01" format="JJ/MM/AAAA">08/02/2013</recordindex>
+<uri>https://documentation.boad.org/dyn/portal/index.seam?page=alo&amp;aloId=16003</uri>
+<field id="TIT" order="1">Séminaire régional d'examen sur les études de l'UEMOA </field>
+<field_path id="TIT" order="1">doc/Alo/P000000/16003/236813/Rapport de synthèse du séminaire de Lomé du 20 au 22 mai 1996.pdf</field_path>
+<field_pathLink id="TIT">jah6P0K-SukjP8nkarNKCzoR_o9AnN5g&#13;
+</field_pathLink>
+<field_path id="TIT" order="1">doc/Alo/P000000/16003/236813/Rapport final de l'atelier au sein de l'UEMOA Bamako 03 au 04 mai 1996[0].pdf</field_path>
+<field_pathLink id="TIT">jah6P0K-SukjP8nkarNKCz_HfrLcXFcT&#13;
+</field_pathLink>
+<field datetime="22/05/96 00:00" format="JJ/MM/AAAA" id="DRE">22/05/1996</field>
+<field id="LIEUARC">Lomé</field>
+</record>
+<record id="16009">
+<recordnature code="PRGR">PRODUCTION GRISE</recordnature>
+<recordtype code="SEM">Séminaire-Atelier-Forum</recordtype>
+<recordcreation datetime="08/02/13 16:05" format="JJ/MM/AAAA">08/02/2013</recordcreation>
+<recordupdate datetime="08/02/13 16:05" format="JJ/MM/AAAA">08/02/2013</recordupdate>
+<recordindex datetime="08/02/13 16:05" format="JJ/MM/AAAA">08/02/2013</recordindex>
+<uri>https://documentation.boad.org/dyn/portal/index.seam?page=alo&amp;aloId=16009</uri>
+<field id="TIT" order="1">Séminaire sur la restructuration des CNE et des CCP de l'UEMOA</field>
+<field_path id="TIT" order="1">doc/Alo/P000000/16009/236836/Rapport de mission a-s séminaire sur la restructuration des CNE et CCP.pdf</field_path>
+<field_pathLink id="TIT">jah6P0K-SukjP8nkarNKC8QrB0WALcYJ&#13;
+</field_pathLink>
+<field datetime="28/11/94 00:00" format="JJ/MM/AAAA" id="DRE">28/11/1994</field>
+<field id="LIEUARC">Lomé</field>
+</record>
+<record id="16015">
+<recordnature code="PRGR">PRODUCTION GRISE</recordnature>
+<recordtype code="SEM">Séminaire-Atelier-Forum</recordtype>
+<recordcreation datetime="08/02/13 16:11" format="JJ/MM/AAAA">08/02/2013</recordcreation>
+<recordupdate datetime="08/02/13 16:11" format="JJ/MM/AAAA">08/02/2013</recordupdate>
+<recordindex datetime="08/02/13 16:11" format="JJ/MM/AAAA">08/02/2013</recordindex>
+<uri>https://documentation.boad.org/dyn/portal/index.seam?page=alo&amp;aloId=16015</uri>
+<field id="TIT" order="1">Préparation rencontre BOAD-entreprises Françaises</field>
+<field_path id="TIT" order="1">doc/Alo/P000000/16015/236859/Synthèse observations de la banque sur le document de présentation de la BOAD élaboré.pdf</field_path>
+<field_pathLink id="TIT">jah6P0K-SukjP8nkarNKC-Hm8DReoTUG&#13;
+</field_pathLink>
+<field datetime="03/04/01 00:00" format="JJ/MM/AAAA" id="DRE">03/04/2001</field>
+<field id="LIEUARC">Lomé</field>
+</record>
+<record id="16021">
+<recordnature code="PRGR">PRODUCTION GRISE</recordnature>
+<recordtype code="SEM">Séminaire-Atelier-Forum</recordtype>
+<recordcreation datetime="08/02/13 16:18" format="JJ/MM/AAAA">08/02/2013</recordcreation>
+<recordupdate datetime="08/02/13 16:19" format="JJ/MM/AAAA">08/02/2013</recordupdate>
+<recordindex datetime="08/02/13 16:19" format="JJ/MM/AAAA">08/02/2013</recordindex>
+<uri>https://documentation.boad.org/dyn/portal/index.seam?page=alo&amp;aloId=16021</uri>
+<field id="TIT" order="1">Séminaire IMA</field>
+<field_path id="TIT" order="1">doc/Alo/P000000/16021/236882/Rapport de mission a-s séminaire sur le thème tableau de bord d'entreprise assisté par ordinateur.pdf</field_path>
+<field_pathLink id="TIT">jah6P0K-SukjP8nkarNKC_5Jdlksay5C&#13;
+</field_pathLink>
+<field datetime="25/05/01 00:00" format="JJ/MM/AAAA" id="DRE">25/05/2001</field>
+<field id="LIEUARC">Abidjan</field>
+</record>
+<record id="16023">
+<recordnature code="PRGR">PRODUCTION GRISE</recordnature>
+<recordtype code="SEM">Séminaire-Atelier-Forum</recordtype>
+<recordcreation datetime="08/02/13 16:22" format="JJ/MM/AAAA">08/02/2013</recordcreation>
+<recordupdate datetime="08/02/13 16:22" format="JJ/MM/AAAA">08/02/2013</recordupdate>
+<recordindex datetime="08/02/13 16:22" format="JJ/MM/AAAA">08/02/2013</recordindex>
+<uri>https://documentation.boad.org/dyn/portal/index.seam?page=alo&amp;aloId=16023</uri>
+<field id="TIT" order="1">1er Forum des parlementaires Africains pour le NEPAD</field>
+<field_path id="TIT" order="1">doc/Alo/P000000/16023/236889/CR de la mission d'information de la BOAD auprès de l'Assemblée Nationale de Benin 16-09-2002.pdf</field_path>
+<field_pathLink id="TIT">jah6P0K-SukjP8nkarNKC0M1akurr608&#13;
+</field_pathLink>
+<field datetime="09/10/02 00:00" format="JJ/MM/AAAA" id="DRE">09/10/2002</field>
+<field id="LIEUARC">Lomé</field>
+</record>
+<record id="16026">
+<recordnature code="PRGR">PRODUCTION GRISE</recordnature>
+<recordtype code="SEM">Séminaire-Atelier-Forum</recordtype>
+<recordcreation datetime="08/02/13 16:24" format="JJ/MM/AAAA">08/02/2013</recordcreation>
+<recordupdate datetime="08/02/13 16:26" format="JJ/MM/AAAA">08/02/2013</recordupdate>
+<recordindex datetime="08/02/13 16:26" format="JJ/MM/AAAA">08/02/2013</recordindex>
+<uri>https://documentation.boad.org/dyn/portal/index.seam?page=alo&amp;aloId=16026</uri>
+<field id="TIT" order="1">Séminaire BOAD-AFD</field>
+<field_path id="TIT" order="1">doc/Alo/P000000/16026/236900/CR rencontre BOAD-AFD du 05-04-2007.pdf</field_path>
+<field_pathLink id="TIT">jah6P0K-SukjP8nkarNKC4Ewhk_bDpya&#13;
+</field_pathLink>
+<field_path id="TIT" order="1">doc/Alo/P000000/16026/236900/Projet de rapport final a-s approfondissement des études a-s à la création de deux fonds régionaux d'appui à la filière coton tectile.pdf</field_path>
+<field_pathLink id="TIT">jah6P0K-SukjP8nkarNKC8DRbDgvL8h7&#13;
+</field_pathLink>
+<field datetime="05/04/07 00:00" format="JJ/MM/AAAA" id="DRE">05/04/2007</field>
+<field id="LIEUARC">Lomé</field>
+</record>
+<record id="16030">
+<recordnature code="PRGR">PRODUCTION GRISE</recordnature>
+<recordtype code="SEM">Séminaire-Atelier-Forum</recordtype>
+<recordcreation datetime="08/02/13 16:28" format="JJ/MM/AAAA">08/02/2013</recordcreation>
+<recordupdate datetime="08/02/13 16:28" format="JJ/MM/AAAA">08/02/2013</recordupdate>
+<recordindex datetime="08/02/13 16:28" format="JJ/MM/AAAA">08/02/2013</recordindex>
+<uri>https://documentation.boad.org/dyn/portal/index.seam?page=alo&amp;aloId=16030</uri>
+<field id="TIT" order="1">Atelier marché hypothécaire</field>
+<field_path id="TIT" order="1">doc/Alo/P000000/16030/236914/Relevé de conclusions.pdf</field_path>
+<field_pathLink id="TIT">jah6P0K-SukjP8nkarNKC1DWBbnSL9rU&#13;
+</field_pathLink>
+<field_path id="TIT" order="1">doc/Alo/P000000/16030/236914/Relevé de conclusion et  recommandations.pdf</field_path>
+<field_pathLink id="TIT">jah6P0K-SukjP8nkarNKCyLhBkdr4J5b&#13;
+</field_pathLink>
+<field datetime="10/07/09 00:00" format="JJ/MM/AAAA" id="DRE">10/07/2009</field>
+<field id="LIEUARC">Lomé</field>
+</record>
+<record id="16032">
+<recordnature code="PRGR">PRODUCTION GRISE</recordnature>
+<recordtype code="SEM">Séminaire-Atelier-Forum</recordtype>
+<recordcreation datetime="08/02/13 16:35" format="JJ/MM/AAAA">08/02/2013</recordcreation>
+<recordupdate datetime="08/02/13 16:35" format="JJ/MM/AAAA">08/02/2013</recordupdate>
+<recordindex datetime="08/02/13 16:35" format="JJ/MM/AAAA">08/02/2013</recordindex>
+<uri>https://documentation.boad.org/dyn/portal/index.seam?page=alo&amp;aloId=16032</uri>
+<field id="TIT" order="1">Séminaire sur la restructration des caisses d'épargnes</field>
+<field_path id="TIT" order="1">doc/Alo/P000000/16032/236921/Conclusions et recommandations du séminaire.pdf</field_path>
+<field_pathLink id="TIT">jah6P0K-SukjP8nkarNKC_caCgo-RadK&#13;
+</field_pathLink>
+<field_path id="TIT" order="1">doc/Alo/P000000/16032/236921/Rapport de mission a-s séminaire.pdf</field_path>
+<field_pathLink id="TIT">jah6P0K-SukjP8nkarNKCxxGmh5mr3OA&#13;
+</field_pathLink>
+<field datetime="16/11/94 00:00" format="JJ/MM/AAAA" id="DRE">16/11/1994</field>
+<field id="LIEUARC">Lomé</field>
+</record>
+<record id="16034">
+<recordnature code="PRGR">PRODUCTION GRISE</recordnature>
+<recordtype code="SEM">Séminaire-Atelier-Forum</recordtype>
+<recordcreation datetime="08/02/13 16:40" format="JJ/MM/AAAA">08/02/2013</recordcreation>
+<recordupdate datetime="08/02/13 16:44" format="JJ/MM/AAAA">08/02/2013</recordupdate>
+<recordindex datetime="08/02/13 16:44" format="JJ/MM/AAAA">08/02/2013</recordindex>
+<uri>https://documentation.boad.org/dyn/portal/index.seam?page=alo&amp;aloId=16034</uri>
+<field id="TIT" order="1">Séminaire sur la promotion du secteur privé</field>
+<field_path id="TIT" order="1">doc/Alo/P000000/16034/236928/CR de la réunio DIFI a-s organisation du séminaire sur le Financement du secteur privé 2005.pdf</field_path>
+<field_pathLink id="TIT">jah6P0K-SukjP8nkarNKCzg99mh5zTm_&#13;
+</field_pathLink>
+<field_path id="TIT" order="1">doc/Alo/P000000/16034/236928/Rapport final de systhème sur la compétitivité sectorielle des économies des pays membres de l'UEMOA.pdf</field_path>
+<field_pathLink id="TIT">jah6P0K-SukjP8nkarNKC3UsZ7H-GY4d&#13;
+</field_pathLink>
+<field datetime="02/06/04 00:00" format="JJ/MM/AAAA" id="DRE">02/06/2004</field>
+<field id="LIEUARC">Lomé</field>
+</record>
+<record id="16036">
+<recordnature code="PRGR">PRODUCTION GRISE</recordnature>
+<recordtype code="SEM">Séminaire-Atelier-Forum</recordtype>
+<recordcreation datetime="08/02/13 16:46" format="JJ/MM/AAAA">08/02/2013</recordcreation>
+<recordupdate datetime="08/02/13 16:47" format="JJ/MM/AAAA">08/02/2013</recordupdate>
+<recordindex datetime="08/02/13 16:47" format="JJ/MM/AAAA">08/02/2013</recordindex>
+<uri>https://documentation.boad.org/dyn/portal/index.seam?page=alo&amp;aloId=16036</uri>
+<field id="TIT" order="1">Séminaire CEFEB </field>
+<field_path id="TIT" order="1">doc/Alo/P000000/16036/236935/CR du module 1 et 2 du séminaire Ressources humaine à.pdf</field_path>
+<field_pathLink id="TIT">jah6P0K-SukjP8nkarNKC4MbMiDEmO0U&#13;
+</field_pathLink>
+<field datetime="25/01/02 00:00" format="JJ/MM/AAAA" id="DRE">25/01/2002</field>
+<field id="LIEUARC">Marseille</field>
+</record>
+<record id="16052">
+<recordnature code="PRGR">PRODUCTION GRISE</recordnature>
+<recordtype code="SEM">Séminaire-Atelier-Forum</recordtype>
+<recordcreation datetime="08/02/13 17:15" format="JJ/MM/AAAA">08/02/2013</recordcreation>
+<recordupdate datetime="08/02/13 17:15" format="JJ/MM/AAAA">08/02/2013</recordupdate>
+<recordindex datetime="08/02/13 17:15" format="JJ/MM/AAAA">08/02/2013</recordindex>
+<uri>https://documentation.boad.org/dyn/portal/index.seam?page=alo&amp;aloId=16052</uri>
+<field id="TIT" order="1">Forum sur l'investissement dans lea filière coton</field>
+<field_path id="TIT" order="1">doc/Alo/P000000/16052/236998/CR de la participation de la BOAD à la 2e réunion sur la filiale coton textile dans l'UEMOA tenue du 06-0.PDF</field_path>
+<field_pathLink id="TIT">jah6P0K-SukjP8nkarNKCy9QFqN9Xykk&#13;
+</field_pathLink>
+<field_path id="TIT" order="1">doc/Alo/P000000/16052/236998/CR de la participation de la BOAD à la rencontre des 06 centres d'exellence et des centres de recherche e.PDF</field_path>
+<field_pathLink id="TIT">jah6P0K-SukjP8nkarNKC1avQ-tAS7HQ&#13;
+</field_pathLink>
+<field datetime="05/02/09 00:00" format="JJ/MM/AAAA" id="DRE">05/02/2009</field>
+<field id="LIEUARC">Ismir</field>
+</record>
+<record id="16059">
+<recordnature code="PRGR">PRODUCTION GRISE</recordnature>
+<recordtype code="SEM">Séminaire-Atelier-Forum</recordtype>
+<recordcreation datetime="08/02/13 17:25" format="JJ/MM/AAAA">08/02/2013</recordcreation>
+<recordupdate datetime="08/02/13 17:26" format="JJ/MM/AAAA">08/02/2013</recordupdate>
+<recordindex datetime="08/02/13 17:26" format="JJ/MM/AAAA">08/02/2013</recordindex>
+<uri>https://documentation.boad.org/dyn/portal/index.seam?page=alo&amp;aloId=16059</uri>
+<field id="TIT" order="1">Séminaire national sur les enjeux et les opportunités de la BRVM de l'UEMOA </field>
+<field_path id="TIT" order="1">doc/Alo/P000000/16059/237025/Rapport du gouverneur économique financière et économique des Etats de l'UEMOA.PDF</field_path>
+<field_pathLink id="TIT">jah6P0K-SukjP8nkarNKC9fjFqcjabTB&#13;
+</field_pathLink>
+<field datetime="08/08/97 00:00" format="JJ/MM/AAAA" id="DRE">08/08/1997</field>
+<field id="LIEUARC">Lomé</field>
+</record>
+<record id="16133">
+<recordnature code="PRGR">PRODUCTION GRISE</recordnature>
+<recordtype code="SEM">Séminaire-Atelier-Forum</recordtype>
+<recordcreation datetime="11/02/13 10:16" format="JJ/MM/AAAA">11/02/2013</recordcreation>
+<recordupdate datetime="11/02/13 10:16" format="JJ/MM/AAAA">11/02/2013</recordupdate>
+<recordindex datetime="11/02/13 10:16" format="JJ/MM/AAAA">11/02/2013</recordindex>
+<uri>https://documentation.boad.org/dyn/portal/index.seam?page=alo&amp;aloId=16133</uri>
+<field id="TIT" order="1">Réunion de concertation sur la filière du coton dans l'UEMOA</field>
+<field_path id="TIT" order="1">doc/Alo/P000000/16133/237319/Rapport du symposium (19-20 juil 2001 à Cotonou) sur la disparition au renaissance de la filière oléagineuse dans l'espace UEMOA.pdf</field_path>
+<field_pathLink id="TIT">jah6P0K-SukjP8nkarNKCyRB8oyj0jxK&#13;
+</field_pathLink>
+<field datetime="20/07/01 00:00" format="JJ/MM/AAAA" id="DRE">20/07/2001</field>
+<field id="LIEUARC">Cotonou</field>
+</record>
+<record id="16137">
+<recordnature code="PRGR">PRODUCTION GRISE</recordnature>
+<recordtype code="SEM">Séminaire-Atelier-Forum</recordtype>
+<recordcreation datetime="11/02/13 10:20" format="JJ/MM/AAAA">11/02/2013</recordcreation>
+<recordupdate datetime="11/02/13 10:20" format="JJ/MM/AAAA">11/02/2013</recordupdate>
+<recordindex datetime="11/02/13 10:20" format="JJ/MM/AAAA">11/02/2013</recordindex>
+<uri>https://documentation.boad.org/dyn/portal/index.seam?page=alo&amp;aloId=16137</uri>
+<field id="TIT" order="1">Dossier CIFI</field>
+<field_path id="TIT" order="1">doc/Alo/P000000/16137/237332/Rapport de mission de participation au salon.pdf</field_path>
+<field_pathLink id="TIT">jah6P0K-SukjP8nkarNKC4NO3MtcGCh6&#13;
+</field_pathLink>
+<field datetime="14/04/05 00:00" format="JJ/MM/AAAA" id="DRE">14/04/2005</field>
+<field id="LIEUARC">Cotonou</field>
+</record>
+<record id="16150">
+<recordnature code="PRGR">PRODUCTION GRISE</recordnature>
+<recordtype code="SEM">Séminaire-Atelier-Forum</recordtype>
+<recordcreation datetime="11/02/13 10:33" format="JJ/MM/AAAA">11/02/2013</recordcreation>
+<recordupdate datetime="11/02/13 10:34" format="JJ/MM/AAAA">11/02/2013</recordupdate>
+<recordindex datetime="11/02/13 10:34" format="JJ/MM/AAAA">11/02/2013</recordindex>
+<uri>https://documentation.boad.org/dyn/portal/index.seam?page=alo&amp;aloId=16150</uri>
+<field id="TIT" order="1">Symposium organisé à l'occasion du vingtième anniversaire de la BOAD</field>
+<field_path id="TIT" order="1">doc/Alo/P000000/16150/237383/Rapport général (vol1).pdf</field_path>
+<field_pathLink id="TIT">jah6P0K-SukjP8nkarNKC_FIJcA_my5Z&#13;
+</field_pathLink>
+<field_path id="TIT" order="1">doc/Alo/P000000/16150/237383/Annexes  (vol2).pdf</field_path>
+<field_pathLink id="TIT">jah6P0K-SukjP8nkarNKC_jvFSzglVfk&#13;
+</field_pathLink>
+<field datetime="16/11/93 00:00" format="JJ/MM/AAAA" id="DRE">16/11/1993</field>
+<field id="LIEUARC">Ouagadougou</field>
+</record>
+<record id="16154">
+<recordnature code="PRGR">PRODUCTION GRISE</recordnature>
+<recordtype code="SEM">Séminaire-Atelier-Forum</recordtype>
+<recordcreation datetime="11/02/13 10:37" format="JJ/MM/AAAA">11/02/2013</recordcreation>
+<recordupdate datetime="11/02/13 10:37" format="JJ/MM/AAAA">11/02/2013</recordupdate>
+<recordindex datetime="11/02/13 10:37" format="JJ/MM/AAAA">11/02/2013</recordindex>
+<uri>https://documentation.boad.org/dyn/portal/index.seam?page=alo&amp;aloId=16154</uri>
+<field id="TIT" order="1">Colloque national sur la reforme du secteur des postes et Télécoms</field>
+<field_path id="TIT" order="1">doc/Alo/P000000/16154/237398/CR du Collection National sur la reforme des poste.pdf</field_path>
+<field_pathLink id="TIT">jah6P0K-SukjP8nkarNKC-EVWaiqQVYs&#13;
+</field_pathLink>
+<field datetime="30/11/95 00:00" format="JJ/MM/AAAA" id="DRE">30/11/1995</field>
+<field id="LIEUARC">Lomé</field>
+</record>
+<record id="16156">
+<recordnature code="PRGR">PRODUCTION GRISE</recordnature>
+<recordtype code="SEM">Séminaire-Atelier-Forum</recordtype>
+<recordcreation datetime="11/02/13 10:40" format="JJ/MM/AAAA">11/02/2013</recordcreation>
+<recordupdate datetime="11/02/13 10:54" format="JJ/MM/AAAA">11/02/2013</recordupdate>
+<recordindex datetime="11/02/13 10:40" format="JJ/MM/AAAA">11/02/2013</recordindex>
+<uri>https://documentation.boad.org/dyn/portal/index.seam?page=alo&amp;aloId=16156</uri>
+<field id="TIT" order="1">Réunion du comité des experts statutaires Ouagadougou</field>
+<field_path id="TIT" order="1">doc/Alo/P000000/16156/237405/Réunion du comité des experts statutataire.pdf</field_path>
+<field_pathLink id="TIT">jah6P0K-SukjP8nkarNKC-gFTtEJ62Z8&#13;
+</field_pathLink>
+<field datetime="04/12/09 00:00" format="JJ/MM/AAAA" id="DRE">04/12/2009</field>
+<field id="LIEUARC">Ouagadougou</field>
+</record>
+<record id="16158">
+<recordnature code="PRGR">PRODUCTION GRISE</recordnature>
+<recordtype code="SEM">Séminaire-Atelier-Forum</recordtype>
+<recordcreation datetime="11/02/13 10:44" format="JJ/MM/AAAA">11/02/2013</recordcreation>
+<recordupdate datetime="11/02/13 10:45" format="JJ/MM/AAAA">11/02/2013</recordupdate>
+<recordindex datetime="11/02/13 10:45" format="JJ/MM/AAAA">11/02/2013</recordindex>
+<uri>https://documentation.boad.org/dyn/portal/index.seam?page=alo&amp;aloId=16158</uri>
+<field id="TIT" order="1">Réunion technique avec les CNPE sur les dossier de la surveillance multilatérale</field>
+<field_path id="TIT" order="1">doc/Alo/P000000/16158/237412/Rapport final Bamako.pdf</field_path>
+<field_pathLink id="TIT">jah6P0K-SukjP8nkarNKC9woKexAATd8&#13;
+</field_pathLink>
+<field_path id="TIT" order="1">doc/Alo/P000000/16158/237412/Rapport final Ouaga.pdf</field_path>
+<field_pathLink id="TIT">jah6P0K-SukjP8nkarNKC33lGk_pi4LA&#13;
+</field_pathLink>
+<field datetime="18/09/09 00:00" format="JJ/MM/AAAA" id="DRE">18/09/2009</field>
+<field id="LIEUARC">Bamako/Ouagadougou</field>
+</record>
+<record id="16161">
+<recordnature code="PRGR">PRODUCTION GRISE</recordnature>
+<recordtype code="SEM">Séminaire-Atelier-Forum</recordtype>
+<recordcreation datetime="11/02/13 10:47" format="JJ/MM/AAAA">11/02/2013</recordcreation>
+<recordupdate datetime="11/02/13 10:47" format="JJ/MM/AAAA">11/02/2013</recordupdate>
+<recordindex datetime="11/02/13 10:47" format="JJ/MM/AAAA">11/02/2013</recordindex>
+<uri>https://documentation.boad.org/dyn/portal/index.seam?page=alo&amp;aloId=16161</uri>
+<field id="TIT" order="1">Réunion technique avec CNPE sur la surveillance multilatérale</field>
+<field_path id="TIT" order="1">doc/Alo/P000000/16161/237423/Rapport final A7.pdf</field_path>
+<field_pathLink id="TIT">jah6P0K-SukjP8nkarNKC5_nqsogNn66&#13;
+</field_pathLink>
+<field datetime="31/07/08 00:00" format="JJ/MM/AAAA" id="DRE">31/07/2008</field>
+<field id="LIEUARC">Cotonou</field>
+</record>
+<record id="16163">
+<recordnature code="PRGR">PRODUCTION GRISE</recordnature>
+<recordtype code="SEM">Séminaire-Atelier-Forum</recordtype>
+<recordcreation datetime="11/02/13 10:48" format="JJ/MM/AAAA">11/02/2013</recordcreation>
+<recordupdate datetime="11/02/13 10:51" format="JJ/MM/AAAA">11/02/2013</recordupdate>
+<recordindex datetime="11/02/13 10:51" format="JJ/MM/AAAA">11/02/2013</recordindex>
+<uri>https://documentation.boad.org/dyn/portal/index.seam?page=alo&amp;aloId=16163</uri>
+<field id="TIT" order="1">Réunion des experts de l'AIRFD</field>
+<field_path id="TIT" order="1">doc/Alo/P000000/16163/237434/CR de la réunion des experts de l'AIRFD.pdf</field_path>
+<field_pathLink id="TIT">jah6P0K-SukjP8nkarNKC3Ha2dPpmkA2&#13;
+</field_pathLink>
+<field_path id="TIT" order="1">doc/Alo/P000000/16163/237434/Rapport a-s à la mission de participation à la réunion du comité des expert de l'AIRFD.pdf</field_path>
+<field_pathLink id="TIT">jah6P0K-SukjP8nkarNKC7VvaaeyfG42&#13;
+</field_pathLink>
+<field_path id="TIT" order="1">doc/Alo/P000000/16163/237434/Correspondances arrivée 2005.pdf</field_path>
+<field_pathLink id="TIT">jah6P0K-SukjP8nkarNKC07ISmDOsohW&#13;
+</field_pathLink>
+<field_path id="TIT" order="1">doc/Alo/P000000/16163/237434/Correspondances départ 2006-2007.pdf</field_path>
+<field_pathLink id="TIT">jah6P0K-SukjP8nkarNKC_WO9dsHws-g&#13;
+</field_pathLink>
+<field datetime="04/05/06 00:00" format="JJ/MM/AAAA" id="DRE">04/05/2006</field>
+<field id="LIEUARC">Cotonou</field>
+</record>
+<record id="16167">
+<recordnature code="PRGR">PRODUCTION GRISE</recordnature>
+<recordtype code="SEM">Séminaire-Atelier-Forum</recordtype>
+<recordcreation datetime="11/02/13 10:57" format="JJ/MM/AAAA">11/02/2013</recordcreation>
+<recordupdate datetime="11/02/13 10:57" format="JJ/MM/AAAA">11/02/2013</recordupdate>
+<recordindex datetime="11/02/13 10:57" format="JJ/MM/AAAA">11/02/2013</recordindex>
+<uri>https://documentation.boad.org/dyn/portal/index.seam?page=alo&amp;aloId=16167</uri>
+<field id="TIT" order="1">Réunion de la zone franc</field>
+<field_path id="TIT" order="1">doc/Alo/P000000/16167/237445/Rapport des experts comité de liaison anti-blanchiment de la zone franc et proposition de résolution.pdf</field_path>
+<field_pathLink id="TIT">jah6P0K-SukjP8nkarNKCwxs6CTat4Bz&#13;
+</field_pathLink>
+<field datetime="24/09/02 00:00" format="JJ/MM/AAAA" id="DRE">24/09/2002</field>
+<field id="LIEUARC">Paris</field>
+</record>
+<record id="16169">
+<recordnature code="PRGR">PRODUCTION GRISE</recordnature>
+<recordtype code="SEM">Séminaire-Atelier-Forum</recordtype>
+<recordcreation datetime="11/02/13 10:59" format="JJ/MM/AAAA">11/02/2013</recordcreation>
+<recordupdate datetime="11/02/13 11:00" format="JJ/MM/AAAA">11/02/2013</recordupdate>
+<recordindex datetime="11/02/13 11:00" format="JJ/MM/AAAA">11/02/2013</recordindex>
+<uri>https://documentation.boad.org/dyn/portal/index.seam?page=alo&amp;aloId=16169</uri>
+<field id="TIT" order="1"> Dossier table ronde régionale des bailleurs de fonds sur les infrastructures et le transport routiers des Etats membres de l'UEMOA</field>
+<field_path id="TIT" order="1">doc/Alo/P000000/16169/237452/CR de la réunion a-.pdf</field_path>
+<field_pathLink id="TIT">jah6P0K-SukjP8nkarNKCxdK-R7g7KmI&#13;
+</field_pathLink>
+<field_path id="TIT" order="1">doc/Alo/P000000/16169/237452/CR des missions de sensibilisation A7.pdf</field_path>
+<field_pathLink id="TIT">jah6P0K-SukjP8nkarNKCyPRa4AJP-ZB&#13;
+</field_pathLink>
+<field_path id="TIT" order="1">doc/Alo/P000000/16169/237452/Rapport des missions de sensubilisation A8.pdf</field_path>
+<field_pathLink id="TIT">jah6P0K-SukjP8nkarNKC-Ob7TBH3__p&#13;
+</field_pathLink>
+<field_path id="TIT" order="1">doc/Alo/P000000/16169/237452/Synthèse des débats A6.pdf</field_path>
+<field_pathLink id="TIT">jah6P0K-SukjP8nkarNKC6hE-YlHUDBj&#13;
+</field_pathLink>
+<field datetime="21/03/02 00:00" format="JJ/MM/AAAA" id="DRE">21/03/2002</field>
+<field id="LIEUARC">Lomé</field>
+</record>
+<record id="16174">
+<recordnature code="PRGR">PRODUCTION GRISE</recordnature>
+<recordtype code="SEM">Séminaire-Atelier-Forum</recordtype>
+<recordcreation datetime="11/02/13 11:06" format="JJ/MM/AAAA">11/02/2013</recordcreation>
+<recordupdate datetime="11/02/13 11:06" format="JJ/MM/AAAA">11/02/2013</recordupdate>
+<recordindex datetime="11/02/13 11:06" format="JJ/MM/AAAA">11/02/2013</recordindex>
+<uri>https://documentation.boad.org/dyn/portal/index.seam?page=alo&amp;aloId=16174</uri>
+<field id="TIT" order="1">Réunion régionale des conseillers du commerce extérieur CCE</field>
+<field_path id="TIT" order="1">doc/Alo/P000000/16174/237471/Rapport de synthèse des travaux de l'atelier régional sur le bilan des processus de privatisation.pdf</field_path>
+<field_pathLink id="TIT">jah6P0K-SukjP8nkarNKC7VO769WOIHF&#13;
+</field_pathLink>
+<field datetime="01/06/02 00:00" format="JJ/MM/AAAA" id="DRE">01/06/2002</field>
+<field id="LIEUARC">Cotonou</field>
+</record>
+<record id="16178">
+<recordnature code="PRGR">PRODUCTION GRISE</recordnature>
+<recordtype code="SEM">Séminaire-Atelier-Forum</recordtype>
+<recordcreation datetime="11/02/13 11:08" format="JJ/MM/AAAA">11/02/2013</recordcreation>
+<recordupdate datetime="11/02/13 11:10" format="JJ/MM/AAAA">11/02/2013</recordupdate>
+<recordindex datetime="11/02/13 11:10" format="JJ/MM/AAAA">11/02/2013</recordindex>
+<uri>https://documentation.boad.org/dyn/portal/index.seam?page=alo&amp;aloId=16178</uri>
+<field id="TIT" order="1">Réunion ministérielle  Relations ACP-UE</field>
+<field_path id="TIT" order="1">doc/Alo/P000000/16178/237486/CR de participation de la BOAD à la réunion ministérielle africaine sur les perspectives du futur partenariat ACP-UE tenue à lomé 07 et 08-10-1997.pdf</field_path>
+<field_pathLink id="TIT">jah6P0K-SukjP8nkarNKCwspJTPB7wMt&#13;
+</field_pathLink>
+<field_path id="TIT" order="1">doc/Alo/P000000/16178/237486/Rapport de la réunion des experts Africains sur l'avenir des a-s entre les pays ACP et ceux de l'UE.pdf</field_path>
+<field_pathLink id="TIT">jah6P0K-SukjP8nkarNKCwncnnHxVHrj&#13;
+</field_pathLink>
+<field_path id="TIT" order="1">doc/Alo/P000000/16178/237486/Rapport de mission de participation à l'atelier régional sur le thème l'Afrique de l'Ouest et les futurs de la convention de lomé[0].pdf</field_path>
+<field_pathLink id="TIT">jah6P0K-SukjP8nkarNKC_RZg3jV3vT8&#13;
+</field_pathLink>
+<field_path id="TIT" order="1">doc/Alo/P000000/16178/237486/Rapport final de réunion du comité rechnique des Ambassadeurs et des experts de haut niveau .pdf</field_path>
+<field_pathLink id="TIT">jah6P0K-SukjP8nkarNKC9qnu3EzGsSF&#13;
+</field_pathLink>
+<field_path id="TIT" order="1">doc/Alo/P000000/16178/237486/Résumé des conclusion de la concertation régionale des pays d'afrique centrale sur l'avenir des a-s ACP-UE au-delà de l'an 2000.pdf</field_path>
+<field_pathLink id="TIT">jah6P0K-SukjP8nkarNKC70LQ073Mh_J&#13;
+</field_pathLink>
+<field datetime="20/10/97 00:00" format="JJ/MM/AAAA" id="DRE">20/10/1997</field>
+<field id="LIEUARC">Lomé</field>
+</record>
+<record id="17333">
+<recordnature code="PRGR">PRODUCTION GRISE</recordnature>
+<recordtype code="SEM">Séminaire-Atelier-Forum</recordtype>
+<recordcreation datetime="05/04/13 09:48" format="JJ/MM/AAAA">05/04/2013</recordcreation>
+<recordupdate datetime="05/04/13 10:12" format="JJ/MM/AAAA">05/04/2013</recordupdate>
+<recordindex datetime="05/04/13 10:12" format="JJ/MM/AAAA">05/04/2013</recordindex>
+<uri>https://documentation.boad.org/dyn/portal/index.seam?page=alo&amp;aloId=17333</uri>
+<field id="TIT" order="1">Finance islamique:concepts, enjeux et réalités en zone UEMOA</field>
+<field_path id="TIT" order="1">doc/Alo/P000000/17333/244351/Présentation Finance Islamique.pptx</field_path>
+<field_pathLink id="TIT">jah6P0K-SukjP8nkarNKC6oTkF5a-Myg&#13;
+</field_pathLink>
+<field datetime="04/04/13 00:00" format="JJ/MM/AAAA" id="DRE">04/04/2013</field>
+<field id="LIEUARC">Salle de conférence de la BOAD</field>
+<field id="MOTC" order="1">Finance islamique</field>
+<field id="MOTC" order="2">UEMOA</field>
+<field id="NAPG">Causerie-débats (savoir en partage)</field>
+<field id="Pro">OUSMANE SOW, Directeur de la Direction des Engagements et des Risques</field>
+</record>
+<record id="17334">
+<recordnature code="PRGR">PRODUCTION GRISE</recordnature>
+<recordtype code="SEM">Séminaire-Atelier-Forum</recordtype>
+<recordcreation datetime="05/04/13 09:51" format="JJ/MM/AAAA">05/04/2013</recordcreation>
+<recordupdate datetime="05/04/13 10:15" format="JJ/MM/AAAA">05/04/2013</recordupdate>
+<recordindex datetime="05/04/13 10:15" format="JJ/MM/AAAA">05/04/2013</recordindex>
+<uri>https://documentation.boad.org/dyn/portal/index.seam?page=alo&amp;aloId=17334</uri>
+<field id="TIT" order="1">Finance islamique : concepts,enjeux et réalités en zone UEMOA</field>
+<field_path id="TIT" order="1">doc/Alo/P000000/17334/244357/Présentation Finance Islamique.pptx</field_path>
+<field_pathLink id="TIT">jah6P0K-SukjP8nkarNKC86o6AH_Yrn7&#13;
+</field_pathLink>
+<field datetime="04/04/13 00:00" format="JJ/MM/AAAA" id="DRE">04/04/2013</field>
+<field id="LIEUARC">Salle de conférence BOAD</field>
+<field id="MOTC" order="1">Finance islamique</field>
+<field id="MOTC" order="2">UEMOA</field>
+<field id="NAPG">Causerie-débats (savoir en partage)</field>
+<field id="Pro">Ousmane SOW, Directeur des Engagements et des Risques à la BOAD</field>
+</record>
+<record id="17335">
+<recordnature code="PRGR">PRODUCTION GRISE</recordnature>
+<recordtype code="SEM">Séminaire-Atelier-Forum</recordtype>
+<recordcreation datetime="05/04/13 10:24" format="JJ/MM/AAAA">05/04/2013</recordcreation>
+<recordupdate datetime="05/04/13 10:25" format="JJ/MM/AAAA">05/04/2013</recordupdate>
+<recordindex datetime="05/04/13 10:25" format="JJ/MM/AAAA">05/04/2013</recordindex>
+<uri>https://documentation.boad.org/dyn/portal/index.seam?page=alo&amp;aloId=17335</uri>
+<field id="TIT" order="1">Finance islamique : concepts,enjeux et réalités en zone UEMOA</field>
+<field_path id="TIT" order="1">doc/Alo/P000000/17335/244365/Présentation Finance Islamique.pdf</field_path>
+<field_pathLink id="TIT">jah6P0K-SukjP8nkarNKC9F81YHHlE2E&#13;
+</field_pathLink>
+<field datetime="04/04/13 00:00" format="JJ/MM/AAAA" id="DRE">04/04/2013</field>
+<field id="LIEUARC">Salle de conférence BOAD</field>
+<field id="MOTC" order="1">Finance islamique</field>
+<field id="MOTC" order="2">UEMOA</field>
+<field id="NAPG">Causerie-débats (savoir en partage)</field>
+<field id="Pro">Ousmane SOW, Directeur des Engagements et des Risques à la BOAD</field>
+</record>
+<record id="17336">
+<recordnature code="PRGR">PRODUCTION GRISE</recordnature>
+<recordtype code="SEM">Séminaire-Atelier-Forum</recordtype>
+<recordcreation datetime="05/04/13 16:49" format="JJ/MM/AAAA">05/04/2013</recordcreation>
+<recordupdate datetime="06/04/13 11:19" format="JJ/MM/AAAA">06/04/2013</recordupdate>
+<recordindex datetime="05/04/13 16:54" format="JJ/MM/AAAA">05/04/2013</recordindex>
+<uri>https://documentation.boad.org/dyn/portal/index.seam?page=alo&amp;aloId=17336</uri>
+<field id="TIT" order="1">Finance islamique : concepts,enjeux et réalités en zone UEMOA</field>
+<field_path id="TIT" order="1">doc/Alo/P000000/17336/244372/Présentation Finance Islamique.pdf</field_path>
+<field_pathLink id="TIT">jah6P0K-SukjP8nkarNKC7HPra816uZh&#13;
+</field_pathLink>
+<field datetime="04/04/13 00:00" format="JJ/MM/AAAA" id="DRE">04/04/2013</field>
+<field id="LIEUARC">Salle de conférence BOAD</field>
+<field id="MOTC" order="1">Finance islamique</field>
+<field id="MOTC" order="2">UEMOA</field>
+<field id="NAPG">Causerie-débats (savoir en partage)</field>
+<field id="Pro">Ousmane SOW, Directeur des Engagements et des Risques à la BOAD</field>
+</record>
+<record id="17338">
+<recordnature code="PRGR">PRODUCTION GRISE</recordnature>
+<recordtype code="SEM">Séminaire-Atelier-Forum</recordtype>
+<recordcreation datetime="06/04/13 11:21" format="JJ/MM/AAAA">06/04/2013</recordcreation>
+<recordupdate datetime="06/04/13 11:22" format="JJ/MM/AAAA">06/04/2013</recordupdate>
+<recordindex datetime="06/04/13 11:22" format="JJ/MM/AAAA">06/04/2013</recordindex>
+<uri>https://documentation.boad.org/dyn/portal/index.seam?page=alo&amp;aloId=17338</uri>
+<field id="TIT" order="1">Finance islamique : concepts,enjeux et réalités en zone UEMOA</field>
+<field_path id="TIT" order="1">doc/Alo/P000000/17338/244386/Présentation Finance Islamique.pdf</field_path>
+<field_pathLink id="TIT">jah6P0K-SukjP8nkarNKC5hIPHWvBiz5&#13;
+</field_pathLink>
+<field datetime="04/04/13 00:00" format="JJ/MM/AAAA" id="DRE">04/04/2013</field>
+<field id="LIEUARC">Salle de conférence BOAD</field>
+<field id="MOTC" order="1">Finance islamique</field>
+<field id="MOTC" order="2">UEMOA</field>
+<field id="NAPG">Causerie-débats (savoir en partage)</field>
+<field id="Pro">Ousmane SOW, Directeur des Engagements et des Risques à la BOAD</field>
+</record>
+<record id="17339">
+<recordnature code="PRGR">PRODUCTION GRISE</recordnature>
+<recordtype code="SEM">Séminaire-Atelier-Forum</recordtype>
+<recordcreation datetime="06/04/13 11:50" format="JJ/MM/AAAA">06/04/2013</recordcreation>
+<recordupdate datetime="06/04/13 11:51" format="JJ/MM/AAAA">06/04/2013</recordupdate>
+<recordindex datetime="06/04/13 11:51" format="JJ/MM/AAAA">06/04/2013</recordindex>
+<uri>https://documentation.boad.org/dyn/portal/index.seam?page=alo&amp;aloId=17339</uri>
+<field id="TIT" order="1">Finance islamique : concepts,enjeux et réalités en zone UEMOA</field>
+<field_path id="TIT" order="1">doc/Alo/P000000/17339/244393/Présentation Finance Islamique.pdf</field_path>
+<field_pathLink id="TIT">jah6P0K-SukjP8nkarNKCziBEBL6XAoc&#13;
+</field_pathLink>
+<field datetime="04/04/13 00:00" format="JJ/MM/AAAA" id="DRE">04/04/2013</field>
+<field id="LIEUARC">Salle de conférence BOAD</field>
+<field id="MOTC" order="1">Finance islamique</field>
+<field id="MOTC" order="2">UEMOA</field>
+<field id="NAPG">Causerie-débats (savoir en partage)</field>
+<field id="Pro">Ousmane SOW, Directeur des Engagements et des Risques à la BOAD</field>
+</record>
+<record id="17340">
+<recordnature code="PRGR">PRODUCTION GRISE</recordnature>
+<recordtype code="SEM">Séminaire-Atelier-Forum</recordtype>
+<recordcreation datetime="08/04/13 12:10" format="JJ/MM/AAAA">08/04/2013</recordcreation>
+<recordupdate datetime="08/04/13 12:11" format="JJ/MM/AAAA">08/04/2013</recordupdate>
+<recordindex datetime="08/04/13 12:11" format="JJ/MM/AAAA">08/04/2013</recordindex>
+<uri>https://documentation.boad.org/dyn/portal/index.seam?page=alo&amp;aloId=17340</uri>
+<field id="TIT" order="1">Finance islamique : concepts,enjeux et réalités en zone UEMOA</field>
+<field_path id="TIT" order="1">doc/Alo/P000000/17340/244400/Présentation Finance Islamique.pdf</field_path>
+<field_pathLink id="TIT">jah6P0K-SukjP8nkarNKC4Zgg7e6vGv9&#13;
+</field_pathLink>
+<field datetime="04/04/13 00:00" format="JJ/MM/AAAA" id="DRE">04/04/2013</field>
+<field id="LIEUARC">Salle de conférence BOAD</field>
+<field id="MOTC" order="1">Finance islamique</field>
+<field id="MOTC" order="2">UEMOA</field>
+<field id="NAPG">Causerie-débats (savoir en partage)</field>
+<field id="Pro">Ousmane SOW, Directeur des Engagements et des Risques à la BOAD</field>
+</record>
+<record id="17575">
+<recordnature code="PRGR">PRODUCTION GRISE</recordnature>
+<recordtype code="SEM">Séminaire-Atelier-Forum</recordtype>
+<recordcreation datetime="13/05/13 08:49" format="JJ/MM/AAAA">13/05/2013</recordcreation>
+<recordupdate datetime="13/05/13 08:49" format="JJ/MM/AAAA">13/05/2013</recordupdate>
+<recordindex datetime="13/05/13 08:49" format="JJ/MM/AAAA">13/05/2013</recordindex>
+<uri>https://documentation.boad.org/dyn/portal/index.seam?page=alo&amp;aloId=17575</uri>
+<field id="TIT" order="1">Conférence: Défis de l'intégration régionale au sein de la zone UEMOA : se féderer ou se déliter</field>
+<field_path id="TIT" order="1">doc/Alo/P000000/17575/247377/Présentation de M kako NUBUKPO_Les défis de l'intégration régionale au sein de l'UEMOA_se fédérer ou se déliter.pdf</field_path>
+<field_pathLink id="TIT">jah6P0K-SukjP8nkarNKCykg5OfuPbE7&#13;
+</field_pathLink>
+<field_path id="TIT" order="1">doc/Alo/P000000/17575/247377/La policy mix de la zone UEMOA  léçons d'hie, réflexions pou demain_Kako Nubukpo.pdf</field_path>
+<field_pathLink id="TIT">jah6P0K-SukjP8nkarNKC3CSbkyEieoF&#13;
+</field_pathLink>
+<field datetime="10/05/13 00:00" format="JJ/MM/AAAA" id="DRE">10/05/2013</field>
+<field id="LIEUARC">Salle de conférence, siège de la BOAD</field>
+<field id="MOTC" order="1">Intégration UEMOA</field>
+<field id="MOTC" order="2">Convergence des politiques économiques</field>
+<field id="MOTC" order="3">BCEAO</field>
+<field id="MOTC" order="4">BOAD</field>
+<field id="MOTC" order="5">Commission de l'UEMOA</field>
+<field id="NAPG">Conférence</field>
+<field id="Pro">Kako NUBUKPO</field>
+</record>
+<record id="17582">
+<recordnature code="PRGR">PRODUCTION GRISE</recordnature>
+<recordtype code="SEM">Séminaire-Atelier-Forum</recordtype>
+<recordcreation datetime="15/05/13 09:56" format="JJ/MM/AAAA">15/05/2013</recordcreation>
+<recordupdate datetime="15/05/13 09:59" format="JJ/MM/AAAA">15/05/2013</recordupdate>
+<recordindex datetime="15/05/13 09:59" format="JJ/MM/AAAA">15/05/2013</recordindex>
+<uri>https://documentation.boad.org/dyn/portal/index.seam?page=alo&amp;aloId=17582</uri>
+<field id="TIT" order="1">Conférence: Défis de l'intégration régionale au sein de la zone UEMOA : se féderer ou se déliter</field>
+<field_path id="TIT" order="1">doc/Alo/P000000/17582/247434/Présentation de M kako NUBUKPO_Les défis de l'intégration régionale au sein de l'UEMOA_se fédérer ou se déliter.pdf</field_path>
+<field_pathLink id="TIT">jah6P0K-SukjP8nkarNKC3VxY7nglzCH&#13;
+</field_pathLink>
+<field_path id="TIT" order="1">doc/Alo/P000000/17582/247434/La policy mix de la zone UEMOA  léçons d'hie, réflexions pou demain_Kako Nubukpo[1].pdf</field_path>
+<field_pathLink id="TIT">jah6P0K-SukjP8nkarNKC94a7j8kvYpX&#13;
+</field_pathLink>
+<field datetime="10/05/13 00:00" format="JJ/MM/AAAA" id="DRE">10/05/2013</field>
+<field id="LIEUARC">Salle de conférence, siège de la BOAD</field>
+<field id="MOTC" order="1">Intégration UEMOA</field>
+<field id="MOTC" order="2">Commission de l'UEMOA</field>
+<field id="MOTC" order="3">BOAD</field>
+<field id="MOTC" order="4">BCEAO</field>
+<field id="MOTC" order="5">Convergence des politiques économiques</field>
+<field id="NAPG">Conférence</field>
+<field id="Pro">Kako NUBUKPO</field>
+</record>
+<record id="20324">
+<recordnature code="PRGR">PRODUCTION GRISE</recordnature>
+<recordtype code="SEM">Séminaire-Atelier-Forum</recordtype>
+<recordcreation datetime="20/10/16 09:40" format="JJ/MM/AAAA">20/10/2016</recordcreation>
+<recordupdate datetime="20/10/16 09:40" format="JJ/MM/AAAA">20/10/2016</recordupdate>
+<recordindex datetime="20/10/16 09:40" format="JJ/MM/AAAA">20/10/2016</recordindex>
+<uri>https://documentation.boad.org/dyn/portal/index.seam?page=alo&amp;aloId=20324</uri>
+<field id="TIT" order="1">Séminaire de restitution de l'étude sur les instruments de garantie et le marché des garanties bancaires dans l'UEMOA</field>
+<field_path id="TIT" order="1">doc/Alo/P000001/20324/275341/Seminaire instruments garanties bancaires UEMOA.pdf</field_path>
+<field_pathLink id="TIT">jah6P0K-SukjP8nkarNKC-aA28JpzTxJ&#13;
+</field_pathLink>
+<field datetime="31/05/11 00:00" format="JJ/MM/AAAA" id="DRE">31/05/2011</field>
+<field id="LIEUARC">Lomé</field>
+<field id="MOTC" order="1">Marché de garanties</field>
+<field id="MOTC" order="2">garanties bancaires</field>
+<field id="MOTC" order="3">Mécanisme de garantie</field>
+<field id="NAPG">Séminaire</field>
+<field id="Pro">BOAD ; AFD</field>
+</record>
+</records>
+</Alexandrie>

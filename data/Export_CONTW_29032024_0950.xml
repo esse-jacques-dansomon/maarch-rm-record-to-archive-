@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Alexandrie version="7.0">
+<fieldset>
+<fielddef code="TIT">
+<label>Titre</label>
+<type>S</type>
+</fielddef>
+<fielddef code="INTRO">
+<label>Introduction</label>
+<type>W</type>
+</fielddef>
+<fielddef code="FULL">
+<label>Texte complet</label>
+<type>W</type>
+</fielddef>
+</fieldset>
+<records total="3">
+<record id="18499">
+<recordnature code="CON">CONTENU WEB</recordnature>
+<recordtype code="CONTW">Artcile du portail</recordtype>
+<recordcreation datetime="21/07/14 15:24" format="JJ/MM/AAAA">21/07/2014</recordcreation>
+<recordupdate datetime="24/07/14 14:26" format="JJ/MM/AAAA">24/07/2014</recordupdate>
+<recordindex datetime="21/07/14 15:24" format="JJ/MM/AAAA">21/07/2014</recordindex>
+<uri>https://documentation.boad.org/dyn/portal/index.seam?page=alo&amp;aloId=18499</uri>
+<field id="TIT" order="1">La BOAD fête ses quarante ans</field>
+<field id="INTRO"><![CDATA[<p><span style="font-size: small;"><strong>14 novembre 1973 - 14 novembre 2013,&nbsp; la BOAD c&eacute;l&egrave;bre ses quarante ans au service du d&eacute;veloppement des Etats de l'UEMOA.</strong></span></p>
+<p>&nbsp;</p>
+<p style="text-align: center;"><span style="font-size: small;"><strong><img title="La BOAD a 40 ans" src="http://economie.jeuneafrique.com/images/stories/Finance/Banques/BOAD_DR.jpg" alt="La BOAD envisage de sortir sur les march&eacute;s financiers internationaux. &copy; DR" width="350" height="200" /><br /></strong></span></p>]]></field>
+<field id="FULL"><![CDATA[<div style="text-align: justify;">
+<p><span>Fond&eacute;e  en novembre 1973, la Banque ouest-africaine de d&eacute;veloppement (BOAD)  f&ecirc;te &agrave; Lom&eacute; son 40e anniversaire, en pr&eacute;sence&nbsp;de plusieurs chefs d'&Eacute;tat  et de nombreux invit&eacute;s. Elle entend &eacute;galement repenser sa strat&eacute;gie,  notamment en termes de ressources financi&egrave;res.</span></p>
+<p><span>La Banque ouest-afric</span><span>aine  de d&eacute;veloppement (BOAD) a d&eacute;marr&eacute; mercredi 13 novembre, dans l&rsquo;enceinte  de la Pr&eacute;sidence de la R&eacute;publique &agrave; Lom&eacute;, les festivit&eacute;s de son 40&egrave;me  anniversaire, en pr&eacute;sence&nbsp;des Chefs d&rsquo;Etat du Togo (Faure Gnasingb&eacute;), du  Mali (Ibrahim Boubacar Keita), du Niger (Mahamadou Issoufou) et du  B&eacute;nin (Thomas Yayi Boni), &eacute;galement Pr&eacute;sident en exercice de la  Conf&eacute;rence des Chefs d&rsquo;Etats de l&rsquo;UEMOA. La c&eacute;r&eacute;monie a toutefois &eacute;t&eacute;  marqu&eacute;e par l&rsquo;absence de Macky Sall (S&eacute;n&eacute;gal), Alassane Ouattara (C&ocirc;te  d&rsquo;Ivoire), Blaise Compaor&eacute; (Burkina Faso) et de&nbsp;</span>Serifo Nhamadjo  (Guin&eacute;e Bissau). Les festivit&eacute;s, en grandes pompes,&nbsp;n&rsquo;ont &nbsp;pas &eacute;t&eacute;  entach&eacute;es.&nbsp;Un&nbsp;colloque international s'est ouvert sur le th&egrave;me : &laquo;  Banques sous r&eacute;gionales de d&eacute;veloppement&nbsp;: nouveaux enjeux, nouveaux  d&eacute;fis&nbsp;&raquo;.</p>
+<p><strong>700 projets</strong></p>
+<p>Lanc&eacute;e  en novembre 1973 par les Etats de l&rsquo;Afrique de l&rsquo;Ouest membres de la  Banque de Centrale des Etats de l&rsquo;Afrique de l&rsquo;Ouest (BCEAO), la BOAD a  r&eacute;ussi &agrave; mobiliser des financements estim&eacute;s &agrave; 2800 milliards de FCFA  (4,3 milliards d'euros). Ceux-ci ont servi &agrave; environ 700 projets dans la  sous r&eacute;gion, prioritairement dans les domaines non marchands. La BOAD a  d&eacute;cid&eacute; de consacrer 70% de ses investissements en faveur des Etats et  30% en direction du secteur priv&eacute;.</p>
+<p>Face &agrave; ce bilan un peu maigre,  la banque voudrait franchir un autre palier, afin de jouer pleinement un  r&ocirc;le moteur dans l&rsquo;&eacute;mergence &eacute;conomique des pays de la zone au cours  des vingt prochaines ann&eacute;es. Consciente de sa faiblesse en termes de  ressources financi&egrave;res, la BOAD pourrait s&rsquo;orienter vers les march&eacute;s  internationaux de capitaux, m&ecirc;me si celui de la sous-r&eacute;gion lui a permis  de mobiliser de plus de 500 milliards de FCFA jusqu'&agrave; pr&eacute;sent. &laquo; La  BOAD a de fortes contraintes de financements. Notre objectif en 2014,  sera de se faire noter par une agence de notation financi&egrave;re pour  pouvoir acc&eacute;der aux financements internationaux&nbsp;&raquo;, reconnait Christian  Adov&egrave;lande, pr&eacute;sident de la BOAD. Une autre option est d&rsquo;ouvrir le  capital de la banque &agrave; la fois aux Etats asiatiques et africains  (Afrique du Sud ou Angola) ou &agrave; des repr&eacute;sentants des secteurs priv&eacute;s  africains, asiatiques et occidentaux.</p>
+<p>Pour Thomas Yayi Boni, la  BOAD doit s&rsquo;inspirer des gros instruments de d&eacute;veloppement comme le  Fonds asiatique de d&eacute;veloppement ou de du Fonds africain de  d&eacute;veloppement (FAD) de la Banque africaine de d&eacute;veloppement (BAD) pour  pouvoir disposer de ressources financi&egrave;res innovantes. &laquo; Il faut  projeter la cr&eacute;ation d&rsquo;un fonds ouest africain&nbsp;&nbsp;de d&eacute;veloppement qui  pourrait capter des financements venus de fonds souverains et une partie  de l&rsquo;aide au d&eacute;veloppement non utilis&eacute;e, pour faire de la BOAD un vrai  instrument de d&eacute;veloppement&nbsp;&raquo;. En attendant, l'institution poursuit ses  r&eacute;flexions strat&eacute;giques jusqu&rsquo;au 14 novembre.</p>
+<p>&nbsp;</p>
+<p><a href="http://economie.jeuneafrique.com/regions/afrique-subsaharienne/20566-la-boad-celebre-ses-40-ans.html" target="_blank">Source : Jeune Afrique</a></p>
+</div>]]></field>
+</record>
+<record id="18516">
+<recordnature code="CON">CONTENU WEB</recordnature>
+<recordtype code="CONTW">Artcile du portail</recordtype>
+<recordcreation datetime="23/07/14 10:23" format="JJ/MM/AAAA">23/07/2014</recordcreation>
+<recordupdate datetime="23/07/14 11:07" format="JJ/MM/AAAA">23/07/2014</recordupdate>
+<recordindex datetime="23/07/14 10:23" format="JJ/MM/AAAA">23/07/2014</recordindex>
+<uri>https://documentation.boad.org/dyn/portal/index.seam?page=alo&amp;aloId=18516</uri>
+<field id="TIT" order="1">Edito Knowledge News</field>
+<field_path id="TIT" order="1">doc/Alo/P000000/18516/256852/BOAD.jpg</field_path>
+<field_pathLink id="TIT">jah6P0K-SulUR6SK8rXKRzMD4CSxvG-l&#13;
+</field_pathLink>
+<field id="INTRO"><![CDATA[<p style="text-align: center;"><img src="http://www.afd.fr/webdav/site/afd/shared/PORTAILS/PAYS/TOGO/Images/Secteur%20prive/Banque/copie-BOAD-2.jpg" alt="BOAD" width="343" height="257" /></p>]]></field>
+</record>
+<record id="18537">
+<recordnature code="CON">CONTENU WEB</recordnature>
+<recordtype code="CONTW">Artcile du portail</recordtype>
+<recordcreation datetime="24/07/14 16:18" format="JJ/MM/AAAA">24/07/2014</recordcreation>
+<recordupdate datetime="19/10/16 17:34" format="JJ/MM/AAAA">19/10/2016</recordupdate>
+<recordindex datetime="19/10/16 17:17" format="JJ/MM/AAAA">19/10/2016</recordindex>
+<uri>https://documentation.boad.org/dyn/portal/index.seam?page=alo&amp;aloId=18537</uri>
+<field id="TIT" order="1">            </field>
+<field id="INTRO"><![CDATA[<p style="text-align: center;"><span style="color: #800000;"><strong><span style="font-size: small;"><strong><span style="font-size: medium;">BIENVENUE SUR LE PORTAIL DOCUMENTAIRE DE LA BOAD</span></strong></span></strong></span></p>
+<p style="text-align: center;">&nbsp;</p>
+<p><span style="color: #000080;"><span style="font-size: medium;"><span style="color: #000080;"><span style="font-family: &quot;comic sans ms&quot;, sans-serif;">Ce portail vous permet d&rsquo;acc&eacute;der aux fonds documentaire et d&rsquo;archives de la Banque.</span></span></span></span></p>
+<p style="text-align: justify;"><span style="font-size: small;"><span style="color: #000000;"><span style="font-size: medium;"><span style="color: #000080;"><span style="font-size: medium;"><span style="font-size: medium;"><span style="color: #003366;"><span style="color: #000000;"><span style="color: #000080;"><span style="font-size: small;"><span style="color: #000080;"><span style="font-size: medium;"><span style="color: #000080;"><span style="font-size: medium;"><span style="font-family: &quot;comic sans ms&quot;, sans-serif;">Le fonds documentaire est constitu&eacute; de plus de 7000 ouvrages, 500 supports multim&eacute;dia, 300 dossiers d&rsquo;&eacute;tudes op&eacute;rationnelles, de dossiers issus de s&eacute;minaires, ateliers importants de la Banque et de centaines d&rsquo;articles de presse sp&eacute;cialis&eacute;s. </span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></p>
+<p><span style="font-size: small;"><span style="color: #000000;"><span style="font-size: medium;"><span style="color: #000080;"><span style="font-size: medium;"><span style="font-size: medium;"><span style="color: #003366;"><span style="color: #000000;"><span style="color: #000080;"><span style="color: #000080;"><span style="font-size: medium;"><span style="color: #000080;"><span style="font-family: &quot;comic sans ms&quot;, sans-serif;">Il est constamment actualis&eacute; par l&rsquo;&eacute;quipe de la Documentation sur la base de l&rsquo;expression des besoins du personnel et de la cartographie des connaissances de la Banque.</span></span></span></span></span></span></span></span></span></span></span></span></span></p>
+<p style="text-align: justify;"><span style="font-size: small;"><span style="color: #000000;"><br /></span></span></p>]]></field>
+<field id="FULL"><![CDATA[<div style="text-align: center;"></div>
+<p><span style="font-size: medium;"><span style="font-family: &quot;comic sans ms&quot;, sans-serif;"><span style="text-align: justify;">L</span><span style="color: #000080;">es usagers de ce portail peuvent effectuer des recherches soit,&nbsp;&agrave; partir&nbsp;de l&rsquo;espace de&nbsp;<strong>&laquo;&nbsp;Recherche rapide&nbsp;&raquo;</strong>&nbsp;qui couvre l&rsquo;ensemble des deux fonds principaux, ou du &laquo;&nbsp;<strong>Menu Recherche</strong>&nbsp;&raquo; sur les formulaires sp&eacute;cifiques d&eacute;di&eacute;s &agrave; chaque sous-fonds (ouvrages, &eacute;tudes, m&eacute;diath&egrave;que, articles de presse sp&eacute;cialis&eacute;s, etc).</span></span></span></p>
+<p style="text-align: justify;"><span style="font-size: small;"><span style="font-family: &quot;comic sans ms&quot;, sans-serif;"><span style="color: #000080;"><span style="font-size: medium;"><span style="font-family: &quot;comic sans ms&quot;, sans-serif;"><strong>Le fonds d&rsquo;archives de la Banque&nbsp;</strong>r&eacute;pertori&eacute; dans cette base documentaire est constitu&eacute; des sous fonds des dossiers des organes d&eacute;lib&eacute;rants et groupes de travail (Dossiers des CA, CM, CP, CE etc&hellip;), des textes juridiques institutionnels publi&eacute;s par la Banque (R&egrave;glements, directives, d&eacute;cisions etc...) &nbsp;des dossiers de projets financ&eacute;s par la Banque (secteur marchand et non marchand), des pi&egrave;ces comptables et d&rsquo;immobilisations, des dossiers d&rsquo;accord de coop&eacute;ration, des dossiers relatifs &agrave; la gestion des Ressources humaines de la Banque.</span></span></span></span></span></p>
+<p style="text-align: justify;"><span style="font-size: small;"><span style="font-size: medium;"><span style="font-family: &quot;comic sans ms&quot;, sans-serif;"><span style="color: #000080;">&nbsp;</span><span style="color: #000080;"><br /></span></span></span></span></p>
+<p><span style="font-size: small;"><span style="font-size: medium;"><span style="font-family: &quot;comic sans ms&quot;, sans-serif;"><span style="color: #000080;">Les usagers du fonds d&rsquo;archives peuvent en plus de la lucarne de<strong>&nbsp;&laquo;&nbsp;Recherche rapide&nbsp;&raquo;,&nbsp;</strong>utiliser les formulaires de recherche sp&eacute;cifiques d&eacute;di&eacute;s &agrave; chacun des sous fonds ci-dessus.</span></span></span></span><br /><span style="font-size: small;"><span style="font-size: medium;"><span style="font-family: &quot;comic sans ms&quot;, sans-serif;"><span style="color: #000080;">L&rsquo;&eacute;quipe de la Division de la Gestion du Savoir est &agrave; votre disposition pour tout besoin d&rsquo;assistance dans votre qu&ecirc;te d&rsquo;information.</span></span></span></span><br /><span style="font-size: small;"><span style="font-size: medium;"><span style="font-family: &quot;comic sans ms&quot;, sans-serif;">&nbsp;</span></span></span><br /><span style="font-size: small;"><span style="font-size: medium;"><span style="font-family: &quot;comic sans ms&quot;, sans-serif;"><span style="color: #000080;">&nbsp;</span></span></span></span></p>
+<p>&nbsp;</p>
+<p style="text-align: justify;"><span style="font-size: small;"><span style="font-size: medium;"><span style="font-family: &quot;comic sans ms&quot;, sans-serif;"><span style="color: #000080;">&nbsp;</span><span style="color: #000080;"><br /></span></span></span></span></p>
+<div style="text-align: justify;"></div>
+<span style="font-size: small;"><span style="color: #000080;"> </span> </span>]]></field>
+</record>
+</records>
+</Alexandrie>

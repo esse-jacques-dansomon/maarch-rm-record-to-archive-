@@ -40,6 +40,8 @@ function pdfToBase64Converter(pdfFilePath) {
 }
 
 async function convertToArchives(jsonData) {
+    let log = console.log
+    log(jsonData.Alexandrie.records.record[0])
     const records = jsonData['Alexandrie']['records']['record'];
     let archives = [];
 
@@ -52,12 +54,28 @@ async function convertToArchives(jsonData) {
                     "fileName": "Mon image",
                     "mimetype": "image/png"
                 }],
-                "descriptionObject": {},
+                "description": {
+                    "title": [
+                        "Facture Market SI Palace_1657"
+                    ],
+                    "keyword": [
+                        {
+                            "keywordType": "customer",
+                            "keywordContent": "AXONE-TEST-API"
+                        }
+                    ],
+
+                    "language": [
+                        "fra"
+                    ],
+                    "documentType": "Facture",
+                    "descriptionLevel": "Item",
+                },
                 "archiveName": "Definition objet archive",
-                "originatorArchiveId": "identifiantProducteur",
+                "originatorArchiveId": "1657",
                 "originatingDate": "2018-02-21",
-                "archivalProfileReference": "actes",
-                "originatorOrgRegNumber": "Service_Producteur_API",
+                // "archivalProfileReference": "ATTF",
+                "originatorOrgRegNumber": "GIC",
                 "fullTextIndexation": "none",
                 "descriptionClass": "seda2",
             },
@@ -73,8 +91,13 @@ async function convertToArchives(jsonData) {
             if (field['id'] === 'DATP') {
                 originatingDate = field['datetime'];
             }
+            archive.description ={
+                ...archive.description,
+                [field['id']]: field['value']
+            }
         }
-        archive.archive.archiveName = archiveName;
+        archive.archive.archiveName = archiveName + ' - ' + originatingDate + ' - test api'
+        archive.archive.description.title = archiveName + ' - ' + originatingDate + ' - test api'
         archive.archive.originatingDate = originatingDate;
 
 
@@ -97,8 +120,8 @@ async function convertToArchives(jsonData) {
 
 // Fonction pour envoyer des données à une API
 async function sendDataToAPI(apiUrl, data) {
-    const authToken = 'phdF9WkJuTKkDuPXoqDZuPs4jdJfIZgYGsDLBBhtCTCJiBKXGHN7A8iT8vRjA%2FF24j7xXKb59jfgdtY6smIPSH%2BATAkzJiENaKAAG87bv5W7KwY1TqhL4HCTRdpICyFCRiqB3iYMgvNSX1AmzV%2BRBA%3D%3D'
-    console.log(JSON.stringify(data, null, 2))
+    const authToken = 'phdF9WkJuTKkDuPXoqDZuOjLMAFGC6ZrqwSFnXohEKT1a0AUcIDxGYfs%2BaGFsLTm3GhJBb7nH0oBGVck0lowfqQ%2FzHbeeHkOG3v8KidIdDLoWzrBBPs293eB%2ByRpFicgXS6fT%2B7Bwyw%3D'
+    // const authToken = 'phdF9WkJuTKkDuPXoqDZuPs4jdJfIZgYGsDLBBhtCTCoic3rz4q5eOX12VEP5BJdzrQtk77AHJ6cTqgtr2S0MQ5kt79b%2FsXF1nRBjvM8lK8EUUFtEK8dKTUgGjw%2BPCg4KSuaZn7cEXOdatwaZ%2BrtLQ%3D%3D'
 
     try {
         const response = await axios.post(apiUrl, data,  {
@@ -116,13 +139,13 @@ async function sendDataToAPI(apiUrl, data) {
 }
 
 // Chemin du fichier XML
-const xmlFilePath = 'data.xml';
+const xmlFilePath = 'data/Export_AD_29032024_0950.xml';
 
 // Chemin du fichier PDF
 const pdfFilePath = 'nodejs.pdf';
 
 // URL de l'API à laquelle envoyer les données
-const apiUrl = 'http://maarchrmap.axone-sn.com:9090/recordsManagement/archive';
+const apiUrl = 'http://localhost:8080/recordsManagement/archive';
 
 // Exécution du script
 (async () => {
@@ -136,7 +159,8 @@ const apiUrl = 'http://maarchrmap.axone-sn.com:9090/recordsManagement/archive';
         // Convertir les données en archives
         const archives = await convertToArchives(jsonData);
         // Envoyer les données à l'API
-        await sendDataToAPI(apiUrl, archives[0]);
+        // await sendDataToAPI(apiUrl, archives[0]);
+        console.log(archives[0])
     } catch (error) {
         console.error('Error:', error.message);
     }

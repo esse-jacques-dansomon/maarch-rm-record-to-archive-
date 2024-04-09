@@ -1,0 +1,2647 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Alexandrie version="7.0">
+<fieldset>
+<fielddef code="TIT">
+<label>Titre</label>
+<type>S</type>
+</fielddef>
+<fielddef code="DTJUR">
+<label>Date du texte</label>
+<type>D</type>
+</fielddef>
+<fielddef code="MOTC">
+<label>Mots clés libres</label>
+<type>S</type>
+</fielddef>
+<fielddef code="REF">
+<label>Référence</label>
+<type>S</type>
+</fielddef>
+<fielddef code="GED">
+<label>Fichiers annexes</label>
+<type>S</type>
+</fielddef>
+<fielddef code="LIEUARC">
+<label>Partenaire</label>
+<type>S</type>
+</fielddef>
+<fielddef code="tacc">
+<label>Type d'accords</label>
+<type>C</type>
+</fielddef>
+</fieldset>
+<records total="139">
+<record id="15443">
+<recordnature code="ARC">ARCHIVES</recordnature>
+<recordtype code="COOP">Coopération</recordtype>
+<recordcreation datetime="07/02/13 10:52" format="JJ/MM/AAAA">07/02/2013</recordcreation>
+<recordupdate datetime="07/02/13 10:52" format="JJ/MM/AAAA">07/02/2013</recordupdate>
+<recordindex datetime="07/02/13 10:52" format="JJ/MM/AAAA">07/02/2013</recordindex>
+<uri>https://documentation.boad.org/dyn/portal/index.seam?page=alo&amp;aloId=15443</uri>
+<field id="TIT" order="1">COOPERATION BOAD / CFD</field>
+<field_path id="TIT" order="1">doc/Alo/P000000/15443/234699/acc BOAD et CFD.pdf</field_path>
+<field_pathLink id="TIT">jah6P0K-SulUR6SK8rXKR13feZUMdYLk&#13;
+</field_pathLink>
+<field datetime="01/06/97 00:00" format="JJ/MM/AAAA" id="DTJUR">01/06/1997</field>
+<field id="LIEUARC">lomé</field>
+</record>
+<record id="15454">
+<recordnature code="ARC">ARCHIVES</recordnature>
+<recordtype code="COOP">Coopération</recordtype>
+<recordcreation datetime="07/02/13 11:00" format="JJ/MM/AAAA">07/02/2013</recordcreation>
+<recordupdate datetime="07/02/13 11:00" format="JJ/MM/AAAA">07/02/2013</recordupdate>
+<recordindex datetime="07/02/13 11:00" format="JJ/MM/AAAA">07/02/2013</recordindex>
+<uri>https://documentation.boad.org/dyn/portal/index.seam?page=alo&amp;aloId=15454</uri>
+<field id="TIT" order="1">Accord de coopération entre la BOAD et le Comité Permanent Inter-Etats de Lutte contre la Sécheresse dans le Sahel</field>
+<field_path id="TIT" order="1">doc/Alo/P000000/15454/234747/acc BOAD et CILLSS.pdf</field_path>
+<field_pathLink id="TIT">jah6P0K-SulUR6SK8rXKR_JRLGdhC64p&#13;
+</field_pathLink>
+<field datetime="07/02/83 00:00" format="JJ/MM/AAAA" id="DTJUR">07/02/1983</field>
+<field id="LIEUARC">Lomé</field>
+</record>
+<record id="15461">
+<recordnature code="ARC">ARCHIVES</recordnature>
+<recordtype code="COOP">Coopération</recordtype>
+<recordcreation datetime="07/02/13 11:05" format="JJ/MM/AAAA">07/02/2013</recordcreation>
+<recordupdate datetime="03/09/20 12:00" format="JJ/MM/AAAA">03/09/2020</recordupdate>
+<recordindex datetime="03/09/20 12:00" format="JJ/MM/AAAA">03/09/2020</recordindex>
+<uri>https://documentation.boad.org/dyn/portal/index.seam?page=alo&amp;aloId=15461</uri>
+<field id="TIT" order="1">Accord entre la BOAD et le Gouvernement de la Confédération Suisse concernant le Fonds Suisse</field>
+<field_path id="TIT" order="1">doc/Alo/P000000/15461/234786/acc BOAD et SUISSE.pdf</field_path>
+<field_pathLink id="TIT">jah6P0K-SulUR6SK8rXKR6zDA9iSVBjp&#13;
+</field_pathLink>
+<field datetime="20/12/93 00:00" format="JJ/MM/AAAA" id="DTJUR">20/12/1993</field>
+<field id="MOTC" order="1">Garantie</field>
+<field id="LIEUARC">Lomé</field>
+<field code="ACc" id="tacc">Accord de coopération</field>
+</record>
+<record id="15466">
+<recordnature code="ARC">ARCHIVES</recordnature>
+<recordtype code="COOP">Coopération</recordtype>
+<recordcreation datetime="07/02/13 11:11" format="JJ/MM/AAAA">07/02/2013</recordcreation>
+<recordupdate datetime="03/09/20 11:59" format="JJ/MM/AAAA">03/09/2020</recordupdate>
+<recordindex datetime="03/09/20 11:59" format="JJ/MM/AAAA">03/09/2020</recordindex>
+<uri>https://documentation.boad.org/dyn/portal/index.seam?page=alo&amp;aloId=15466</uri>
+<field id="TIT" order="1">Accord entre la BOAD et l'INDOSUEZ</field>
+<field datetime="16/02/88 00:00" format="JJ/MM/AAAA" id="DTJUR">16/02/1988</field>
+<field id="MOTC" order="1">Garantie</field>
+<field id="REF">N°0237</field>
+<field id="LIEUARC">Lomé</field>
+<field code="ACc" id="tacc">Accord de coopération</field>
+</record>
+<record id="15469">
+<recordnature code="ARC">ARCHIVES</recordnature>
+<recordtype code="COOP">Coopération</recordtype>
+<recordcreation datetime="07/02/13 11:14" format="JJ/MM/AAAA">07/02/2013</recordcreation>
+<recordupdate datetime="03/09/20 11:59" format="JJ/MM/AAAA">03/09/2020</recordupdate>
+<recordindex datetime="03/09/20 11:59" format="JJ/MM/AAAA">03/09/2020</recordindex>
+<uri>https://documentation.boad.org/dyn/portal/index.seam?page=alo&amp;aloId=15469</uri>
+<field id="TIT" order="1">Accord de coopération entre UNIVERSAL ENGINEERING AND FINANCE CORPORATION et La BOAD</field>
+<field_path id="TIT" order="1">doc/Alo/P000000/15469/234819/acc BOAD et UNEFICO.pdf</field_path>
+<field_pathLink id="TIT">jah6P0K-SulUR6SK8rXKRw8GNjEANhi4&#13;
+</field_pathLink>
+<field datetime="24/11/82 00:00" format="JJ/MM/AAAA" id="DTJUR">24/11/1982</field>
+<field id="MOTC" order="1">Garantie</field>
+<field id="LIEUARC">Lomé</field>
+<field code="ACc" id="tacc">Accord de coopération</field>
+</record>
+<record id="15475">
+<recordnature code="ARC">ARCHIVES</recordnature>
+<recordtype code="COOP">Coopération</recordtype>
+<recordcreation datetime="07/02/13 11:18" format="JJ/MM/AAAA">07/02/2013</recordcreation>
+<recordupdate datetime="03/09/20 11:59" format="JJ/MM/AAAA">03/09/2020</recordupdate>
+<recordindex datetime="03/09/20 11:59" format="JJ/MM/AAAA">03/09/2020</recordindex>
+<uri>https://documentation.boad.org/dyn/portal/index.seam?page=alo&amp;aloId=15475</uri>
+<field id="TIT" order="1">Accord entre la Banque Islamique de Développement et la BOAD</field>
+<field_path id="TIT" order="1">doc/Alo/P000000/15475/234842/ACCORD entre BI et BOAD.pdf</field_path>
+<field_pathLink id="TIT">jah6P0K-SulUR6SK8rXKR1Y-E62OsmT8&#13;
+</field_pathLink>
+<field datetime="28/09/85 00:00" format="JJ/MM/AAAA" id="DTJUR">28/09/1985</field>
+<field id="MOTC" order="1">Garantie</field>
+<field id="LIEUARC">Lomé</field>
+<field code="ACc" id="tacc">Accord de coopération</field>
+</record>
+<record id="15480">
+<recordnature code="ARC">ARCHIVES</recordnature>
+<recordtype code="COOP">Coopération</recordtype>
+<recordcreation datetime="07/02/13 11:23" format="JJ/MM/AAAA">07/02/2013</recordcreation>
+<recordupdate datetime="03/09/20 11:58" format="JJ/MM/AAAA">03/09/2020</recordupdate>
+<recordindex datetime="03/09/20 11:58" format="JJ/MM/AAAA">03/09/2020</recordindex>
+<uri>https://documentation.boad.org/dyn/portal/index.seam?page=alo&amp;aloId=15480</uri>
+<field id="TIT" order="1">Accord entre la BID et la BOAD relatif à une ligne de participation, de leasing ou de vente à tempérament</field>
+<field_path id="TIT" order="1">doc/Alo/P000000/15480/234861/ACCORD entre BID et BOAD.pdf</field_path>
+<field_pathLink id="TIT">jah6P0K-SulUR6SK8rXKR1g89lXq65ml&#13;
+</field_pathLink>
+<field datetime="19/12/88 00:00" format="JJ/MM/AAAA" id="DTJUR">19/12/1988</field>
+<field id="MOTC" order="1">Garantie</field>
+<field id="LIEUARC">Lomé</field>
+<field code="ACc" id="tacc">Accord de coopération</field>
+</record>
+<record id="15482">
+<recordnature code="ARC">ARCHIVES</recordnature>
+<recordtype code="COOP">Coopération</recordtype>
+<recordcreation datetime="07/02/13 11:26" format="JJ/MM/AAAA">07/02/2013</recordcreation>
+<recordupdate datetime="03/09/20 11:58" format="JJ/MM/AAAA">03/09/2020</recordupdate>
+<recordindex datetime="03/09/20 11:58" format="JJ/MM/AAAA">03/09/2020</recordindex>
+<uri>https://documentation.boad.org/dyn/portal/index.seam?page=alo&amp;aloId=15482</uri>
+<field id="TIT" order="1">Accord de coopération entre Le Fonds International de Developpement Agricole et la BOAD</field>
+<field_path id="TIT" order="1">doc/Alo/P000000/15482/234868/ACCORD entre FIDA et BOAD.pdf</field_path>
+<field_pathLink id="TIT">jah6P0K-SulUR6SK8rXKR8BwMsnLtr6r&#13;
+</field_pathLink>
+<field datetime="17/12/88 00:00" format="JJ/MM/AAAA" id="DTJUR">17/12/1988</field>
+<field id="MOTC" order="1">Garantie</field>
+<field id="LIEUARC">Lomé</field>
+<field code="ACc" id="tacc">Accord de coopération</field>
+</record>
+<record id="15484">
+<recordnature code="ARC">ARCHIVES</recordnature>
+<recordtype code="COOP">Coopération</recordtype>
+<recordcreation datetime="07/02/13 11:30" format="JJ/MM/AAAA">07/02/2013</recordcreation>
+<recordupdate datetime="03/09/20 11:58" format="JJ/MM/AAAA">03/09/2020</recordupdate>
+<recordindex datetime="03/09/20 11:58" format="JJ/MM/AAAA">03/09/2020</recordindex>
+<uri>https://documentation.boad.org/dyn/portal/index.seam?page=alo&amp;aloId=15484</uri>
+<field id="TIT" order="1">Accord de coopération entre la BOAD et le Centre Régional de Conception et de Fabrication Techniques</field>
+<field_path id="TIT" order="1">doc/Alo/P000000/15484/234876/ACCORD DE PRET.pdf</field_path>
+<field_pathLink id="TIT">jah6P0K-SulUR6SK8rXKRxo4SbXWcKAX&#13;
+</field_pathLink>
+<field datetime="18/05/87 00:00" format="JJ/MM/AAAA" id="DTJUR">18/05/1987</field>
+<field id="MOTC" order="1">Garantie</field>
+<field id="LIEUARC">Lomé</field>
+<field code="ACc" id="tacc">Accord de coopération</field>
+</record>
+<record id="15489">
+<recordnature code="ARC">ARCHIVES</recordnature>
+<recordtype code="COOP">Coopération</recordtype>
+<recordcreation datetime="07/02/13 11:33" format="JJ/MM/AAAA">07/02/2013</recordcreation>
+<recordupdate datetime="03/09/20 11:58" format="JJ/MM/AAAA">03/09/2020</recordupdate>
+<recordindex datetime="03/09/20 11:58" format="JJ/MM/AAAA">03/09/2020</recordindex>
+<uri>https://documentation.boad.org/dyn/portal/index.seam?page=alo&amp;aloId=15489</uri>
+<field id="TIT" order="1">Accord de coopération entre la BOAD et le Fonds de Solidarité et d'Intervention pour le Développement de la Communauté (FOSIDEC)</field>
+<field_path id="TIT" order="1">doc/Alo/P000000/15489/234895/acc BOAD et FOSIDEC.pdf</field_path>
+<field_pathLink id="TIT">jah6P0K-SulUR6SK8rXKR71-bbjxJu9X&#13;
+</field_pathLink>
+<field datetime="18/01/90 00:00" format="JJ/MM/AAAA" id="DTJUR">18/01/1990</field>
+<field id="MOTC" order="1">Garantie</field>
+<field id="LIEUARC">Lomé</field>
+<field code="ACc" id="tacc">Accord de coopération</field>
+</record>
+<record id="15493">
+<recordnature code="ARC">ARCHIVES</recordnature>
+<recordtype code="COOP">Coopération</recordtype>
+<recordcreation datetime="07/02/13 11:37" format="JJ/MM/AAAA">07/02/2013</recordcreation>
+<recordupdate datetime="03/09/20 11:56" format="JJ/MM/AAAA">03/09/2020</recordupdate>
+<recordindex datetime="03/09/20 11:56" format="JJ/MM/AAAA">03/09/2020</recordindex>
+<uri>https://documentation.boad.org/dyn/portal/index.seam?page=alo&amp;aloId=15493</uri>
+<field id="TIT" order="1">Avenant à l'accord de coopération entre la BOAD et le Centre pour le Développement de l'Entreprise</field>
+<field_path id="TIT" order="1">doc/Alo/P000000/15493/234910/A1.Avenant à l'accord de coopération en date du 26-06-1991 entre BOAD CDE.pdf</field_path>
+<field_pathLink id="TIT">jah6P0K-SulUR6SK8rXKR8y8NuSnaK0d&#13;
+</field_pathLink>
+<field datetime="01/09/03 00:00" format="JJ/MM/AAAA" id="DTJUR">01/09/2003</field>
+<field id="MOTC" order="1">Garantie</field>
+<field id="LIEUARC">Bruxelles</field>
+<field code="ACc" id="tacc">Accord de coopération</field>
+</record>
+<record id="15500">
+<recordnature code="ARC">ARCHIVES</recordnature>
+<recordtype code="COOP">Coopération</recordtype>
+<recordcreation datetime="07/02/13 11:44" format="JJ/MM/AAAA">07/02/2013</recordcreation>
+<recordupdate datetime="03/09/20 11:56" format="JJ/MM/AAAA">03/09/2020</recordupdate>
+<recordindex datetime="03/09/20 11:56" format="JJ/MM/AAAA">03/09/2020</recordindex>
+<uri>https://documentation.boad.org/dyn/portal/index.seam?page=alo&amp;aloId=15500</uri>
+<field id="TIT" order="1">Accord entre l'organisation des Nations Unies pour le Développement Industriel (ONUDI) et la BOAD portant sur un Fonds d'affectation spéciale pour le financement de la coopération technique entre les deux organisations</field>
+<field_path id="TIT" order="1">doc/Alo/P000000/15500/234937/A.2 Accord BOAD-ONUDI _1996.pdf</field_path>
+<field_pathLink id="TIT">jah6P0K-SulUR6SK8rXKR2XEE95XqNAY&#13;
+</field_pathLink>
+<field datetime="12/06/86 00:00" format="JJ/MM/AAAA" id="DTJUR">12/06/1986</field>
+<field id="MOTC" order="1">Garantie</field>
+<field id="LIEUARC">Lomé</field>
+<field code="ACc" id="tacc">Accord de coopération</field>
+</record>
+<record id="15504">
+<recordnature code="ARC">ARCHIVES</recordnature>
+<recordtype code="COOP">Coopération</recordtype>
+<recordcreation datetime="07/02/13 11:49" format="JJ/MM/AAAA">07/02/2013</recordcreation>
+<recordupdate datetime="03/09/20 11:55" format="JJ/MM/AAAA">03/09/2020</recordupdate>
+<recordindex datetime="03/09/20 11:55" format="JJ/MM/AAAA">03/09/2020</recordindex>
+<uri>https://documentation.boad.org/dyn/portal/index.seam?page=alo&amp;aloId=15504</uri>
+<field id="TIT" order="1">Protocole d'accord entre la BOAD, la CEAO et Le Fonds d'Entraide et de Garantie des Emprunts du Conseil de l'Entente (FEGECE)</field>
+<field_path id="TIT" order="1">doc/Alo/P000000/15504/234952/ACC ENTRE BOAD ET  CEAO ET FEGECE.pdf</field_path>
+<field_pathLink id="TIT">jah6P0K-SulUR6SK8rXKR-OQM5Wsk0V9&#13;
+</field_pathLink>
+<field datetime="24/06/77 00:00" format="JJ/MM/AAAA" id="DTJUR">24/06/1977</field>
+<field id="MOTC" order="1">Garantie</field>
+<field id="LIEUARC">Abidjan</field>
+<field code="ACc" id="tacc">Accord de coopération</field>
+</record>
+<record id="15509">
+<recordnature code="ARC">ARCHIVES</recordnature>
+<recordtype code="COOP">Coopération</recordtype>
+<recordcreation datetime="07/02/13 11:54" format="JJ/MM/AAAA">07/02/2013</recordcreation>
+<recordupdate datetime="03/09/20 11:54" format="JJ/MM/AAAA">03/09/2020</recordupdate>
+<recordindex datetime="03/09/20 11:54" format="JJ/MM/AAAA">03/09/2020</recordindex>
+<uri>https://documentation.boad.org/dyn/portal/index.seam?page=alo&amp;aloId=15509</uri>
+<field id="TIT" order="1">Accord de coopération entre la BOAD et Industrialiserings Fonden for Udviklings Landene</field>
+<field_path id="TIT" order="1">doc/Alo/P000000/15509/234971/ACC ENTRE BOAD ET  IFU.pdf</field_path>
+<field_pathLink id="TIT">jah6P0K-SulUR6SK8rXKR4qP8Hvxso1k&#13;
+</field_pathLink>
+<field datetime="10/04/85 00:00" format="JJ/MM/AAAA" id="DTJUR">10/04/1985</field>
+<field id="MOTC" order="1">Garantie</field>
+<field id="LIEUARC">Lomé</field>
+<field code="ACc" id="tacc">Accord de coopération</field>
+</record>
+<record id="15516">
+<recordnature code="ARC">ARCHIVES</recordnature>
+<recordtype code="COOP">Coopération</recordtype>
+<recordcreation datetime="07/02/13 11:59" format="JJ/MM/AAAA">07/02/2013</recordcreation>
+<recordupdate datetime="03/09/20 11:54" format="JJ/MM/AAAA">03/09/2020</recordupdate>
+<recordindex datetime="03/09/20 11:54" format="JJ/MM/AAAA">03/09/2020</recordindex>
+<uri>https://documentation.boad.org/dyn/portal/index.seam?page=alo&amp;aloId=15516</uri>
+<field id="TIT" order="1">Accord de coopération entre la BOAD et l'Union Africaine des Chemins de Fer</field>
+<field_path id="TIT" order="1">doc/Alo/P000000/15516/234998/ACC ENTRE BOAD ET  L' UNION AFRICAINE DES CHEMINS DE FER.pdf</field_path>
+<field_pathLink id="TIT">jah6P0K-SulUR6SK8rXKR5OpnoNppr8w&#13;
+</field_pathLink>
+<field datetime="22/07/85 00:00" format="JJ/MM/AAAA" id="DTJUR">22/07/1985</field>
+<field id="MOTC" order="1">Garantie</field>
+<field id="LIEUARC">Lomé</field>
+<field code="ACc" id="tacc">Accord de coopération</field>
+</record>
+<record id="15520">
+<recordnature code="ARC">ARCHIVES</recordnature>
+<recordtype code="COOP">Coopération</recordtype>
+<recordcreation datetime="07/02/13 12:02" format="JJ/MM/AAAA">07/02/2013</recordcreation>
+<recordupdate datetime="03/09/20 11:54" format="JJ/MM/AAAA">03/09/2020</recordupdate>
+<recordindex datetime="03/09/20 11:54" format="JJ/MM/AAAA">03/09/2020</recordindex>
+<uri>https://documentation.boad.org/dyn/portal/index.seam?page=alo&amp;aloId=15520</uri>
+<field id="TIT" order="1">Accord de coopération entre la BOAD et le Bureau Intergouvernemental pour l'Informatique</field>
+<field_path id="TIT" order="1">doc/Alo/P000000/15520/235013/ACC ENTRE BOAD ET  LE BUREAU INTERGOUVERNEMENTAL POUR L ' INFORMATIQUE.pdf</field_path>
+<field_pathLink id="TIT">jah6P0K-SulUR6SK8rXKR_O8dhVP4FGw&#13;
+</field_pathLink>
+<field datetime="19/02/87 00:00" format="JJ/MM/AAAA" id="DTJUR">19/02/1987</field>
+<field id="MOTC" order="1">Garantie</field>
+<field id="LIEUARC">Lomé</field>
+<field code="ACc" id="tacc">Accord de coopération</field>
+</record>
+<record id="15523">
+<recordnature code="ARC">ARCHIVES</recordnature>
+<recordtype code="COOP">Coopération</recordtype>
+<recordcreation datetime="07/02/13 12:04" format="JJ/MM/AAAA">07/02/2013</recordcreation>
+<recordupdate datetime="03/09/20 11:53" format="JJ/MM/AAAA">03/09/2020</recordupdate>
+<recordindex datetime="03/09/20 11:53" format="JJ/MM/AAAA">03/09/2020</recordindex>
+<uri>https://documentation.boad.org/dyn/portal/index.seam?page=alo&amp;aloId=15523</uri>
+<field id="TIT" order="1">Accord de coopération entre le Royaume de Belgique et la BOAD</field>
+<field_path id="TIT" order="1">doc/Alo/P000000/15523/235024/ACC BOAD BELGIQUE.pdf</field_path>
+<field_pathLink id="TIT">jah6P0K-SulUR6SK8rXKR3WZvNzPzKMI&#13;
+</field_pathLink>
+<field datetime="05/05/82 00:00" format="JJ/MM/AAAA" id="DTJUR">05/05/1982</field>
+<field id="MOTC" order="1">Garantie</field>
+<field id="LIEUARC">Bruxelles</field>
+<field code="ACc" id="tacc">Accord de coopération</field>
+</record>
+<record id="15527">
+<recordnature code="ARC">ARCHIVES</recordnature>
+<recordtype code="COOP">Coopération</recordtype>
+<recordcreation datetime="07/02/13 12:07" format="JJ/MM/AAAA">07/02/2013</recordcreation>
+<recordupdate datetime="03/09/20 11:53" format="JJ/MM/AAAA">03/09/2020</recordupdate>
+<recordindex datetime="03/09/20 11:53" format="JJ/MM/AAAA">03/09/2020</recordindex>
+<uri>https://documentation.boad.org/dyn/portal/index.seam?page=alo&amp;aloId=15527</uri>
+<field id="TIT" order="1">Accord de coopération entre La Banque Africaine de Développement (BAD) et la BOAD</field>
+<field_path id="TIT" order="1">doc/Alo/P000000/15527/235039/ACC ENTRE BOAD ET BAD.pdf</field_path>
+<field_pathLink id="TIT">jah6P0K-SulUR6SK8rXKRwH0pS9KGsYU&#13;
+</field_pathLink>
+<field datetime="21/02/78 00:00" format="JJ/MM/AAAA" id="DTJUR">21/02/1978</field>
+<field id="MOTC" order="1">Garantie</field>
+<field id="LIEUARC">Lomé</field>
+<field code="ACc" id="tacc">Accord de coopération</field>
+</record>
+<record id="15528">
+<recordnature code="ARC">ARCHIVES</recordnature>
+<recordtype code="COOP">Coopération</recordtype>
+<recordcreation datetime="07/02/13 12:09" format="JJ/MM/AAAA">07/02/2013</recordcreation>
+<recordupdate datetime="03/09/20 11:53" format="JJ/MM/AAAA">03/09/2020</recordupdate>
+<recordindex datetime="03/09/20 11:53" format="JJ/MM/AAAA">03/09/2020</recordindex>
+<uri>https://documentation.boad.org/dyn/portal/index.seam?page=alo&amp;aloId=15528</uri>
+<field id="TIT" order="1">Accord de coopération entre la BAD et la BOAD</field>
+<field_path id="TIT" order="1">doc/Alo/P000000/15528/235042/ACC ENTRE BOAD ET BAD1.pdf</field_path>
+<field_pathLink id="TIT">jah6P0K-SulUR6SK8rXKR4hEMNKKgT_t&#13;
+</field_pathLink>
+<field datetime="21/02/77 00:00" format="JJ/MM/AAAA" id="DTJUR">21/02/1977</field>
+<field id="MOTC" order="1">Garantie</field>
+<field id="LIEUARC">Abidjan</field>
+<field code="ACc" id="tacc">Accord de coopération</field>
+</record>
+<record id="15533">
+<recordnature code="ARC">ARCHIVES</recordnature>
+<recordtype code="COOP">Coopération</recordtype>
+<recordcreation datetime="07/02/13 12:12" format="JJ/MM/AAAA">07/02/2013</recordcreation>
+<recordupdate datetime="03/09/20 11:52" format="JJ/MM/AAAA">03/09/2020</recordupdate>
+<recordindex datetime="03/09/20 11:52" format="JJ/MM/AAAA">03/09/2020</recordindex>
+<uri>https://documentation.boad.org/dyn/portal/index.seam?page=alo&amp;aloId=15533</uri>
+<field id="TIT" order="1">Accord de coopération entre la BAD et la BOAD 2</field>
+<field_path id="TIT" order="1">doc/Alo/P000000/15533/235061/ACC ENTRE BOAD ET BAD2.pdf</field_path>
+<field_pathLink id="TIT">jah6P0K-SulUR6SK8rXKR3VXNdaOAr7X&#13;
+</field_pathLink>
+<field datetime="21/02/78 00:00" format="JJ/MM/AAAA" id="DTJUR">21/02/1978</field>
+<field id="MOTC" order="1">Garantie</field>
+<field id="LIEUARC">Abidjan</field>
+<field code="ACc" id="tacc">Accord de coopération</field>
+</record>
+<record id="15557">
+<recordnature code="ARC">ARCHIVES</recordnature>
+<recordtype code="COOP">Coopération</recordtype>
+<recordcreation datetime="07/02/13 14:58" format="JJ/MM/AAAA">07/02/2013</recordcreation>
+<recordupdate datetime="03/09/20 11:52" format="JJ/MM/AAAA">03/09/2020</recordupdate>
+<recordindex datetime="03/09/20 11:52" format="JJ/MM/AAAA">03/09/2020</recordindex>
+<uri>https://documentation.boad.org/dyn/portal/index.seam?page=alo&amp;aloId=15557</uri>
+<field id="TIT" order="1">Accord de coopération revisé entre la BOAD et la Banque de Développement des Etats de l'Afrique Centrale</field>
+<field_path id="TIT" order="1">doc/Alo/P000000/15557/235156/ACC ENTRE BOAD ET BANQUE DE DEVELLOPPEMENT DES ETATS DE L ' AFRIQUE CENTRALE.pdf</field_path>
+<field_pathLink id="TIT">jah6P0K-SulUR6SK8rXKRz6KmgZ0pk20&#13;
+</field_pathLink>
+<field datetime="14/01/09 00:00" format="JJ/MM/AAAA" id="DTJUR">14/01/2009</field>
+<field id="MOTC" order="1">Garantie</field>
+<field id="LIEUARC">Brazzaville</field>
+<field code="ACc" id="tacc">Accord de coopération</field>
+</record>
+<record id="15560">
+<recordnature code="ARC">ARCHIVES</recordnature>
+<recordtype code="COOP">Coopération</recordtype>
+<recordcreation datetime="07/02/13 15:01" format="JJ/MM/AAAA">07/02/2013</recordcreation>
+<recordupdate datetime="03/09/20 11:51" format="JJ/MM/AAAA">03/09/2020</recordupdate>
+<recordindex datetime="03/09/20 11:51" format="JJ/MM/AAAA">03/09/2020</recordindex>
+<uri>https://documentation.boad.org/dyn/portal/index.seam?page=alo&amp;aloId=15560</uri>
+<field id="TIT" order="1">Accord de coopération entre la BOAD et la Banque de Développement des Etats de l'Afrique centrale</field>
+<field_path id="TIT" order="1">doc/Alo/P000000/15560/235167/ACC ENTRE BOAD ET BDEAC.pdf</field_path>
+<field_pathLink id="TIT">jah6P0K-SulUR6SK8rXKRwcF18TvE6zN&#13;
+</field_pathLink>
+<field datetime="12/06/80 00:00" format="JJ/MM/AAAA" id="DTJUR">12/06/1980</field>
+<field id="MOTC" order="1">Garantie</field>
+<field id="LIEUARC">Brazzaville</field>
+<field code="ACc" id="tacc">Accord de coopération</field>
+</record>
+<record id="15564">
+<recordnature code="ARC">ARCHIVES</recordnature>
+<recordtype code="COOP">Coopération</recordtype>
+<recordcreation datetime="07/02/13 15:04" format="JJ/MM/AAAA">07/02/2013</recordcreation>
+<recordupdate datetime="03/09/20 11:51" format="JJ/MM/AAAA">03/09/2020</recordupdate>
+<recordindex datetime="03/09/20 11:51" format="JJ/MM/AAAA">03/09/2020</recordindex>
+<uri>https://documentation.boad.org/dyn/portal/index.seam?page=alo&amp;aloId=15564</uri>
+<field id="TIT" order="1">Accord de coopération technique et financière entre la BOAD et la Banque Internationale pour l'Afrique Occidentale</field>
+<field_path id="TIT" order="1">doc/Alo/P000000/15564/235182/ACC ENTRE BOAD ET BIAO.pdf</field_path>
+<field_pathLink id="TIT">jah6P0K-SulUR6SK8rXKR_dLc2H_DoQD&#13;
+</field_pathLink>
+<field datetime="14/10/81 00:00" format="JJ/MM/AAAA" id="DTJUR">14/10/1981</field>
+<field id="MOTC" order="1">Garantie</field>
+<field id="LIEUARC">Lomé</field>
+<field code="ACc" id="tacc">Accord de coopération</field>
+</record>
+<record id="15567">
+<recordnature code="ARC">ARCHIVES</recordnature>
+<recordtype code="COOP">Coopération</recordtype>
+<recordcreation datetime="07/02/13 15:07" format="JJ/MM/AAAA">07/02/2013</recordcreation>
+<recordupdate datetime="03/09/20 11:50" format="JJ/MM/AAAA">03/09/2020</recordupdate>
+<recordindex datetime="03/09/20 11:50" format="JJ/MM/AAAA">03/09/2020</recordindex>
+<uri>https://documentation.boad.org/dyn/portal/index.seam?page=alo&amp;aloId=15567</uri>
+<field id="TIT" order="1">Accord de coopération technique entre la BOAD et La Banque Internationale pour l'Afrique Occidentale</field>
+<field_path id="TIT" order="1">doc/Alo/P000000/15567/235193/ACC ENTRE BOAD ET BIAO2.pdf</field_path>
+<field_pathLink id="TIT">jah6P0K-SulUR6SK8rXKRwHjsGioH2HD&#13;
+</field_pathLink>
+<field datetime="31/05/79 00:00" format="JJ/MM/AAAA" id="DTJUR">31/05/1979</field>
+<field id="MOTC" order="1">Garantie</field>
+<field id="LIEUARC">Lomé</field>
+<field code="ACc" id="tacc">Accord de coopération</field>
+</record>
+<record id="15570">
+<recordnature code="ARC">ARCHIVES</recordnature>
+<recordtype code="COOP">Coopération</recordtype>
+<recordcreation datetime="07/02/13 15:11" format="JJ/MM/AAAA">07/02/2013</recordcreation>
+<recordupdate datetime="03/09/20 11:50" format="JJ/MM/AAAA">03/09/2020</recordupdate>
+<recordindex datetime="03/09/20 11:50" format="JJ/MM/AAAA">03/09/2020</recordindex>
+<uri>https://documentation.boad.org/dyn/portal/index.seam?page=alo&amp;aloId=15570</uri>
+<field id="TIT" order="1">Accord entre la Commission Economique des Nations Unies pour l'Afrique agissant pour l'Organisation des Nations Unies et en son nom et la BOAD</field>
+<field_path id="TIT" order="1">doc/Alo/P000000/15570/235204/ACC ENTRE BOAD ET CEA.pdf</field_path>
+<field_pathLink id="TIT">jah6P0K-SulUR6SK8rXKR1IxpuTqXDv9&#13;
+</field_pathLink>
+<field datetime="24/04/80 00:00" format="JJ/MM/AAAA" id="DTJUR">24/04/1980</field>
+<field id="MOTC" order="1">Garantie</field>
+<field id="LIEUARC">Lomé</field>
+<field code="ACc" id="tacc">Accord de coopération</field>
+</record>
+<record id="15572">
+<recordnature code="ARC">ARCHIVES</recordnature>
+<recordtype code="COOP">Coopération</recordtype>
+<recordcreation datetime="07/02/13 15:14" format="JJ/MM/AAAA">07/02/2013</recordcreation>
+<recordupdate datetime="03/09/20 11:50" format="JJ/MM/AAAA">03/09/2020</recordupdate>
+<recordindex datetime="03/09/20 11:50" format="JJ/MM/AAAA">03/09/2020</recordindex>
+<uri>https://documentation.boad.org/dyn/portal/index.seam?page=alo&amp;aloId=15572</uri>
+<field id="TIT" order="1">Accord de coopération entre la BOAD et la CEAO</field>
+<field_path id="TIT" order="1">doc/Alo/P000000/15572/235211/ACC ENTRE BOAD ET CEAO.pdf</field_path>
+<field_pathLink id="TIT">jah6P0K-SulUR6SK8rXKRzMQ7EQpCP7F&#13;
+</field_pathLink>
+<field datetime="01/04/77 00:00" format="JJ/MM/AAAA" id="DTJUR">01/04/1977</field>
+<field id="MOTC" order="1">Garantie</field>
+<field id="LIEUARC">Lomé</field>
+<field code="ACc" id="tacc">Accord de coopération</field>
+</record>
+<record id="15574">
+<recordnature code="ARC">ARCHIVES</recordnature>
+<recordtype code="COOP">Coopération</recordtype>
+<recordcreation datetime="07/02/13 15:18" format="JJ/MM/AAAA">07/02/2013</recordcreation>
+<recordupdate datetime="07/02/13 15:18" format="JJ/MM/AAAA">07/02/2013</recordupdate>
+<recordindex datetime="07/02/13 15:18" format="JJ/MM/AAAA">07/02/2013</recordindex>
+<uri>https://documentation.boad.org/dyn/portal/index.seam?page=alo&amp;aloId=15574</uri>
+<field id="TIT" order="1">Euro Credit line Agreement between BOAD and Export-Import Bank of India</field>
+<field_path id="TIT" order="1">doc/Alo/P000000/15574/235218/ACC ENTRE BOAD ET EXPORT -IMPORT BANK OF INDIA.pdf</field_path>
+<field_pathLink id="TIT">jah6P0K-SulUR6SK8rXKR6DY1bMwBlls&#13;
+</field_pathLink>
+<field datetime="28/11/03 00:00" format="JJ/MM/AAAA" id="DTJUR">28/11/2003</field>
+<field id="LIEUARC">Mumbaï</field>
+</record>
+<record id="15579">
+<recordnature code="ARC">ARCHIVES</recordnature>
+<recordtype code="COOP">Coopération</recordtype>
+<recordcreation datetime="07/02/13 15:22" format="JJ/MM/AAAA">07/02/2013</recordcreation>
+<recordupdate datetime="03/09/20 11:49" format="JJ/MM/AAAA">03/09/2020</recordupdate>
+<recordindex datetime="03/09/20 11:49" format="JJ/MM/AAAA">03/09/2020</recordindex>
+<uri>https://documentation.boad.org/dyn/portal/index.seam?page=alo&amp;aloId=15579</uri>
+<field id="TIT" order="1">Accord de coopération entre l'Organisation des Nations Unies pour l'Administration et l'Agriculture et la BOAD</field>
+<field_path id="TIT" order="1">doc/Alo/P000000/15579/235237/ACC ENTRE BOAD ET FAO.pdf</field_path>
+<field_pathLink id="TIT">jah6P0K-SulUR6SK8rXKR4alBIQicM5B&#13;
+</field_pathLink>
+<field datetime="26/08/82 00:00" format="JJ/MM/AAAA" id="DTJUR">26/08/1982</field>
+<field id="MOTC" order="1">Garantie</field>
+<field id="LIEUARC">Lomé</field>
+<field code="ACc" id="tacc">Accord de coopération</field>
+</record>
+<record id="15583">
+<recordnature code="ARC">ARCHIVES</recordnature>
+<recordtype code="COOP">Coopération</recordtype>
+<recordcreation datetime="07/02/13 15:25" format="JJ/MM/AAAA">07/02/2013</recordcreation>
+<recordupdate datetime="03/09/20 11:48" format="JJ/MM/AAAA">03/09/2020</recordupdate>
+<recordindex datetime="03/09/20 11:48" format="JJ/MM/AAAA">03/09/2020</recordindex>
+<uri>https://documentation.boad.org/dyn/portal/index.seam?page=alo&amp;aloId=15583</uri>
+<field id="TIT" order="1">Accord de coopération entre le Fonds International de Développement Agricole et la BOAD</field>
+<field_path id="TIT" order="1">doc/Alo/P000000/15583/235252/ACC ENTRE BOAD ET FIDA.pdf</field_path>
+<field_pathLink id="TIT">jah6P0K-SulUR6SK8rXKR-Q1eVkFOO2i&#13;
+</field_pathLink>
+<field datetime="17/12/86 00:00" format="JJ/MM/AAAA" id="DTJUR">17/12/1986</field>
+<field id="MOTC" order="1">Garantie</field>
+<field id="LIEUARC">Lomé</field>
+<field code="ACc" id="tacc">Accord de coopération</field>
+</record>
+<record id="15588">
+<recordnature code="ARC">ARCHIVES</recordnature>
+<recordtype code="COOP">Coopération</recordtype>
+<recordcreation datetime="07/02/13 15:29" format="JJ/MM/AAAA">07/02/2013</recordcreation>
+<recordupdate datetime="03/09/20 11:48" format="JJ/MM/AAAA">03/09/2020</recordupdate>
+<recordindex datetime="03/09/20 11:48" format="JJ/MM/AAAA">03/09/2020</recordindex>
+<uri>https://documentation.boad.org/dyn/portal/index.seam?page=alo&amp;aloId=15588</uri>
+<field id="TIT" order="1">Accord de coopération entre la BOAD et le Fonds de Solidarité et d'Intervention pour le Développement de la Communauté (FOSIDEC)</field>
+<field_path id="TIT" order="1">doc/Alo/P000000/15588/235271/ACC ENTRE BOAD ET FOSIDEC.pdf</field_path>
+<field_pathLink id="TIT">jah6P0K-SulUR6SK8rXKR5-Hsi1rDson&#13;
+</field_pathLink>
+<field datetime="18/01/90 00:00" format="JJ/MM/AAAA" id="DTJUR">18/01/1990</field>
+<field id="MOTC" order="1">Garantie</field>
+<field id="LIEUARC">Lomé</field>
+<field code="ACc" id="tacc">Accord de coopération</field>
+</record>
+<record id="15592">
+<recordnature code="ARC">ARCHIVES</recordnature>
+<recordtype code="COOP">Coopération</recordtype>
+<recordcreation datetime="07/02/13 15:31" format="JJ/MM/AAAA">07/02/2013</recordcreation>
+<recordupdate datetime="03/09/20 11:47" format="JJ/MM/AAAA">03/09/2020</recordupdate>
+<recordindex datetime="03/09/20 11:47" format="JJ/MM/AAAA">03/09/2020</recordindex>
+<uri>https://documentation.boad.org/dyn/portal/index.seam?page=alo&amp;aloId=15592</uri>
+<field id="TIT" order="1">Accord-cadre de coopération entre le Fonds de Solidarité Africain (FSA) et la BOAD</field>
+<field_path id="TIT" order="1">doc/Alo/P000000/15592/235286/ACC ENTRE BOAD ET FSA.pdf</field_path>
+<field_pathLink id="TIT">jah6P0K-SulUR6SK8rXKRzs0h2by0JrZ&#13;
+</field_pathLink>
+<field datetime="12/12/96 00:00" format="JJ/MM/AAAA" id="DTJUR">12/12/1996</field>
+<field id="MOTC" order="1">Garantie</field>
+<field id="LIEUARC">Lomé</field>
+<field code="ACc" id="tacc">Accord de coopération</field>
+</record>
+<record id="15596">
+<recordnature code="ARC">ARCHIVES</recordnature>
+<recordtype code="COOP">Coopération</recordtype>
+<recordcreation datetime="07/02/13 15:34" format="JJ/MM/AAAA">07/02/2013</recordcreation>
+<recordupdate datetime="03/09/20 11:47" format="JJ/MM/AAAA">03/09/2020</recordupdate>
+<recordindex datetime="03/09/20 11:47" format="JJ/MM/AAAA">03/09/2020</recordindex>
+<uri>https://documentation.boad.org/dyn/portal/index.seam?page=alo&amp;aloId=15596</uri>
+<field id="TIT" order="1">Accord de coopération entre la Banque Islamique de développement et la BOAD</field>
+<field_path id="TIT" order="1">doc/Alo/P000000/15596/235301/ACC ENTRE BOAD ET ISLAMIC DEVELOPMENT BANK.pdf</field_path>
+<field_pathLink id="TIT">jah6P0K-SulUR6SK8rXKR5xIbF00jYYU&#13;
+</field_pathLink>
+<field datetime="28/09/85 00:00" format="JJ/MM/AAAA" id="DTJUR">28/09/1985</field>
+<field id="MOTC" order="1">Garantie</field>
+<field id="LIEUARC">Lomé</field>
+<field code="ACc" id="tacc">Accord de coopération</field>
+</record>
+<record id="15601">
+<recordnature code="ARC">ARCHIVES</recordnature>
+<recordtype code="COOP">Coopération</recordtype>
+<recordcreation datetime="07/02/13 15:37" format="JJ/MM/AAAA">07/02/2013</recordcreation>
+<recordupdate datetime="03/09/20 11:46" format="JJ/MM/AAAA">03/09/2020</recordupdate>
+<recordindex datetime="03/09/20 11:46" format="JJ/MM/AAAA">03/09/2020</recordindex>
+<uri>https://documentation.boad.org/dyn/portal/index.seam?page=alo&amp;aloId=15601</uri>
+<field id="TIT" order="1">Accord de coopération entre l'Agence Internationale pour l'Industrialisation et la BOAD</field>
+<field_path id="TIT" order="1">doc/Alo/P000000/15601/235320/ACC ENTRE BOAD ET L ' AGENCE INTERNATIONALE POUR L' INDUSTRIALISATION RURALE.pdf</field_path>
+<field_pathLink id="TIT">jah6P0K-SulUR6SK8rXKRywO6eng0y2-&#13;
+</field_pathLink>
+<field datetime="13/04/88 00:00" format="JJ/MM/AAAA" id="DTJUR">13/04/1988</field>
+<field id="MOTC" order="1">Garantie</field>
+<field id="LIEUARC">Lomé</field>
+<field code="ACc" id="tacc">Accord de coopération</field>
+</record>
+<record id="15607">
+<recordnature code="ARC">ARCHIVES</recordnature>
+<recordtype code="COOP">Coopération</recordtype>
+<recordcreation datetime="07/02/13 15:43" format="JJ/MM/AAAA">07/02/2013</recordcreation>
+<recordupdate datetime="03/09/20 10:49" format="JJ/MM/AAAA">03/09/2020</recordupdate>
+<recordindex datetime="03/09/20 10:49" format="JJ/MM/AAAA">03/09/2020</recordindex>
+<uri>https://documentation.boad.org/dyn/portal/index.seam?page=alo&amp;aloId=15607</uri>
+<field id="TIT" order="1">Accord de Prêt entre la Société Nationale d'Opérations Pétrolières de la Côte d'Ivoire et la BOAD</field>
+<field_path id="TIT" order="1">doc/Alo/P000000/15607/235343/ACC ENTRE BOAD ET L A SOCIETE NATIONALE  D' OPERATIONS PETROLIERE DE LA COTE D' IVOIRE.pdf</field_path>
+<field_pathLink id="TIT">jah6P0K-SulUR6SK8rXKR_bpXl0zhHZK&#13;
+</field_pathLink>
+<field datetime="16/02/95 00:00" format="JJ/MM/AAAA" id="DTJUR">16/02/1995</field>
+<field id="MOTC" order="1">Garantie</field>
+<field id="REF">PR CI 95 10 00</field>
+<field id="LIEUARC">Lomé</field>
+<field code="ACc" id="tacc">Accord de coopération</field>
+</record>
+<record id="15610">
+<recordnature code="ARC">ARCHIVES</recordnature>
+<recordtype code="COOP">Coopération</recordtype>
+<recordcreation datetime="07/02/13 15:46" format="JJ/MM/AAAA">07/02/2013</recordcreation>
+<recordupdate datetime="03/09/20 11:45" format="JJ/MM/AAAA">03/09/2020</recordupdate>
+<recordindex datetime="03/09/20 11:45" format="JJ/MM/AAAA">03/09/2020</recordindex>
+<uri>https://documentation.boad.org/dyn/portal/index.seam?page=alo&amp;aloId=15610</uri>
+<field id="TIT" order="1">Accord établissant des relations entre la BOAD et l'Organisation des Nations Unies pour le Développement Industriel</field>
+<field_path id="TIT" order="1">doc/Alo/P000000/15610/235355/ACC ENTRE BOAD ET L' ORGANISATION DES NATIONS UNIES POUR LE DEVELOPPEMENT INDUSTRIEL.pdf</field_path>
+<field_pathLink id="TIT">jah6P0K-SulUR6SK8rXKR8UJeGD1_RL9&#13;
+</field_pathLink>
+<field datetime="18/05/90 00:00" format="JJ/MM/AAAA" id="DTJUR">18/05/1990</field>
+<field id="MOTC" order="1">Garantie</field>
+<field id="LIEUARC">Vienne</field>
+<field code="ACc" id="tacc">Accord de coopération</field>
+</record>
+<record id="15620">
+<recordnature code="ARC">ARCHIVES</recordnature>
+<recordtype code="COOP">Coopération</recordtype>
+<recordcreation datetime="07/02/13 15:58" format="JJ/MM/AAAA">07/02/2013</recordcreation>
+<recordupdate datetime="03/09/20 11:45" format="JJ/MM/AAAA">03/09/2020</recordupdate>
+<recordindex datetime="03/09/20 11:45" format="JJ/MM/AAAA">03/09/2020</recordindex>
+<uri>https://documentation.boad.org/dyn/portal/index.seam?page=alo&amp;aloId=15620</uri>
+<field id="TIT" order="1">Accord de coopération entre la BOAD et la Communauté Economique du Bétail et la Viande</field>
+<field_path id="TIT" order="1">doc/Alo/P000000/15620/235394/ACC ENTRE BOAD ET LA COMMUNAUTE ECONOMIQUE DU BETAIL ET DE LA VIANDE.pdf</field_path>
+<field_pathLink id="TIT">jah6P0K-SulUR6SK8rXKR3gp2ocV1YVh&#13;
+</field_pathLink>
+<field datetime="05/10/87 00:00" format="JJ/MM/AAAA" id="DTJUR">05/10/1987</field>
+<field id="MOTC" order="1">Garantie</field>
+<field id="LIEUARC">Lomé</field>
+<field code="ACc" id="tacc">Accord de coopération</field>
+</record>
+<record id="15625">
+<recordnature code="ARC">ARCHIVES</recordnature>
+<recordtype code="COOP">Coopération</recordtype>
+<recordcreation datetime="07/02/13 16:01" format="JJ/MM/AAAA">07/02/2013</recordcreation>
+<recordupdate datetime="03/09/20 11:44" format="JJ/MM/AAAA">03/09/2020</recordupdate>
+<recordindex datetime="03/09/20 11:44" format="JJ/MM/AAAA">03/09/2020</recordindex>
+<uri>https://documentation.boad.org/dyn/portal/index.seam?page=alo&amp;aloId=15625</uri>
+<field id="TIT" order="1">Accord de coopération entre la BOAD et le Bureau Intergouvernemental pour l'Informatique</field>
+<field_path id="TIT" order="1">doc/Alo/P000000/15625/235413/ACC ENTRE BOAD ET LE BUREAU INTERGOUVRENEMENTAL POUR L ' INFORMATIQUE.pdf</field_path>
+<field_pathLink id="TIT">jah6P0K-SulUR6SK8rXKR_hWSq7EqKEC&#13;
+</field_pathLink>
+<field datetime="19/02/87 00:00" format="JJ/MM/AAAA" id="DTJUR">19/02/1987</field>
+<field id="MOTC" order="1">Garantie</field>
+<field id="LIEUARC">Lomé</field>
+<field code="ACc" id="tacc">Accord de coopération</field>
+</record>
+<record id="15629">
+<recordnature code="ARC">ARCHIVES</recordnature>
+<recordtype code="COOP">Coopération</recordtype>
+<recordcreation datetime="07/02/13 16:04" format="JJ/MM/AAAA">07/02/2013</recordcreation>
+<recordupdate datetime="03/09/20 11:44" format="JJ/MM/AAAA">03/09/2020</recordupdate>
+<recordindex datetime="03/09/20 11:44" format="JJ/MM/AAAA">03/09/2020</recordindex>
+<uri>https://documentation.boad.org/dyn/portal/index.seam?page=alo&amp;aloId=15629</uri>
+<field id="TIT" order="1">Accord de coopération entre la BOAD et le Centre pour le Développement Industriel</field>
+<field_path id="TIT" order="1">doc/Alo/P000000/15629/235428/ACC ENTRE BOAD ET LE CENTRE POUR LE DEVELOPPEMENT INDUSTRIEL.pdf</field_path>
+<field_pathLink id="TIT">jah6P0K-SulUR6SK8rXKR-DCrtxlS9sU&#13;
+</field_pathLink>
+<field datetime="26/06/91 00:00" format="JJ/MM/AAAA" id="DTJUR">26/06/1991</field>
+<field id="MOTC" order="1">garantie</field>
+<field id="LIEUARC">Lomé</field>
+<field code="ACc" id="tacc">Accord de coopération</field>
+</record>
+<record id="15635">
+<recordnature code="ARC">ARCHIVES</recordnature>
+<recordtype code="COOP">Coopération</recordtype>
+<recordcreation datetime="07/02/13 16:15" format="JJ/MM/AAAA">07/02/2013</recordcreation>
+<recordupdate datetime="03/09/20 11:43" format="JJ/MM/AAAA">03/09/2020</recordupdate>
+<recordindex datetime="03/09/20 11:43" format="JJ/MM/AAAA">03/09/2020</recordindex>
+<uri>https://documentation.boad.org/dyn/portal/index.seam?page=alo&amp;aloId=15635</uri>
+<field id="TIT" order="1">Accord de coopération entre la BOAD et le Comité Inter-Etats de lutte contre la sécheresse dans le Sahel</field>
+<field_path id="TIT" order="1">doc/Alo/P000000/15635/235451/ACC ENTRE BOAD ET LE COMITE PERMANENT INTER-ETATS DE LUTTE CONTRE LA SECHERESSE.pdf</field_path>
+<field_pathLink id="TIT">jah6P0K-SulUR6SK8rXKR1JNMEfCD5TE&#13;
+</field_pathLink>
+<field datetime="07/02/83 00:00" format="JJ/MM/AAAA" id="DTJUR">07/02/1983</field>
+<field id="MOTC" order="1">Garantie</field>
+<field id="LIEUARC">Lomé</field>
+<field code="ACc" id="tacc">Accord de coopération</field>
+</record>
+<record id="15638">
+<recordnature code="ARC">ARCHIVES</recordnature>
+<recordtype code="COOP">Coopération</recordtype>
+<recordcreation datetime="07/02/13 16:19" format="JJ/MM/AAAA">07/02/2013</recordcreation>
+<recordupdate datetime="03/09/20 11:43" format="JJ/MM/AAAA">03/09/2020</recordupdate>
+<recordindex datetime="03/09/20 11:43" format="JJ/MM/AAAA">03/09/2020</recordindex>
+<uri>https://documentation.boad.org/dyn/portal/index.seam?page=alo&amp;aloId=15638</uri>
+<field id="TIT" order="1">Accord-cadre de coopération entrele Fonds Africain de Garantie et de Coopération Economique et la BOAD</field>
+<field_path id="TIT" order="1">doc/Alo/P000000/15638/235462/ACC ENTRE BOAD ET LE FONDS AFRICAIN DE GARANTIE ET DE COOPERATION ECONOMIQUE.pdf</field_path>
+<field_pathLink id="TIT">jah6P0K-SulUR6SK8rXKR8I9uRMoybHj&#13;
+</field_pathLink>
+<field datetime="29/10/96 00:00" format="JJ/MM/AAAA" id="DTJUR">29/10/1996</field>
+<field id="MOTC" order="1">Garantie</field>
+<field id="LIEUARC">Lomé</field>
+<field code="ACc" id="tacc">Accord de coopération</field>
+</record>
+<record id="15641">
+<recordnature code="ARC">ARCHIVES</recordnature>
+<recordtype code="COOP">Coopération</recordtype>
+<recordcreation datetime="07/02/13 16:23" format="JJ/MM/AAAA">07/02/2013</recordcreation>
+<recordupdate datetime="03/09/20 11:42" format="JJ/MM/AAAA">03/09/2020</recordupdate>
+<recordindex datetime="03/09/20 11:42" format="JJ/MM/AAAA">03/09/2020</recordindex>
+<uri>https://documentation.boad.org/dyn/portal/index.seam?page=alo&amp;aloId=15641</uri>
+<field id="TIT" order="1">Accord de coopération entre la BOAD et le Fonds de Coopération, de Compensation et de Développement de la Communauté Economique des Etats de l'Afrique de l'Ouest (Fonds CEDEAO)</field>
+<field_path id="TIT" order="1">doc/Alo/P000000/15641/235473/ACC ENTRE BOAD ET LE FONDS DE COOPERATION DE COMPENSATION ET DE DEVELOPPEMENT.pdf</field_path>
+<field_pathLink id="TIT">jah6P0K-SulUR6SK8rXKR6kIGRIpwlIB&#13;
+</field_pathLink>
+<field datetime="14/12/88 00:00" format="JJ/MM/AAAA" id="DTJUR">14/12/1988</field>
+<field id="MOTC" order="1">garantie</field>
+<field id="LIEUARC">Lomé</field>
+<field code="ACc" id="tacc">Accord de coopération</field>
+</record>
+<record id="15651">
+<recordnature code="ARC">ARCHIVES</recordnature>
+<recordtype code="COOP">Coopération</recordtype>
+<recordcreation datetime="07/02/13 16:36" format="JJ/MM/AAAA">07/02/2013</recordcreation>
+<recordupdate datetime="03/09/20 11:42" format="JJ/MM/AAAA">03/09/2020</recordupdate>
+<recordindex datetime="03/09/20 11:42" format="JJ/MM/AAAA">03/09/2020</recordindex>
+<uri>https://documentation.boad.org/dyn/portal/index.seam?page=alo&amp;aloId=15651</uri>
+<field id="TIT" order="1">Accord de coopération entre la Société Belge d'Investissement International et la BOAD pour la promotion et le financement d'investissements dans les Etats membres de l'Union Monétaire Ouest Africaine</field>
+<field_path id="TIT" order="1">doc/Alo/P000000/15651/235514/ACC ENTRE BOAD ET SBI.pdf</field_path>
+<field_pathLink id="TIT">jah6P0K-SulUR6SK8rXKR1EV4vjGEud_&#13;
+</field_pathLink>
+<field datetime="03/06/83 00:00" format="JJ/MM/AAAA" id="DTJUR">03/06/1983</field>
+<field id="MOTC" order="1">Garantie</field>
+<field id="LIEUARC">Lomé</field>
+<field code="ACc" id="tacc">Accord de coopération</field>
+</record>
+<record id="15656">
+<recordnature code="ARC">ARCHIVES</recordnature>
+<recordtype code="COOP">Coopération</recordtype>
+<recordcreation datetime="07/02/13 16:44" format="JJ/MM/AAAA">07/02/2013</recordcreation>
+<recordupdate datetime="03/09/20 11:41" format="JJ/MM/AAAA">03/09/2020</recordupdate>
+<recordindex datetime="03/09/20 11:41" format="JJ/MM/AAAA">03/09/2020</recordindex>
+<uri>https://documentation.boad.org/dyn/portal/index.seam?page=alo&amp;aloId=15656</uri>
+<field id="TIT" order="1">Accord de coopération entre la BOAD et l'Union Internationale des Télécommunications</field>
+<field_path id="TIT" order="1">doc/Alo/P000000/15656/235537/ACC ENTRE BOAD ET UIT.pdf</field_path>
+<field_pathLink id="TIT">jah6P0K-SulUR6SK8rXKR-zx0_amY_cN&#13;
+</field_pathLink>
+<field datetime="05/07/80 00:00" format="JJ/MM/AAAA" id="DTJUR">05/07/1980</field>
+<field id="MOTC" order="1">Garantie</field>
+<field id="LIEUARC">Lomé</field>
+<field code="ACc" id="tacc">Accord de coopération</field>
+</record>
+<record id="17670">
+<recordnature code="ARC">ARCHIVES</recordnature>
+<recordtype code="COOP">Coopération</recordtype>
+<recordcreation datetime="19/07/13 15:35" format="JJ/MM/AAAA">19/07/2013</recordcreation>
+<recordupdate datetime="03/09/20 11:41" format="JJ/MM/AAAA">03/09/2020</recordupdate>
+<recordindex datetime="03/09/20 11:41" format="JJ/MM/AAAA">03/09/2020</recordindex>
+<uri>https://documentation.boad.org/dyn/portal/index.seam?page=alo&amp;aloId=17670</uri>
+<field id="TIT" order="1">Accord de coopération entre la BOAD et le Ministère de l'Energie et du Pétrole de la République du Niger</field>
+<field_path id="TIT" order="1">doc/Alo/P000000/17670/248124/AC BOAD MIN ENERGIE ET PETROLE Ng.pdf</field_path>
+<field_pathLink id="TIT">jah6P0K-SulUR6SK8rXKR3clpy_E1s2k&#13;
+</field_pathLink>
+<field datetime="30/04/02 00:00" format="JJ/MM/AAAA" id="DTJUR">30/04/2002</field>
+<field id="MOTC" order="1">Garantie</field>
+<field id="LIEUARC">Niamey</field>
+<field code="ACc" id="tacc">Accord de coopération</field>
+</record>
+<record id="17671">
+<recordnature code="ARC">ARCHIVES</recordnature>
+<recordtype code="COOP">Coopération</recordtype>
+<recordcreation datetime="19/07/13 15:41" format="JJ/MM/AAAA">19/07/2013</recordcreation>
+<recordupdate datetime="03/09/20 11:36" format="JJ/MM/AAAA">03/09/2020</recordupdate>
+<recordindex datetime="03/09/20 11:36" format="JJ/MM/AAAA">03/09/2020</recordindex>
+<uri>https://documentation.boad.org/dyn/portal/index.seam?page=alo&amp;aloId=17671</uri>
+<field id="TIT" order="1">Accord d'adhésion entre la BOAD et la Société Financière Internationale</field>
+<field_path id="TIT" order="1">doc/Alo/P000000/17671/248127/AC ADHESION BOAD SFI.pdf</field_path>
+<field_pathLink id="TIT">jah6P0K-SulUR6SK8rXKR9KJFi8KVq-F&#13;
+</field_pathLink>
+<field datetime="14/08/12 00:00" format="JJ/MM/AAAA" id="DTJUR">14/08/2012</field>
+<field id="MOTC" order="1">Garantie</field>
+<field id="LIEUARC">SFI</field>
+<field code="ACc" id="tacc">Accord de coopération</field>
+</record>
+<record id="17672">
+<recordnature code="ARC">ARCHIVES</recordnature>
+<recordtype code="COOP">Coopération</recordtype>
+<recordcreation datetime="19/07/13 16:00" format="JJ/MM/AAAA">19/07/2013</recordcreation>
+<recordupdate datetime="03/09/20 11:35" format="JJ/MM/AAAA">03/09/2020</recordupdate>
+<recordindex datetime="03/09/20 11:35" format="JJ/MM/AAAA">03/09/2020</recordindex>
+<uri>https://documentation.boad.org/dyn/portal/index.seam?page=alo&amp;aloId=17672</uri>
+<field id="TIT" order="1">Accord de coopération entre la BOAD et l'Agence Intergouvernenmentale Panafricaine Eau et Assainissement pour l'Afrique</field>
+<field_path id="TIT" order="1">doc/Alo/P000000/17672/248129/BOAD EAA.pdf</field_path>
+<field_pathLink id="TIT">jah6P0K-SulUR6SK8rXKRye4-qZVuZ0B&#13;
+</field_pathLink>
+<field datetime="07/08/12 00:00" format="JJ/MM/AAAA" id="DTJUR">07/08/2012</field>
+<field id="MOTC" order="1">Garantie</field>
+<field id="LIEUARC">EAA</field>
+<field code="ACc" id="tacc">Accord de coopération</field>
+</record>
+<record id="17673">
+<recordnature code="ARC">ARCHIVES</recordnature>
+<recordtype code="COOP">Coopération</recordtype>
+<recordcreation datetime="19/07/13 16:08" format="JJ/MM/AAAA">19/07/2013</recordcreation>
+<recordupdate datetime="03/09/20 11:34" format="JJ/MM/AAAA">03/09/2020</recordupdate>
+<recordindex datetime="03/09/20 11:34" format="JJ/MM/AAAA">03/09/2020</recordindex>
+<uri>https://documentation.boad.org/dyn/portal/index.seam?page=alo&amp;aloId=17673</uri>
+<field id="TIT" order="1">Protocole d'Accord-cadre entre la BOAD et Energy Carbon Performance (ENECAP)</field>
+<field_path id="TIT" order="1">doc/Alo/P000000/17673/248131/BOAD ENERCAP.pdf</field_path>
+<field_pathLink id="TIT">jah6P0K-SulUR6SK8rXKR_qSFkqJPShX&#13;
+</field_pathLink>
+<field datetime="13/01/12 00:00" format="JJ/MM/AAAA" id="DTJUR">13/01/2012</field>
+<field id="MOTC" order="1">Garantie</field>
+<field id="LIEUARC">Lomé</field>
+<field code="ACc" id="tacc">Accord de coopération</field>
+</record>
+<record id="17674">
+<recordnature code="ARC">ARCHIVES</recordnature>
+<recordtype code="COOP">Coopération</recordtype>
+<recordcreation datetime="19/07/13 16:12" format="JJ/MM/AAAA">19/07/2013</recordcreation>
+<recordupdate datetime="03/09/20 11:33" format="JJ/MM/AAAA">03/09/2020</recordupdate>
+<recordindex datetime="03/09/20 11:33" format="JJ/MM/AAAA">03/09/2020</recordindex>
+<uri>https://documentation.boad.org/dyn/portal/index.seam?page=alo&amp;aloId=17674</uri>
+<field id="TIT" order="1">Protocole d'accord entre la BOAD et le Secrétariat de la Convention Cadre des Nations Unies sur les Changements Climatiques et son Protocole de Kyoto</field>
+<field_path id="TIT" order="1">doc/Alo/P000000/17674/248134/PROTOCOLE KYOTO.pdf</field_path>
+<field_pathLink id="TIT">jah6P0K-SulUR6SK8rXKR_TPTzDGLt8J&#13;
+</field_pathLink>
+<field datetime="16/10/12 00:00" format="JJ/MM/AAAA" id="DTJUR">16/10/2012</field>
+<field id="MOTC" order="1">Garantie</field>
+<field code="ACc" id="tacc">Accord de coopération</field>
+</record>
+<record id="17744">
+<recordnature code="ARC">ARCHIVES</recordnature>
+<recordtype code="COOP">Coopération</recordtype>
+<recordcreation datetime="29/08/13 08:51" format="JJ/MM/AAAA">29/08/2013</recordcreation>
+<recordupdate datetime="29/08/13 08:51" format="JJ/MM/AAAA">29/08/2013</recordupdate>
+<recordindex datetime="29/08/13 08:51" format="JJ/MM/AAAA">29/08/2013</recordindex>
+<uri>https://documentation.boad.org/dyn/portal/index.seam?page=alo&amp;aloId=17744</uri>
+<field id="TIT" order="1">Memorandum of understanding entre la BOAD et United Nations Capital Development Fund (UNCDF / FENU)</field>
+<field_path id="TIT" order="1">doc/Alo/P000000/17744/248792/AC BOAD FENU.pdf</field_path>
+<field_pathLink id="TIT">jah6P0K-SulUR6SK8rXKR4Uhlbn_Xpfo&#13;
+</field_pathLink>
+<field datetime="30/04/13 00:00" format="JJ/MM/AAAA" id="DTJUR">30/04/2013</field>
+</record>
+<record id="17745">
+<recordnature code="ARC">ARCHIVES</recordnature>
+<recordtype code="COOP">Coopération</recordtype>
+<recordcreation datetime="29/08/13 09:19" format="JJ/MM/AAAA">29/08/2013</recordcreation>
+<recordupdate datetime="03/09/20 11:33" format="JJ/MM/AAAA">03/09/2020</recordupdate>
+<recordindex datetime="03/09/20 11:33" format="JJ/MM/AAAA">03/09/2020</recordindex>
+<uri>https://documentation.boad.org/dyn/portal/index.seam?page=alo&amp;aloId=17745</uri>
+<field id="TIT" order="1">Protocole d'accord portant sur les modalités d'utilisation du fonds de contrepartie entre la BOAD et l'Agence Française de Développement</field>
+<field_path id="TIT" order="1">doc/Alo/P000000/17745/248794/ACC BOAD AFD FONDS DE CONTREPARTIE.pdf</field_path>
+<field_pathLink id="TIT">jah6P0K-SulUR6SK8rXKR-yg3TBFBqzr&#13;
+</field_pathLink>
+<field datetime="30/07/04 00:00" format="JJ/MM/AAAA" id="DTJUR">30/07/2004</field>
+<field id="MOTC" order="1">Garantie</field>
+<field id="LIEUARC">Lomé</field>
+<field code="ACc" id="tacc">Accord de coopération</field>
+</record>
+<record id="17746">
+<recordnature code="ARC">ARCHIVES</recordnature>
+<recordtype code="COOP">Coopération</recordtype>
+<recordcreation datetime="29/08/13 09:24" format="JJ/MM/AAAA">29/08/2013</recordcreation>
+<recordupdate datetime="03/09/20 11:31" format="JJ/MM/AAAA">03/09/2020</recordupdate>
+<recordindex datetime="03/09/20 11:31" format="JJ/MM/AAAA">03/09/2020</recordindex>
+<uri>https://documentation.boad.org/dyn/portal/index.seam?page=alo&amp;aloId=17746</uri>
+<field id="TIT" order="1">Accord de coopération entre la BOAD et l'Agence Malienne pour le Développement de l'Energie Domestique et de l'Electrification Rurale (AMADER)</field>
+<field_path id="TIT" order="1">doc/Alo/P000000/17746/248797/ACC BOAD AMADER.pdf</field_path>
+<field_pathLink id="TIT">jah6P0K-SulUR6SK8rXKRy3gXYJKiqt_&#13;
+</field_pathLink>
+<field datetime="14/11/73 00:00" format="JJ/MM/AAAA" id="DTJUR">14/11/1973</field>
+<field id="MOTC" order="1">Garantie</field>
+<field id="LIEUARC">BOAD-AMADER Mali</field>
+<field code="ACc" id="tacc">Accord de coopération</field>
+</record>
+<record id="17753">
+<recordnature code="ARC">ARCHIVES</recordnature>
+<recordtype code="COOP">Coopération</recordtype>
+<recordcreation datetime="03/09/13 15:52" format="JJ/MM/AAAA">03/09/2013</recordcreation>
+<recordupdate datetime="07/11/23 15:44" format="JJ/MM/AAAA">07/11/2023</recordupdate>
+<recordindex datetime="07/11/23 15:44" format="JJ/MM/AAAA">07/11/2023</recordindex>
+<uri>https://documentation.boad.org/dyn/portal/index.seam?page=alo&amp;aloId=17753</uri>
+<field id="TIT" order="1"> entre la  au développement et la Banque Ouest Africaine de Développement relatif au financement du .</field>
+<field_path id="TIT" order="1">doc/Alo/P000000/17753/248858/ACC BOAD BELGIQUE FDE.pdf</field_path>
+<field_pathLink id="TIT">jah6P0K-SulUR6SK8rXKR0BrS4JOb-ST&#13;
+</field_pathLink>
+<field datetime="17/07/13 00:00" format="JJ/MM/AAAA" id="DTJUR">17/07/2013</field>
+<field id="MOTC" order="1">Garantie</field>
+<field id="MOTC" order="2">Direction Belge de coopération</field>
+<field id="MOTC" order="3">Fonds Développement Energie</field>
+<field id="MOTC" order="4">Accord administratif</field>
+<field code="ACc" id="tacc">Accord de coopération</field>
+</record>
+<record id="17754">
+<recordnature code="ARC">ARCHIVES</recordnature>
+<recordtype code="COOP">Coopération</recordtype>
+<recordcreation datetime="03/09/13 15:59" format="JJ/MM/AAAA">03/09/2013</recordcreation>
+<recordupdate datetime="03/09/20 11:27" format="JJ/MM/AAAA">03/09/2020</recordupdate>
+<recordindex datetime="03/09/20 11:27" format="JJ/MM/AAAA">03/09/2020</recordindex>
+<uri>https://documentation.boad.org/dyn/portal/index.seam?page=alo&amp;aloId=17754</uri>
+<field id="TIT" order="1">Protocole d'accord entre la Banque Islamique de Développement BID et la BOAD</field>
+<field_path id="TIT" order="1">doc/Alo/P000000/17754/248860/ACC BOAD BID.pdf</field_path>
+<field_pathLink id="TIT">jah6P0K-SulUR6SK8rXKRzLz4yLcGVf4&#13;
+</field_pathLink>
+<field datetime="29/10/09 00:00" format="JJ/MM/AAAA" id="DTJUR">29/10/2009</field>
+<field id="MOTC" order="1">Garantie</field>
+<field id="LIEUARC">BOAD-BID</field>
+<field code="ACc" id="tacc">Accord de coopération</field>
+</record>
+<record id="17755">
+<recordnature code="ARC">ARCHIVES</recordnature>
+<recordtype code="COOP">Coopération</recordtype>
+<recordcreation datetime="03/09/13 16:06" format="JJ/MM/AAAA">03/09/2013</recordcreation>
+<recordupdate datetime="07/11/23 10:36" format="JJ/MM/AAAA">07/11/2023</recordupdate>
+<recordindex datetime="07/11/23 10:36" format="JJ/MM/AAAA">07/11/2023</recordindex>
+<uri>https://documentation.boad.org/dyn/portal/index.seam?page=alo&amp;aloId=17755</uri>
+<field id="TIT" order="1">Mémorandum of understanding entre la BOAD et la Banco Nacional de Desenvolvimento Ecônomico e social (BNDES)</field>
+<field_path id="TIT" order="1">doc/Alo/P000000/17755/248862/ACC BOAD BNDES.pdf</field_path>
+<field_pathLink id="TIT">jah6P0K-SulUR6SK8rXKR8G2Yttg6pLf&#13;
+</field_pathLink>
+<field datetime="06/07/10 00:00" format="JJ/MM/AAAA" id="DTJUR">06/07/2010</field>
+<field id="MOTC" order="1">Mémorandum of understanding entre la BOAD et la Banco Nacional de Desenvolvimento Ecônomico e social</field>
+<field id="MOTC" order="2">BNDES</field>
+<field id="LIEUARC">Banco Nacional de Desenvolvimento Ecônomico e social (BNDES)</field>
+<field code="ACc" id="tacc">Accord de coopération</field>
+</record>
+<record id="22089">
+<recordnature code="ARC">ARCHIVES</recordnature>
+<recordtype code="COOP">Coopération</recordtype>
+<recordcreation datetime="01/03/19 16:39" format="JJ/MM/AAAA">01/03/2019</recordcreation>
+<recordupdate datetime="29/11/23 17:00" format="JJ/MM/AAAA">29/11/2023</recordupdate>
+<recordindex datetime="29/11/23 17:00" format="JJ/MM/AAAA">29/11/2023</recordindex>
+<uri>https://documentation.boad.org/dyn/portal/index.seam?page=alo&amp;aloId=22089</uri>
+<field id="TIT" order="1">Contrat de prise de participation Côte d'Ivoire</field>
+<field datetime="27/06/14 00:00" format="JJ/MM/AAAA" id="DTJUR">27/06/2014</field>
+<field id="GED" order="1">Bulletin de souscription</field>
+<field_path id="GED" order="1">doc/Alo/P000001/22089/297673/253_Bulletin de souscription_Cote d'Ivoire_15-06-2017.pdf</field_path>
+<field_pathLink id="GED">jah6P0K-SulUR6SK8rXKR9eJbQUaOQcE&#13;
+</field_pathLink>
+<field_path id="GED" order="1">doc/Alo/P000001/22089/297673/253_Bulletin de souscription_Cote d'Ivoire_17-09-2016.pdf</field_path>
+<field_pathLink id="GED">jah6P0K-SulUR6SK8rXKRww-kxGobWcQ&#13;
+</field_pathLink>
+<field id="GED" order="2">Certificats d'actions</field>
+<field_path id="GED" order="2">doc/Alo/P000001/22089/297674/253_Certificats d'actions_Cote d'Ivoire_26 et 28-08 2014.pdf</field_path>
+<field_pathLink id="GED">jah6P0K-SulUR6SK8rXKR2wIC3yCXrqR&#13;
+</field_pathLink>
+<field id="GED" order="3">Pacte d'actionnaires</field>
+<field_path id="GED" order="3">doc/Alo/P000001/22089/297675/253_Pacte d'actionnaires_Cote d'Ivoire.pdf</field_path>
+<field_pathLink id="GED">jah6P0K-SulUR6SK8rXKR4DtEw9nOt5M&#13;
+</field_pathLink>
+<field id="GED" order="4">Pouvoirs et bulletin de souscription</field>
+<field_path id="GED" order="4">doc/Alo/P000001/22089/297677/253_Pouvoirs et bulletin de souscription_Cote d'Ivoire_27-06-2014.pdf</field_path>
+<field_pathLink id="GED">jah6P0K-SulUR6SK8rXKR6zrB7bwHdgG&#13;
+</field_pathLink>
+<field id="LIEUARC">AMETHIS WEST AFRICA SA Côte d'ivoire</field>
+<field code="CPP" id="tacc">Contrat de prise de participation</field>
+</record>
+<record id="22090">
+<recordnature code="ARC">ARCHIVES</recordnature>
+<recordtype code="COOP">Coopération</recordtype>
+<recordcreation datetime="01/03/19 16:43" format="JJ/MM/AAAA">01/03/2019</recordcreation>
+<recordupdate datetime="01/03/19 16:43" format="JJ/MM/AAAA">01/03/2019</recordupdate>
+<recordindex datetime="01/03/19 16:43" format="JJ/MM/AAAA">01/03/2019</recordindex>
+<uri>https://documentation.boad.org/dyn/portal/index.seam?page=alo&amp;aloId=22090</uri>
+<field id="TIT" order="1">Contrat de prise de participation Côte d'Ivoire</field>
+<field datetime="25/09/13 00:00" format="JJ/MM/AAAA" id="DTJUR">25/09/2013</field>
+<field id="GED" order="1">Bulletin de souscription CIPREL</field>
+<field_path id="GED" order="1">doc/Alo/P000001/22090/297686/253_Bulletin de souscription_CIPREL_Cote d'Ivoir_25-09-2013.pdf</field_path>
+<field_pathLink id="GED">jah6P0K-SulUR6SK8rXKR8MvAwdbEOCQ&#13;
+</field_pathLink>
+<field id="LIEUARC">Côte d'ivoire</field>
+<field code="CPP" id="tacc">Contrat de prise de participation</field>
+</record>
+<record id="22091">
+<recordnature code="ARC">ARCHIVES</recordnature>
+<recordtype code="COOP">Coopération</recordtype>
+<recordcreation datetime="01/03/19 16:45" format="JJ/MM/AAAA">01/03/2019</recordcreation>
+<recordupdate datetime="01/03/19 16:45" format="JJ/MM/AAAA">01/03/2019</recordupdate>
+<recordindex datetime="01/03/19 16:45" format="JJ/MM/AAAA">01/03/2019</recordindex>
+<uri>https://documentation.boad.org/dyn/portal/index.seam?page=alo&amp;aloId=22091</uri>
+<field id="TIT" order="1">Contrat de prise de participation FAER</field>
+<field datetime="02/10/15 00:00" format="JJ/MM/AAAA" id="DTJUR">02/10/2015</field>
+<field id="GED" order="1">Acte de cessions de créances a titre de garantie</field>
+<field_path id="GED" order="1">doc/Alo/P000001/22091/297692/253_Acte de cessions de créances a titre de garantie_FAER_02-10-2015.pdf</field_path>
+<field_pathLink id="GED">jah6P0K-SulUR6SK8rXKR5E0vta-SII7&#13;
+</field_pathLink>
+<field id="GED" order="2">Lettre N°AREF001</field>
+<field_path id="GED" order="2">doc/Alo/P000001/22091/297693/253_Lettre N°AREF001-Oth-RP6127_02-10-2015.pdf</field_path>
+<field_pathLink id="GED">jah6P0K-SulUR6SK8rXKRz2JyXvLO0um&#13;
+</field_pathLink>
+<field code="CPP" id="tacc">Contrat de prise de participation</field>
+</record>
+<record id="22092">
+<recordnature code="ARC">ARCHIVES</recordnature>
+<recordtype code="COOP">Coopération</recordtype>
+<recordcreation datetime="01/03/19 16:46" format="JJ/MM/AAAA">01/03/2019</recordcreation>
+<recordupdate datetime="01/03/19 16:47" format="JJ/MM/AAAA">01/03/2019</recordupdate>
+<recordindex datetime="01/03/19 16:47" format="JJ/MM/AAAA">01/03/2019</recordindex>
+<uri>https://documentation.boad.org/dyn/portal/index.seam?page=alo&amp;aloId=22092</uri>
+<field id="TIT" order="1">Contrat de prise de participation PROPARCO</field>
+<field datetime="26/09/14 00:00" format="JJ/MM/AAAA" id="DTJUR">26/09/2014</field>
+<field id="GED" order="1">Bulletin de souscription PROPARCO</field>
+<field_path id="GED" order="1">doc/Alo/P000001/22092/297701/253_Bulletin de souscription PROPARCO_26-09-2014.pdf</field_path>
+<field_pathLink id="GED">jah6P0K-SulUR6SK8rXKR84B6YrhncCq&#13;
+</field_pathLink>
+<field id="GED" order="2">Promesse d'achat d'actions de PROPARCO</field>
+<field_path id="GED" order="2">doc/Alo/P000001/22092/297702/253_Promesse d'achat d'actions de PROPARCO_26-09-2014.pdf</field_path>
+<field_pathLink id="GED">jah6P0K-SulUR6SK8rXKR3ZmcBT3T9PE&#13;
+</field_pathLink>
+<field code="CPP" id="tacc">Contrat de prise de participation</field>
+</record>
+<record id="22094">
+<recordnature code="ARC">ARCHIVES</recordnature>
+<recordtype code="COOP">Coopération</recordtype>
+<recordcreation datetime="01/03/19 16:48" format="JJ/MM/AAAA">01/03/2019</recordcreation>
+<recordupdate datetime="29/11/23 16:59" format="JJ/MM/AAAA">29/11/2023</recordupdate>
+<recordindex datetime="29/11/23 16:59" format="JJ/MM/AAAA">29/11/2023</recordindex>
+<uri>https://documentation.boad.org/dyn/portal/index.seam?page=alo&amp;aloId=22094</uri>
+<field id="TIT" order="1">Contrat de prise de participation Togo</field>
+<field datetime="22/12/09 00:00" format="JJ/MM/AAAA" id="DTJUR">22/12/2009</field>
+<field id="MOTC" order="1">prise de participation</field>
+<field id="GED" order="1">Deux bulletins de souscription</field>
+<field_path id="GED" order="1">doc/Alo/P000001/22094/297711/253_Deux bulletins de souscription_Togo_10-10-2014.pdf</field_path>
+<field_pathLink id="GED">jah6P0K-SulUR6SK8rXKR62bZzVAaTaa&#13;
+</field_pathLink>
+<field id="GED" order="2">Quatre certificats d'actions</field>
+<field_path id="GED" order="2">doc/Alo/P000001/22094/297712/253_Quatre certificats d'actions_Togo_10-10-2014.pdf</field_path>
+<field_pathLink id="GED">jah6P0K-SulUR6SK8rXKR8jY5iSsF_lM&#13;
+</field_pathLink>
+<field id="GED" order="3">Shareholders Agreement</field>
+<field_path id="GED" order="3">doc/Alo/P000001/22094/297713/253_Shareholders Agreement_Togo_22-12-2009.pdf</field_path>
+<field_pathLink id="GED">jah6P0K-SulUR6SK8rXKR7aR9q3KS0u8&#13;
+</field_pathLink>
+<field id="LIEUARC">Asky Togo</field>
+<field code="CPP" id="tacc">Contrat de prise de participation</field>
+</record>
+<record id="22196">
+<recordnature code="ARC">ARCHIVES</recordnature>
+<recordtype code="COOP">Coopération</recordtype>
+<recordcreation datetime="04/03/19 15:28" format="JJ/MM/AAAA">04/03/2019</recordcreation>
+<recordupdate datetime="04/03/19 15:28" format="JJ/MM/AAAA">04/03/2019</recordupdate>
+<recordindex datetime="04/03/19 15:28" format="JJ/MM/AAAA">04/03/2019</recordindex>
+<uri>https://documentation.boad.org/dyn/portal/index.seam?page=alo&amp;aloId=22196</uri>
+<field id="TIT" order="1">Contrat de prise de participation</field>
+<field_path id="TIT" order="1">doc/Alo/P000001/22196/298802/242_Contrat de prise de participation N°2013055-PP BF 2013 41 00_BURKINA FASO_27-12-2013.pdf</field_path>
+<field_pathLink id="TIT">jah6P0K-SulUR6SK8rXKR8VCwvqhc2_o&#13;
+</field_pathLink>
+<field id="TIT" order="2">Attestation de constitution de GAGE</field>
+<field_path id="TIT" order="2">doc/Alo/P000001/22196/298808/242_Attestation de constitution de GAGE_BURKINA FASO_27-12-2013.pdf</field_path>
+<field_pathLink id="TIT">jah6P0K-SulUR6SK8rXKR1Ji5Gm33mRV&#13;
+</field_pathLink>
+<field datetime="27/12/13 00:00" format="JJ/MM/AAAA" id="DTJUR">27/12/2013</field>
+<field id="MOTC" order="1">prise de participation</field>
+<field id="REF">N°2013055-PPBF </field>
+<field id="LIEUARC">Burkina Faso</field>
+<field code="CPP" id="tacc">Contrat de prise de participation</field>
+</record>
+<record id="22199">
+<recordnature code="ARC">ARCHIVES</recordnature>
+<recordtype code="COOP">Coopération</recordtype>
+<recordcreation datetime="04/03/19 16:53" format="JJ/MM/AAAA">04/03/2019</recordcreation>
+<recordupdate datetime="04/03/19 16:54" format="JJ/MM/AAAA">04/03/2019</recordupdate>
+<recordindex datetime="04/03/19 16:54" format="JJ/MM/AAAA">04/03/2019</recordindex>
+<uri>https://documentation.boad.org/dyn/portal/index.seam?page=alo&amp;aloId=22199</uri>
+<field id="TIT" order="1">Contrat de prise de participation</field>
+<field_path id="TIT" order="1">doc/Alo/P000001/22199/298843/242_Contrat de prise de participation_C'ÔTE D'IVOIRE_27-12-2013.pdf</field_path>
+<field_pathLink id="TIT">jah6P0K-SulUR6SK8rXKR5xFIbz4U6NI&#13;
+</field_pathLink>
+<field datetime="27/12/13 00:00" format="JJ/MM/AAAA" id="DTJUR">27/12/2013</field>
+<field id="MOTC" order="1">prise de participation</field>
+<field id="REF">2013056-PPCl </field>
+<field id="LIEUARC">Côte d'ivoire</field>
+<field code="CPP" id="tacc">Contrat de prise de participation</field>
+</record>
+<record id="22207">
+<recordnature code="ARC">ARCHIVES</recordnature>
+<recordtype code="COOP">Coopération</recordtype>
+<recordcreation datetime="04/03/19 17:20" format="JJ/MM/AAAA">04/03/2019</recordcreation>
+<recordupdate datetime="03/09/20 11:26" format="JJ/MM/AAAA">03/09/2020</recordupdate>
+<recordindex datetime="03/09/20 11:26" format="JJ/MM/AAAA">03/09/2020</recordindex>
+<uri>https://documentation.boad.org/dyn/portal/index.seam?page=alo&amp;aloId=22207</uri>
+<field id="TIT" order="1">Accord de coopération entre la BOAD et l' UAPT 10-03-1980</field>
+<field_path id="TIT" order="1">doc/Alo/P000001/22207/298955/91_Accord de coopération entre la BOAD et l' UAPT_10-03-1980.pdf</field_path>
+<field_pathLink id="TIT">jah6P0K-SulUR6SK8rXKRxDxZ34yAfrI&#13;
+</field_pathLink>
+<field datetime="10/03/80 00:00" format="JJ/MM/AAAA" id="DTJUR">10/03/1980</field>
+<field id="MOTC" order="1">garantie</field>
+<field code="ACc" id="tacc">Accord de coopération</field>
+</record>
+<record id="22208">
+<recordnature code="ARC">ARCHIVES</recordnature>
+<recordtype code="COOP">Coopération</recordtype>
+<recordcreation datetime="04/03/19 17:23" format="JJ/MM/AAAA">04/03/2019</recordcreation>
+<recordupdate datetime="03/09/20 11:26" format="JJ/MM/AAAA">03/09/2020</recordupdate>
+<recordindex datetime="03/09/20 11:26" format="JJ/MM/AAAA">03/09/2020</recordindex>
+<uri>https://documentation.boad.org/dyn/portal/index.seam?page=alo&amp;aloId=22208</uri>
+<field id="TIT" order="1">Accord de coopération entre la BOAD et la BAD_18-11-197</field>
+<field_path id="TIT" order="1">doc/Alo/P000001/22208/298958/91_Accord de coopération entre la BOAD et la BAD_18-11-1977.pdf</field_path>
+<field_pathLink id="TIT">jah6P0K-SulUR6SK8rXKRxPLd1EGRO3V&#13;
+</field_pathLink>
+<field datetime="18/11/77 00:00" format="JJ/MM/AAAA" id="DTJUR">18/11/1977</field>
+<field id="MOTC" order="1">Garantie</field>
+<field id="LIEUARC">BAD-Abidjan</field>
+<field code="ACc" id="tacc">Accord de coopération</field>
+</record>
+<record id="22209">
+<recordnature code="ARC">ARCHIVES</recordnature>
+<recordtype code="COOP">Coopération</recordtype>
+<recordcreation datetime="04/03/19 17:24" format="JJ/MM/AAAA">04/03/2019</recordcreation>
+<recordupdate datetime="04/03/19 17:24" format="JJ/MM/AAAA">04/03/2019</recordupdate>
+<recordindex datetime="04/03/19 17:24" format="JJ/MM/AAAA">04/03/2019</recordindex>
+<uri>https://documentation.boad.org/dyn/portal/index.seam?page=alo&amp;aloId=22209</uri>
+<field id="TIT" order="1">Accord de coopération entre la BOAD et la BAD_</field>
+<field_path id="TIT" order="1">doc/Alo/P000001/22209/298962/91_Accord de coopération entre la BOAD et la BAD_21-02-1978.pdf</field_path>
+<field_pathLink id="TIT">jah6P0K-SulUR6SK8rXKRyi19M0FDTq7&#13;
+</field_pathLink>
+<field datetime="21/02/78 00:00" format="JJ/MM/AAAA" id="DTJUR">21/02/1978</field>
+<field id="LIEUARC">BAD</field>
+<field code="ACc" id="tacc">Accord de coopération</field>
+</record>
+<record id="22210">
+<recordnature code="ARC">ARCHIVES</recordnature>
+<recordtype code="COOP">Coopération</recordtype>
+<recordcreation datetime="04/03/19 17:25" format="JJ/MM/AAAA">04/03/2019</recordcreation>
+<recordupdate datetime="03/09/20 11:26" format="JJ/MM/AAAA">03/09/2020</recordupdate>
+<recordindex datetime="03/09/20 11:26" format="JJ/MM/AAAA">03/09/2020</recordindex>
+<uri>https://documentation.boad.org/dyn/portal/index.seam?page=alo&amp;aloId=22210</uri>
+<field id="TIT" order="1">Accord de coopération entre la BOAD et la BDEAC</field>
+<field_path id="TIT" order="1">doc/Alo/P000001/22210/298966/91_Accord de coopération entre la BOAD et la BDEAC_12-06-1980.pdf</field_path>
+<field_pathLink id="TIT">jah6P0K-SulUR6SK8rXKR8RUbyWkWKL3&#13;
+</field_pathLink>
+<field datetime="12/06/80 00:00" format="JJ/MM/AAAA" id="DTJUR">12/06/1980</field>
+<field id="MOTC" order="1">Garantie</field>
+<field id="LIEUARC">BDEAC-Lomé</field>
+<field code="ACc" id="tacc">Accord de coopération</field>
+</record>
+<record id="22211">
+<recordnature code="ARC">ARCHIVES</recordnature>
+<recordtype code="COOP">Coopération</recordtype>
+<recordcreation datetime="04/03/19 17:27" format="JJ/MM/AAAA">04/03/2019</recordcreation>
+<recordupdate datetime="03/09/20 11:23" format="JJ/MM/AAAA">03/09/2020</recordupdate>
+<recordindex datetime="03/09/20 11:23" format="JJ/MM/AAAA">03/09/2020</recordindex>
+<uri>https://documentation.boad.org/dyn/portal/index.seam?page=alo&amp;aloId=22211</uri>
+<field id="TIT" order="1">Accord de coopération entre la BOAD et l'a BIAO_31-05-1979</field>
+<field_path id="TIT" order="1">doc/Alo/P000001/22211/298970/91_Accord de coopération entre la BOAD et l'a BIAO_31-05-1979.pdf</field_path>
+<field_pathLink id="TIT">jah6P0K-SulUR6SK8rXKR6HKTPvSoNKz&#13;
+</field_pathLink>
+<field datetime="31/05/79 00:00" format="JJ/MM/AAAA" id="DTJUR">31/05/1979</field>
+<field id="MOTC" order="1">garantie</field>
+<field id="LIEUARC">BIAO-LOME</field>
+<field code="ACc" id="tacc">Accord de coopération</field>
+</record>
+<record id="22212">
+<recordnature code="ARC">ARCHIVES</recordnature>
+<recordtype code="COOP">Coopération</recordtype>
+<recordcreation datetime="04/03/19 17:27" format="JJ/MM/AAAA">04/03/2019</recordcreation>
+<recordupdate datetime="04/03/19 17:27" format="JJ/MM/AAAA">04/03/2019</recordupdate>
+<recordindex datetime="04/03/19 17:27" format="JJ/MM/AAAA">04/03/2019</recordindex>
+<uri>https://documentation.boad.org/dyn/portal/index.seam?page=alo&amp;aloId=22212</uri>
+<field id="TIT" order="1">Certificat nominatif d'actions</field>
+<field_path id="TIT" order="1">doc/Alo/P000001/22212/298974/52_Certificat nominatif d'actions_Mali_29-12-2010.pdf</field_path>
+<field_pathLink id="TIT">jah6P0K-SulUR6SK8rXKR58Bu-HPtRMd&#13;
+</field_pathLink>
+<field id="TIT" order="2">Attestation de propriete</field>
+<field_path id="TIT" order="2">doc/Alo/P000001/22212/298978/52_Attestation de propriete_Mali_09-11-2012.pdf</field_path>
+<field_pathLink id="TIT">jah6P0K-SulUR6SK8rXKR_Qyg18oZb4u&#13;
+</field_pathLink>
+<field datetime="29/12/10 00:00" format="JJ/MM/AAAA" id="DTJUR">29/12/2010</field>
+<field id="LIEUARC">Mali</field>
+<field code="Can" id="tacc">Certificat d'actions nominatives</field>
+</record>
+<record id="22213">
+<recordnature code="ARC">ARCHIVES</recordnature>
+<recordtype code="COOP">Coopération</recordtype>
+<recordcreation datetime="04/03/19 17:29" format="JJ/MM/AAAA">04/03/2019</recordcreation>
+<recordupdate datetime="04/03/19 17:29" format="JJ/MM/AAAA">04/03/2019</recordupdate>
+<recordindex datetime="04/03/19 17:29" format="JJ/MM/AAAA">04/03/2019</recordindex>
+<uri>https://documentation.boad.org/dyn/portal/index.seam?page=alo&amp;aloId=22213</uri>
+<field id="TIT" order="1">Accord de coopération entre la BOAD et la CEA_24-04-1980</field>
+<field_path id="TIT" order="1">doc/Alo/P000001/22213/298979/91_Accord de coopération entre la BOAD et la CEA_24-04-1980.pdf</field_path>
+<field_pathLink id="TIT">jah6P0K-SulUR6SK8rXKR6ugxpOyHfvd&#13;
+</field_pathLink>
+<field datetime="24/04/80 00:00" format="JJ/MM/AAAA" id="DTJUR">24/04/1980</field>
+<field id="LIEUARC">CEA</field>
+<field code="ACc" id="tacc">Accord de coopération</field>
+</record>
+<record id="22214">
+<recordnature code="ARC">ARCHIVES</recordnature>
+<recordtype code="COOP">Coopération</recordtype>
+<recordcreation datetime="04/03/19 17:29" format="JJ/MM/AAAA">04/03/2019</recordcreation>
+<recordupdate datetime="04/03/19 17:29" format="JJ/MM/AAAA">04/03/2019</recordupdate>
+<recordindex datetime="04/03/19 17:29" format="JJ/MM/AAAA">04/03/2019</recordindex>
+<uri>https://documentation.boad.org/dyn/portal/index.seam?page=alo&amp;aloId=22214</uri>
+<field id="TIT" order="1">Accord de coopération entre la BOAD et la CEAO_</field>
+<field_path id="TIT" order="1">doc/Alo/P000001/22214/298983/91_Accord de coopération entre la BOAD et la CEAO_01-04-1977.pdf</field_path>
+<field_pathLink id="TIT">jah6P0K-SulUR6SK8rXKR8QE2QphaMKF&#13;
+</field_pathLink>
+<field datetime="01/04/77 00:00" format="JJ/MM/AAAA" id="DTJUR">01/04/1977</field>
+<field id="LIEUARC">CEAO</field>
+<field code="ACc" id="tacc">Accord de coopération</field>
+</record>
+<record id="22215">
+<recordnature code="ARC">ARCHIVES</recordnature>
+<recordtype code="COOP">Coopération</recordtype>
+<recordcreation datetime="04/03/19 17:30" format="JJ/MM/AAAA">04/03/2019</recordcreation>
+<recordupdate datetime="03/09/20 11:14" format="JJ/MM/AAAA">03/09/2020</recordupdate>
+<recordindex datetime="03/09/20 11:14" format="JJ/MM/AAAA">03/09/2020</recordindex>
+<uri>https://documentation.boad.org/dyn/portal/index.seam?page=alo&amp;aloId=22215</uri>
+<field id="TIT" order="1">Accord de cooperation entre la BOAD et l'EAMAU_02-12-1980</field>
+<field_path id="TIT" order="1">doc/Alo/P000001/22215/298987/91_Accord de cooperation entre la BOAD et l'EAMAU_02-12-1980.pdf</field_path>
+<field_pathLink id="TIT">jah6P0K-SulUR6SK8rXKR8ZHpf3gswap&#13;
+</field_pathLink>
+<field datetime="02/12/80 00:00" format="JJ/MM/AAAA" id="DTJUR">02/12/1980</field>
+<field id="MOTC" order="1">garantie</field>
+<field id="LIEUARC">EAMAU-Lomé</field>
+<field code="ACc" id="tacc">Accord de coopération</field>
+</record>
+<record id="22216">
+<recordnature code="ARC">ARCHIVES</recordnature>
+<recordtype code="COOP">Coopération</recordtype>
+<recordcreation datetime="04/03/19 17:31" format="JJ/MM/AAAA">04/03/2019</recordcreation>
+<recordupdate datetime="03/09/20 11:11" format="JJ/MM/AAAA">03/09/2020</recordupdate>
+<recordindex datetime="03/09/20 11:11" format="JJ/MM/AAAA">03/09/2020</recordindex>
+<uri>https://documentation.boad.org/dyn/portal/index.seam?page=alo&amp;aloId=22216</uri>
+<field id="TIT" order="1">Accord de coopération entre la BOAD et l'ONUDI_06-06-1978</field>
+<field_path id="TIT" order="1">doc/Alo/P000001/22216/298991/91_Accord de coopération entre la BOAD et l'ONUDI_06-06-1978.pdf</field_path>
+<field_pathLink id="TIT">jah6P0K-SulUR6SK8rXKR-WVo9O7NSby&#13;
+</field_pathLink>
+<field datetime="06/06/78 00:00" format="JJ/MM/AAAA" id="DTJUR">06/06/1978</field>
+<field id="MOTC" order="1">Garantie</field>
+<field id="LIEUARC">ONUDI</field>
+<field code="ACc" id="tacc">Accord de coopération</field>
+</record>
+<record id="22217">
+<recordnature code="ARC">ARCHIVES</recordnature>
+<recordtype code="COOP">Coopération</recordtype>
+<recordcreation datetime="04/03/19 17:32" format="JJ/MM/AAAA">04/03/2019</recordcreation>
+<recordupdate datetime="03/09/20 11:11" format="JJ/MM/AAAA">03/09/2020</recordupdate>
+<recordindex datetime="03/09/20 11:11" format="JJ/MM/AAAA">03/09/2020</recordindex>
+<uri>https://documentation.boad.org/dyn/portal/index.seam?page=alo&amp;aloId=22217</uri>
+<field id="TIT" order="1">Accord de cooperation entre la BOAD et l'UIT_03-07-1980</field>
+<field_path id="TIT" order="1">doc/Alo/P000001/22217/298995/91_Accord de cooperation entre la BOAD et l'UIT_03-07-1980.pdf</field_path>
+<field_pathLink id="TIT">jah6P0K-SulUR6SK8rXKRzZbDPIImOty&#13;
+</field_pathLink>
+<field datetime="03/07/80 00:00" format="JJ/MM/AAAA" id="DTJUR">03/07/1980</field>
+<field id="MOTC" order="1">Garantie</field>
+<field id="LIEUARC">UIT</field>
+<field code="ACc" id="tacc">Accord de coopération</field>
+</record>
+<record id="22218">
+<recordnature code="ARC">ARCHIVES</recordnature>
+<recordtype code="COOP">Coopération</recordtype>
+<recordcreation datetime="04/03/19 17:34" format="JJ/MM/AAAA">04/03/2019</recordcreation>
+<recordupdate datetime="03/09/20 11:10" format="JJ/MM/AAAA">03/09/2020</recordupdate>
+<recordindex datetime="03/09/20 11:10" format="JJ/MM/AAAA">03/09/2020</recordindex>
+<uri>https://documentation.boad.org/dyn/portal/index.seam?page=alo&amp;aloId=22218</uri>
+<field id="TIT" order="1">Accord de coopération entre la BOAD et l'US-AID</field>
+<field_path id="TIT" order="1">doc/Alo/P000001/22218/298998/91_Accord de coopération entre la BOAD et l'US-AID_06-04-1978.pdf</field_path>
+<field_pathLink id="TIT">jah6P0K-SulUR6SK8rXKR5jYJ-3ogemi&#13;
+</field_pathLink>
+<field datetime="06/04/78 00:00" format="JJ/MM/AAAA" id="DTJUR">06/04/1978</field>
+<field id="MOTC" order="1">Garantie</field>
+<field id="LIEUARC">US-AID</field>
+<field code="ACc" id="tacc">Accord de coopération</field>
+</record>
+<record id="22219">
+<recordnature code="ARC">ARCHIVES</recordnature>
+<recordtype code="COOP">Coopération</recordtype>
+<recordcreation datetime="04/03/19 17:35" format="JJ/MM/AAAA">04/03/2019</recordcreation>
+<recordupdate datetime="03/09/20 11:09" format="JJ/MM/AAAA">03/09/2020</recordupdate>
+<recordindex datetime="03/09/20 11:09" format="JJ/MM/AAAA">03/09/2020</recordindex>
+<uri>https://documentation.boad.org/dyn/portal/index.seam?page=alo&amp;aloId=22219</uri>
+<field id="TIT" order="1">Accord de coopération entre la BOAD-CEAO-FEGECE_24-06-1977</field>
+<field_path id="TIT" order="1">doc/Alo/P000001/22219/299002/91_Accord de coopération entre la BOAD-CEAO-FEGECE_24-06-1977.pdf</field_path>
+<field_pathLink id="TIT">jah6P0K-SulUR6SK8rXKR1fIeal6j_oP&#13;
+</field_pathLink>
+<field datetime="24/06/77 00:00" format="JJ/MM/AAAA" id="DTJUR">24/06/1977</field>
+<field id="MOTC" order="1">Garantie</field>
+<field id="LIEUARC">CEAO-FEGECE</field>
+<field code="ACc" id="tacc">Accord de coopération</field>
+</record>
+<record id="22220">
+<recordnature code="ARC">ARCHIVES</recordnature>
+<recordtype code="COOP">Coopération</recordtype>
+<recordcreation datetime="05/03/19 08:18" format="JJ/MM/AAAA">05/03/2019</recordcreation>
+<recordupdate datetime="05/03/19 08:19" format="JJ/MM/AAAA">05/03/2019</recordupdate>
+<recordindex datetime="05/03/19 08:19" format="JJ/MM/AAAA">05/03/2019</recordindex>
+<uri>https://documentation.boad.org/dyn/portal/index.seam?page=alo&amp;aloId=22220</uri>
+<field id="TIT" order="1">Contrat de Prise de Participation</field>
+<field_path id="TIT" order="1">doc/Alo/P000001/22220/299006/52_Contrat de Prise de Participation_Togo_06-07-1988.pdf</field_path>
+<field_pathLink id="TIT">jah6P0K-SulUR6SK8rXKRxoIhM7Qbbjb&#13;
+</field_pathLink>
+<field datetime="06/07/88 00:00" format="JJ/MM/AAAA" id="DTJUR">06/07/1988</field>
+<field id="MOTC" order="1">prise de participation</field>
+<field id="REF">001-00-CPP</field>
+<field id="LIEUARC">Togo-BTD</field>
+<field code="CPP" id="tacc">Contrat de prise de participation</field>
+</record>
+<record id="22221">
+<recordnature code="ARC">ARCHIVES</recordnature>
+<recordtype code="COOP">Coopération</recordtype>
+<recordcreation datetime="05/03/19 08:22" format="JJ/MM/AAAA">05/03/2019</recordcreation>
+<recordupdate datetime="03/09/20 10:46" format="JJ/MM/AAAA">03/09/2020</recordupdate>
+<recordindex datetime="03/09/20 10:46" format="JJ/MM/AAAA">03/09/2020</recordindex>
+<uri>https://documentation.boad.org/dyn/portal/index.seam?page=alo&amp;aloId=22221</uri>
+<field id="TIT" order="1">Contrat de Prise de Participation</field>
+<field_path id="TIT" order="1">doc/Alo/P000001/22221/299018/52_Contrat de Prise de Participation_Burkina Faso_01-08-1988.pdf</field_path>
+<field_pathLink id="TIT">jah6P0K-SulUR6SK8rXKR82WpA0ZpMen&#13;
+</field_pathLink>
+<field datetime="01/08/88 00:00" format="JJ/MM/AAAA" id="DTJUR">01/08/1988</field>
+<field id="MOTC" order="1">Conttrat de prêt, garantie convention de délégation de créance</field>
+<field id="REF">002-00-CPP</field>
+<field id="LIEUARC">Burkina Faso-BNDB</field>
+<field code="CPP" id="tacc">Contrat de prise de participation</field>
+</record>
+<record id="22222">
+<recordnature code="ARC">ARCHIVES</recordnature>
+<recordtype code="COOP">Coopération</recordtype>
+<recordcreation datetime="05/03/19 08:24" format="JJ/MM/AAAA">05/03/2019</recordcreation>
+<recordupdate datetime="05/03/19 08:25" format="JJ/MM/AAAA">05/03/2019</recordupdate>
+<recordindex datetime="05/03/19 08:25" format="JJ/MM/AAAA">05/03/2019</recordindex>
+<uri>https://documentation.boad.org/dyn/portal/index.seam?page=alo&amp;aloId=22222</uri>
+<field id="TIT" order="1">Contrat de Prise de Participation</field>
+<field_path id="TIT" order="1">doc/Alo/P000001/22222/299023/52_Contrat de Prise de Participation_Cote d'Ivoire_16-02-1989.pdf</field_path>
+<field_pathLink id="TIT">jah6P0K-SulUR6SK8rXKR9rVSmToeaUG&#13;
+</field_pathLink>
+<field id="TIT" order="2">Pourvoirs</field>
+<field_path id="TIT" order="2">doc/Alo/P000001/22222/299029/52_Pourvoirs_Cote d'Ivoire_14-02-1989.pdf</field_path>
+<field_pathLink id="TIT">jah6P0K-SulUR6SK8rXKRwyr-whzN_7q&#13;
+</field_pathLink>
+<field datetime="16/02/89 00:00" format="JJ/MM/AAAA" id="DTJUR">16/02/1989</field>
+<field id="MOTC" order="1">prise de participation</field>
+<field id="REF">003-00-CPP</field>
+<field id="LIEUARC">Côte d'Ivoire-BNDA</field>
+<field code="CPP" id="tacc">Contrat de prise de participation</field>
+</record>
+<record id="22223">
+<recordnature code="ARC">ARCHIVES</recordnature>
+<recordtype code="COOP">Coopération</recordtype>
+<recordcreation datetime="05/03/19 08:28" format="JJ/MM/AAAA">05/03/2019</recordcreation>
+<recordupdate datetime="05/03/19 08:34" format="JJ/MM/AAAA">05/03/2019</recordupdate>
+<recordindex datetime="05/03/19 08:34" format="JJ/MM/AAAA">05/03/2019</recordindex>
+<uri>https://documentation.boad.org/dyn/portal/index.seam?page=alo&amp;aloId=22223</uri>
+<field id="TIT" order="1">Contrat de prise de participation Togo</field>
+<field_path id="TIT" order="1">doc/Alo/P000001/22223/299035/52_Contrat de Prise de Participation_Burkina Faso_31-07-1989.pdf</field_path>
+<field_pathLink id="TIT">jah6P0K-SulUR6SK8rXKR0cxQUWkyHcK&#13;
+</field_pathLink>
+<field datetime="31/07/89 00:00" format="JJ/MM/AAAA" id="DTJUR">31/07/1989</field>
+<field id="MOTC" order="1">prise de participation</field>
+<field id="REF">004-00-CPP</field>
+<field id="LIEUARC">Burkina Faso-la banque pour te financement du commerce et des investissements du Burkina</field>
+<field code="CPP" id="tacc">Contrat de prise de participation</field>
+</record>
+<record id="22224">
+<recordnature code="ARC">ARCHIVES</recordnature>
+<recordtype code="COOP">Coopération</recordtype>
+<recordcreation datetime="05/03/19 08:39" format="JJ/MM/AAAA">05/03/2019</recordcreation>
+<recordupdate datetime="05/03/19 08:40" format="JJ/MM/AAAA">05/03/2019</recordupdate>
+<recordindex datetime="05/03/19 08:40" format="JJ/MM/AAAA">05/03/2019</recordindex>
+<uri>https://documentation.boad.org/dyn/portal/index.seam?page=alo&amp;aloId=22224</uri>
+<field id="TIT" order="1">Contrat de Prise de Participation</field>
+<field_path id="TIT" order="1">doc/Alo/P000001/22224/299047/52_Contrat de Prise de Participation_Mali_19-09-1989.pdf</field_path>
+<field_pathLink id="TIT">jah6P0K-SulUR6SK8rXKR_EFNma3m9BR&#13;
+</field_pathLink>
+<field datetime="19/09/89 00:00" format="JJ/MM/AAAA" id="DTJUR">19/09/1989</field>
+<field id="MOTC" order="1">prise de participation</field>
+<field id="REF">05-CPP</field>
+<field id="GED" order="1">Certificat nominatif</field>
+<field_path id="GED" order="1">doc/Alo/P000001/22224/299063/52_Certificat nominatif_Mali_08-08-1989.pdf</field_path>
+<field_pathLink id="GED">jah6P0K-SulUR6SK8rXKR31bRC2uMJl_&#13;
+</field_pathLink>
+<field id="GED" order="2">Attestation de propriété d'actions</field>
+<field_path id="GED" order="2">doc/Alo/P000001/22224/299064/52_Attestation de propriété d'actions_Mali_19-02-2002.pdf</field_path>
+<field_pathLink id="GED">jah6P0K-SulUR6SK8rXKRzx-6vpahSmW&#13;
+</field_pathLink>
+<field id="LIEUARC">Mali-BDM</field>
+<field code="CPP" id="tacc">Contrat de prise de participation</field>
+</record>
+<record id="22225">
+<recordnature code="ARC">ARCHIVES</recordnature>
+<recordtype code="COOP">Coopération</recordtype>
+<recordcreation datetime="05/03/19 08:40" format="JJ/MM/AAAA">05/03/2019</recordcreation>
+<recordupdate datetime="03/09/20 11:07" format="JJ/MM/AAAA">03/09/2020</recordupdate>
+<recordindex datetime="03/09/20 11:07" format="JJ/MM/AAAA">03/09/2020</recordindex>
+<uri>https://documentation.boad.org/dyn/portal/index.seam?page=alo&amp;aloId=22225</uri>
+<field id="TIT" order="1">Accord de coopération entre SONES-AFD-BEI-CE et la BOAD_Senegal</field>
+<field_path id="TIT" order="1">doc/Alo/P000001/22225/299053/166_Accord de coopération entre SONES-AFD-BEI-CE et la BOAD_Senegal_04-03-2009.pdf</field_path>
+<field_pathLink id="TIT">jah6P0K-SulUR6SK8rXKRw3XcL3HQE0y&#13;
+</field_pathLink>
+<field id="TIT" order="2">Accord inter créanciers entre AFD-BEI et BOAD</field>
+<field_path id="TIT" order="2">doc/Alo/P000001/22225/299065/166_Accord inter créanciers entre AFD-BEI et BOAD_Senegal_05-08-2009.pdf</field_path>
+<field_pathLink id="TIT">jah6P0K-SulUR6SK8rXKR8cneRJ-EZ4K&#13;
+</field_pathLink>
+<field datetime="04/03/09 00:00" format="JJ/MM/AAAA" id="DTJUR">04/03/2009</field>
+<field id="MOTC" order="1">Garantie</field>
+<field id="GED" order="1">Lettre HC-MCS-0064-2013-D</field>
+<field_path id="GED" order="1">doc/Alo/P000001/22225/299073/166_Lettre HC-MCS-0064-2013-D_Senegal_22-01-2013.pdf</field_path>
+<field_pathLink id="GED">jah6P0K-SulUR6SK8rXKRyKfm9eWejS2&#13;
+</field_pathLink>
+<field id="GED" order="2">Avenant N°1 à l'accord inter créanciers</field>
+<field_path id="GED" order="2">doc/Alo/P000001/22225/299074/166_Avenant N°1 à l'accord inter créanciers_Senegal_21-12-2012.pdf</field_path>
+<field_pathLink id="GED">jah6P0K-SulUR6SK8rXKRymKOWEUrlZe&#13;
+</field_pathLink>
+<field id="LIEUARC">SONES-AFD-BEI-CE</field>
+<field code="ACc" id="tacc">Accord de coopération</field>
+</record>
+<record id="22226">
+<recordnature code="ARC">ARCHIVES</recordnature>
+<recordtype code="COOP">Coopération</recordtype>
+<recordcreation datetime="05/03/19 08:42" format="JJ/MM/AAAA">05/03/2019</recordcreation>
+<recordupdate datetime="05/03/19 08:42" format="JJ/MM/AAAA">05/03/2019</recordupdate>
+<recordindex datetime="05/03/19 08:42" format="JJ/MM/AAAA">05/03/2019</recordindex>
+<uri>https://documentation.boad.org/dyn/portal/index.seam?page=alo&amp;aloId=22226</uri>
+<field id="TIT" order="1">Contrat de prise de participation </field>
+<field_path id="TIT" order="1">doc/Alo/P000001/22226/299066/52_Contrat de Prise de Participation_Benin_03-11-1989.pdf</field_path>
+<field_pathLink id="TIT">jah6P0K-SulUR6SK8rXKR7xvKuyb4mvk&#13;
+</field_pathLink>
+<field datetime="03/11/89 00:00" format="JJ/MM/AAAA" id="DTJUR">03/11/1989</field>
+<field id="MOTC" order="1">prise de participation</field>
+<field id="REF">006-00-CPP</field>
+<field id="GED" order="1">Attestation de detention</field>
+<field_path id="GED" order="1">doc/Alo/P000001/22226/299081/52_Attestation de detention_Benin_12-11-2012.pdf</field_path>
+<field_pathLink id="GED">jah6P0K-SulUR6SK8rXKRw7L9VQwCWgW&#13;
+</field_pathLink>
+<field id="GED" order="2">Convention de Mandat</field>
+<field_path id="GED" order="2">doc/Alo/P000001/22226/299082/52_Convention de Mandat_Benin_19-12-1990.pdf</field_path>
+<field_pathLink id="GED">jah6P0K-SulUR6SK8rXKR82r2lSJbcVN&#13;
+</field_pathLink>
+<field id="LIEUARC">Benin-BOA-B</field>
+<field code="CPP" id="tacc">Contrat de prise de participation</field>
+</record>
+<record id="22228">
+<recordnature code="ARC">ARCHIVES</recordnature>
+<recordtype code="COOP">Coopération</recordtype>
+<recordcreation datetime="05/03/19 08:57" format="JJ/MM/AAAA">05/03/2019</recordcreation>
+<recordupdate datetime="05/03/19 08:59" format="JJ/MM/AAAA">05/03/2019</recordupdate>
+<recordindex datetime="05/03/19 08:59" format="JJ/MM/AAAA">05/03/2019</recordindex>
+<uri>https://documentation.boad.org/dyn/portal/index.seam?page=alo&amp;aloId=22228</uri>
+<field id="TIT" order="1">&#13;
+&#13;
+Contrat de prise de participation </field>
+<field_path id="TIT" order="1">doc/Alo/P000001/22228/299104/52_Contrat de Prise de Participation_Mali_17-11-1989.pdf</field_path>
+<field_pathLink id="TIT">jah6P0K-SulUR6SK8rXKR5IgaquDSo9z&#13;
+</field_pathLink>
+<field datetime="17/11/89 00:00" format="JJ/MM/AAAA" id="DTJUR">17/11/1989</field>
+<field id="MOTC" order="1">prise de participation </field>
+<field id="REF">007-00-CPP</field>
+<field id="LIEUARC">Mali-la société malienne de l’immobilier et de gestion hôtelière</field>
+<field code="CPP" id="tacc">Contrat de prise de participation</field>
+</record>
+<record id="22229">
+<recordnature code="ARC">ARCHIVES</recordnature>
+<recordtype code="COOP">Coopération</recordtype>
+<recordcreation datetime="05/03/19 09:02" format="JJ/MM/AAAA">05/03/2019</recordcreation>
+<recordupdate datetime="05/03/19 09:06" format="JJ/MM/AAAA">05/03/2019</recordupdate>
+<recordindex datetime="05/03/19 09:06" format="JJ/MM/AAAA">05/03/2019</recordindex>
+<uri>https://documentation.boad.org/dyn/portal/index.seam?page=alo&amp;aloId=22229</uri>
+<field id="TIT" order="1">Contrat de prise de Participation</field>
+<field_path id="TIT" order="1">doc/Alo/P000001/22229/299116/52_Contrat de prise de Participation_CI_11-09-1990.pdf</field_path>
+<field_pathLink id="TIT">jah6P0K-SulUR6SK8rXKR_o8q3Hasyl_&#13;
+</field_pathLink>
+<field datetime="11/09/90 00:00" format="JJ/MM/AAAA" id="DTJUR">11/09/1990</field>
+<field id="MOTC" order="1">prise de participation</field>
+<field id="REF"> PP-CI 90-01-00</field>
+<field id="GED" order="1">Dépot de pieces</field>
+<field_path id="GED" order="1">doc/Alo/P000001/22229/299128/52_Dépot de pieces_Cote d'Ivoire_18-08-1990.pdf</field_path>
+<field_pathLink id="GED">jah6P0K-SulUR6SK8rXKRx46Cp1cRIe7&#13;
+</field_pathLink>
+<field id="GED" order="2">Proces verbal</field>
+<field_path id="GED" order="2">doc/Alo/P000001/22229/299129/52_Proces verbal_Cote d'Ivoire_17-01-1990.pdf</field_path>
+<field_pathLink id="GED">jah6P0K-SulUR6SK8rXKR7yIWMxEuj5L&#13;
+</field_pathLink>
+<field id="LIEUARC">Côte d'ivoire</field>
+<field code="CPP" id="tacc">Contrat de prise de participation</field>
+</record>
+<record id="22231">
+<recordnature code="ARC">ARCHIVES</recordnature>
+<recordtype code="COOP">Coopération</recordtype>
+<recordcreation datetime="05/03/19 09:09" format="JJ/MM/AAAA">05/03/2019</recordcreation>
+<recordupdate datetime="29/11/23 17:16" format="JJ/MM/AAAA">29/11/2023</recordupdate>
+<recordindex datetime="29/11/23 17:16" format="JJ/MM/AAAA">29/11/2023</recordindex>
+<uri>https://documentation.boad.org/dyn/portal/index.seam?page=alo&amp;aloId=22231</uri>
+<field id="TIT" order="1">Contrat de prise de participation PP BF 92 01 00 du 18-10-1991 entre la caisse Nationale de Crédit Agricole du Burkina (CNCA Burkina) et la BOAD</field>
+<field_path id="TIT" order="1">doc/Alo/P000001/22231/299133/Contrat de prise de participation PP BF 92 01 00 du 18-10-1991.pdf</field_path>
+<field_pathLink id="TIT">jah6P0K-SumXY1PSV4X6z2KGuGvqx1i7&#13;
+</field_pathLink>
+<field datetime="18/10/91 00:00" format="JJ/MM/AAAA" id="DTJUR">18/10/1991</field>
+<field id="MOTC" order="1">Prise de participation</field>
+<field id="MOTC" order="2">CNCA Burkina</field>
+<field id="MOTC" order="3">92 01 00</field>
+<field id="MOTC" order="4">caisse Nationale de Crédit Agricole du Burkina</field>
+<field id="MOTC" order="5">Burkina Faso</field>
+<field id="REF">PP BF  92 01 00</field>
+<field id="GED" order="1">Pouvoirs</field>
+<field_path id="GED" order="1">doc/Alo/P000001/22231/299145/53_Pouvoirs_CNCA-BURKINA_20-09-1991.pdf</field_path>
+<field_pathLink id="GED">jah6P0K-SulUR6SK8rXKR4llBP1cH59n&#13;
+</field_pathLink>
+<field id="LIEUARC">CNCA-BURKINA</field>
+<field code="CPP" id="tacc">Contrat de prise de participation</field>
+</record>
+<record id="22232">
+<recordnature code="ARC">ARCHIVES</recordnature>
+<recordtype code="COOP">Coopération</recordtype>
+<recordcreation datetime="05/03/19 09:13" format="JJ/MM/AAAA">05/03/2019</recordcreation>
+<recordupdate datetime="29/11/23 17:59" format="JJ/MM/AAAA">29/11/2023</recordupdate>
+<recordindex datetime="29/11/23 17:59" format="JJ/MM/AAAA">29/11/2023</recordindex>
+<uri>https://documentation.boad.org/dyn/portal/index.seam?page=alo&amp;aloId=22232</uri>
+<field id="TIT" order="1">Contrat de Prise de Participation </field>
+<field_path id="TIT" order="1">doc/Alo/P000001/22232/299151/53_Contrat de prise de participation_Bénin_10-03-1997.pdf</field_path>
+<field_pathLink id="TIT">jah6P0K-SulUR6SK8rXKRzhevwEnCVpC&#13;
+</field_pathLink>
+<field datetime="10/03/97 00:00" format="JJ/MM/AAAA" id="DTJUR">10/03/1997</field>
+<field id="MOTC" order="1">prise de participation</field>
+<field id="MOTC" order="2">Continental Bank-Bénin</field>
+<field id="MOTC" order="3">97 01 00</field>
+<field id="REF">PP BN  97 01 00</field>
+<field id="GED" order="1">Convention</field>
+<field_path id="GED" order="1">doc/Alo/P000001/22232/299171/53_Convention_Bénin_10-03-1997.pdf</field_path>
+<field_pathLink id="GED">jah6P0K-SulUR6SK8rXKRzTgv4kav-YJ&#13;
+</field_pathLink>
+<field id="LIEUARC">Bénin-Continental Bank-Bénin</field>
+<field code="CPP" id="tacc">Contrat de prise de participation</field>
+</record>
+<record id="22233">
+<recordnature code="ARC">ARCHIVES</recordnature>
+<recordtype code="COOP">Coopération</recordtype>
+<recordcreation datetime="05/03/19 09:15" format="JJ/MM/AAAA">05/03/2019</recordcreation>
+<recordupdate datetime="29/11/23 17:55" format="JJ/MM/AAAA">29/11/2023</recordupdate>
+<recordindex datetime="29/11/23 17:55" format="JJ/MM/AAAA">29/11/2023</recordindex>
+<uri>https://documentation.boad.org/dyn/portal/index.seam?page=alo&amp;aloId=22233</uri>
+<field id="TIT" order="1">Contrat de Prise de Participation </field>
+<field_path id="TIT" order="1">doc/Alo/P000001/22233/299182/Contrat de prise de participation PP BN 93 01 00 du 15-10-1992.pdf</field_path>
+<field_pathLink id="TIT">jah6P0K-SumXY1PSV4X6z-SWGeO5mcxq&#13;
+</field_pathLink>
+<field datetime="15/10/92 00:00" format="JJ/MM/AAAA" id="DTJUR">15/10/1992</field>
+<field id="MOTC" order="1">prise de participation </field>
+<field id="MOTC" order="2">BOA Bénin</field>
+<field id="MOTC" order="3">93 01 00</field>
+<field id="REF">PP BN 93 01 00</field>
+<field id="GED" order="1">Pouvoirs</field>
+<field_path id="GED" order="1">doc/Alo/P000001/22233/299200/53_Pouvoirs_Bénin_14-10-1992.pdf</field_path>
+<field_pathLink id="GED">jah6P0K-SulUR6SK8rXKR4w0WI3cE3dt&#13;
+</field_pathLink>
+<field id="LIEUARC">Bénin-BOA Bénin</field>
+<field code="CPP" id="tacc">Contrat de prise de participation</field>
+</record>
+<record id="22234">
+<recordnature code="ARC">ARCHIVES</recordnature>
+<recordtype code="COOP">Coopération</recordtype>
+<recordcreation datetime="05/03/19 09:17" format="JJ/MM/AAAA">05/03/2019</recordcreation>
+<recordupdate datetime="29/11/23 18:03" format="JJ/MM/AAAA">29/11/2023</recordupdate>
+<recordindex datetime="29/11/23 18:03" format="JJ/MM/AAAA">29/11/2023</recordindex>
+<uri>https://documentation.boad.org/dyn/portal/index.seam?page=alo&amp;aloId=22234</uri>
+<field id="TIT" order="1">Contrat de Prise de Participation </field>
+<field_path id="TIT" order="1">doc/Alo/P000001/22234/299201/53_Contrat de prise de participation _01-12-1993.pdf</field_path>
+<field_pathLink id="TIT">jah6P0K-SulUR6SK8rXKR7yj3NJgTebk&#13;
+</field_pathLink>
+<field datetime="01/12/93 00:00" format="JJ/MM/AAAA" id="DTJUR">01/12/1993</field>
+<field id="MOTC" order="1">prise de participation</field>
+<field id="MOTC" order="2">Banque de l'Habitat de Côte d'Ivoire</field>
+<field id="MOTC" order="3">BHCI</field>
+<field id="MOTC" order="4">94 01 00</field>
+<field id="REF">PP CI 94 01 00</field>
+<field id="GED" order="1">Delibération du CA</field>
+<field_path id="GED" order="1">doc/Alo/P000001/22234/435155/Delibération du CA du 26-11-1993.pdf</field_path>
+<field_pathLink id="GED">jah6P0K-SumXY1PSV4X6z74_BMuhlfBh&#13;
+</field_pathLink>
+<field id="LIEUARC">Côte d'ivoire-Banque de l'Habitat de Côte d'Ivoire (BHCI)</field>
+<field code="CPP" id="tacc">Contrat de prise de participation</field>
+</record>
+<record id="22235">
+<recordnature code="ARC">ARCHIVES</recordnature>
+<recordtype code="COOP">Coopération</recordtype>
+<recordcreation datetime="05/03/19 09:17" format="JJ/MM/AAAA">05/03/2019</recordcreation>
+<recordupdate datetime="11/12/23 17:30" format="JJ/MM/AAAA">11/12/2023</recordupdate>
+<recordindex datetime="11/12/23 17:30" format="JJ/MM/AAAA">11/12/2023</recordindex>
+<uri>https://documentation.boad.org/dyn/portal/index.seam?page=alo&amp;aloId=22235</uri>
+<field id="TIT" order="1">Contrat de prise de participation de la BOAD au Capital Social du Fonds Cauris Croissance (FCC) au Togo</field>
+<field_path id="TIT" order="1">doc/Alo/P000001/22235/299207/162_Contrat de prise de participation_TOGO_06-07-2005.pdf</field_path>
+<field_pathLink id="TIT">jah6P0K-SulUR6SK8rXKR-OLnECy79pH&#13;
+</field_pathLink>
+<field datetime="06/07/05 00:00" format="JJ/MM/AAAA" id="DTJUR">06/07/2005</field>
+<field id="MOTC" order="1">Garanties</field>
+<field id="MOTC" order="2">FONDS CAURIS CROISSANCE</field>
+<field id="MOTC" order="3">2005056</field>
+<field id="MOTC" order="4">TG PP 2005 07 00</field>
+<field id="MOTC" order="5">2005 07 00</field>
+<field id="MOTC" order="6">FCC</field>
+<field id="REF">2005056-TG PP 2005 07 00</field>
+<field id="GED" order="1">Avenant au contrat N°2004056-PP-TG-2005-07-01</field>
+<field_path id="GED" order="1">doc/Alo/P000001/22235/299212/162_Avenant au contrat N°2004056-PP-TG-2005-07-01_TOGO_06-07-2005.pdf</field_path>
+<field_pathLink id="GED">jah6P0K-SulUR6SK8rXKR_nEDT_nlG9W&#13;
+</field_pathLink>
+<field id="GED" order="2">Guaranties</field>
+<field_path id="GED" order="2">doc/Alo/P000001/22235/299213/162_Guaranties_TOGO_29-03-2002.pdf</field_path>
+<field_pathLink id="GED">jah6P0K-SulUR6SK8rXKR_3WC3CMKIqH&#13;
+</field_pathLink>
+<field id="LIEUARC">TOGO-FONDS CAURIS CROISSANCE</field>
+<field code="CPP" id="tacc">Contrat de prise de participation</field>
+</record>
+<record id="22236">
+<recordnature code="ARC">ARCHIVES</recordnature>
+<recordtype code="COOP">Coopération</recordtype>
+<recordcreation datetime="05/03/19 09:19" format="JJ/MM/AAAA">05/03/2019</recordcreation>
+<recordupdate datetime="29/11/23 17:38" format="JJ/MM/AAAA">29/11/2023</recordupdate>
+<recordindex datetime="29/11/23 17:38" format="JJ/MM/AAAA">29/11/2023</recordindex>
+<uri>https://documentation.boad.org/dyn/portal/index.seam?page=alo&amp;aloId=22236</uri>
+<field id="TIT" order="1">Contrat de Prise de Participation </field>
+<field_path id="TIT" order="1">doc/Alo/P000001/22236/299214/53_Contrat de prise de participation_Ivoir-Café_27-05-1994.pdf</field_path>
+<field_pathLink id="TIT">jah6P0K-SulUR6SK8rXKR55cNa9qDozu&#13;
+</field_pathLink>
+<field datetime="27/05/94 00:00" format="JJ/MM/AAAA" id="DTJUR">27/05/1994</field>
+<field id="MOTC" order="1">prise de participation</field>
+<field id="REF">PP CI 94 03 00</field>
+<field id="LIEUARC">Côte d'ivoire IVOIR-CAFE</field>
+<field code="CPP" id="tacc">Contrat de prise de participation</field>
+</record>
+<record id="22237">
+<recordnature code="ARC">ARCHIVES</recordnature>
+<recordtype code="COOP">Coopération</recordtype>
+<recordcreation datetime="05/03/19 09:21" format="JJ/MM/AAAA">05/03/2019</recordcreation>
+<recordupdate datetime="29/11/23 17:35" format="JJ/MM/AAAA">29/11/2023</recordupdate>
+<recordindex datetime="29/11/23 17:35" format="JJ/MM/AAAA">29/11/2023</recordindex>
+<uri>https://documentation.boad.org/dyn/portal/index.seam?page=alo&amp;aloId=22237</uri>
+<field id="TIT" order="1">Contrat de Prise de Participation </field>
+<field_path id="TIT" order="1">doc/Alo/P000001/22237/299220/Contrat de prise de participation PP CI 95 01 00 du 26-10-1994.pdf</field_path>
+<field_pathLink id="TIT">jah6P0K-SumXY1PSV4X6zyee-TM9fqMj&#13;
+</field_pathLink>
+<field datetime="26/10/94 00:00" format="JJ/MM/AAAA" id="DTJUR">26/10/1994</field>
+<field id="MOTC" order="1">prise de participation</field>
+<field id="MOTC" order="2">CIPREL</field>
+<field id="MOTC" order="3">95 01 00</field>
+<field id="REF">PP CI 95 01 00</field>
+<field id="GED" order="1">Conditions préalables CIPREL-CI</field>
+<field_path id="GED" order="1">doc/Alo/P000001/22237/299232/53_Conditions préalables_CIPREL-CI _25-04-1995.pdf</field_path>
+<field_pathLink id="GED">jah6P0K-SulUR6SK8rXKR7ZqFjLCn8AS&#13;
+</field_pathLink>
+<field id="LIEUARC">Côte d'ivoire-CIPREL </field>
+<field code="CPP" id="tacc">Contrat de prise de participation</field>
+</record>
+<record id="22238">
+<recordnature code="ARC">ARCHIVES</recordnature>
+<recordtype code="COOP">Coopération</recordtype>
+<recordcreation datetime="05/03/19 09:22" format="JJ/MM/AAAA">05/03/2019</recordcreation>
+<recordupdate datetime="29/11/23 17:51" format="JJ/MM/AAAA">29/11/2023</recordupdate>
+<recordindex datetime="29/11/23 17:51" format="JJ/MM/AAAA">29/11/2023</recordindex>
+<uri>https://documentation.boad.org/dyn/portal/index.seam?page=alo&amp;aloId=22238</uri>
+<field id="TIT" order="1">Contrat de Prise de Participation</field>
+<field_path id="TIT" order="1">doc/Alo/P000001/22238/299233/Contrat de prise de participation PP TG 96 01 00 du 24-10-1996.pdf</field_path>
+<field_pathLink id="TIT">jah6P0K-SumXY1PSV4X6zz6wbiKrDBxj&#13;
+</field_pathLink>
+<field datetime="24/10/96 00:00" format="JJ/MM/AAAA" id="DTJUR">24/10/1996</field>
+<field id="MOTC" order="1">Prise de participation</field>
+<field id="MOTC" order="2">96 01 00</field>
+<field id="MOTC" order="3">BIA Togo</field>
+<field id="REF">PP TG 96 01 00</field>
+<field id="GED" order="1">Pouvoirs BIA-Togo</field>
+<field_path id="GED" order="1">doc/Alo/P000001/22238/299245/53_Pouvoirs_BIA-Togo_16-10-1996.pdf</field_path>
+<field_pathLink id="GED">jah6P0K-SulUR6SK8rXKR4VUNFGqt6UQ&#13;
+</field_pathLink>
+<field id="LIEUARC">Togo-BIA Togo</field>
+<field code="CPP" id="tacc">Contrat de prise de participation</field>
+</record>
+<record id="22239">
+<recordnature code="ARC">ARCHIVES</recordnature>
+<recordtype code="COOP">Coopération</recordtype>
+<recordcreation datetime="05/03/19 09:25" format="JJ/MM/AAAA">05/03/2019</recordcreation>
+<recordupdate datetime="29/11/23 17:45" format="JJ/MM/AAAA">29/11/2023</recordupdate>
+<recordindex datetime="29/11/23 17:45" format="JJ/MM/AAAA">29/11/2023</recordindex>
+<uri>https://documentation.boad.org/dyn/portal/index.seam?page=alo&amp;aloId=22239</uri>
+<field id="TIT" order="1">Contrat de Prise de Participation </field>
+<field_path id="TIT" order="1">doc/Alo/P000001/22239/299246/Contrat de prise de participation PP UX 93 02 00 du 10-09-1993.pdf</field_path>
+<field_pathLink id="TIT">jah6P0K-SumXY1PSV4X6z4-yvAXFKUEy&#13;
+</field_pathLink>
+<field datetime="10/09/93 00:00" format="JJ/MM/AAAA" id="DTJUR">10/09/1993</field>
+<field id="MOTC" order="1">prise de participation</field>
+<field id="MOTC" order="2">Multinationale AIR AFRIQUE</field>
+<field id="MOTC" order="3">93 02 00</field>
+<field id="REF">PP UX 93 02 00</field>
+<field id="GED" order="1">Avenant N°1 au contrat</field>
+<field_path id="GED" order="1">doc/Alo/P000001/22239/299258/53_Avenant N°1 au contrat_Air Afrique_31-05-1994.pdf</field_path>
+<field_pathLink id="GED">jah6P0K-SulUR6SK8rXKRwfZLoNDfO3N&#13;
+</field_pathLink>
+<field id="GED" order="2">Correspondance</field>
+<field_path id="GED" order="2">doc/Alo/P000001/22239/299259/53_Correspondance_Air Afrique_24-05-1994.pdf</field_path>
+<field_pathLink id="GED">jah6P0K-SulUR6SK8rXKR2cjfgDMJk5l&#13;
+</field_pathLink>
+<field id="LIEUARC">Air Afrique</field>
+<field code="CPP" id="tacc">Contrat de prise de participation</field>
+</record>
+<record id="24427">
+<recordnature code="ARC">ARCHIVES</recordnature>
+<recordtype code="COOP">Coopération</recordtype>
+<recordcreation datetime="18/03/20 10:54" format="JJ/MM/AAAA">18/03/2020</recordcreation>
+<recordupdate datetime="03/09/20 11:07" format="JJ/MM/AAAA">03/09/2020</recordupdate>
+<recordindex datetime="03/09/20 11:07" format="JJ/MM/AAAA">03/09/2020</recordindex>
+<uri>https://documentation.boad.org/dyn/portal/index.seam?page=alo&amp;aloId=24427</uri>
+<field id="TIT" order="1">Accord et convention entre la Rép du Mali-la BOAD et l'UMOA</field>
+<field_path id="TIT" order="1">doc/Alo/P000001/24427/331776/111_Accord d'adhesion à la Rép du Mali à l'UMOA_17-02-1984.pdf</field_path>
+<field_pathLink id="TIT">jah6P0K-SumXY1PSV4X6z9GeAKZxIvHS&#13;
+</field_pathLink>
+<field_path id="TIT" order="1">doc/Alo/P000001/24427/331776/111_Convention fixant les modalités de règlement par la Rép du Mali de son droit d'entée à la BOAD_19-05-1987.pdf</field_path>
+<field_pathLink id="TIT">jah6P0K-SumXY1PSV4X6z51kaVx2K4Xj&#13;
+</field_pathLink>
+<field_path id="TIT" order="1">doc/Alo/P000001/24427/331776/111_Convention relative à l'adhesion du Mali à la BOAD_05-06-1984.pdf</field_path>
+<field_pathLink id="TIT">jah6P0K-SumXY1PSV4X6z-wI-2rQXj9u&#13;
+</field_pathLink>
+<field datetime="17/02/84 00:00" format="JJ/MM/AAAA" id="DTJUR">17/02/1984</field>
+<field id="MOTC" order="1">Convention, Garantie</field>
+<field id="MOTC" order="2">Coopération</field>
+<field code="ACc" id="tacc">Accord de coopération</field>
+</record>
+<record id="24428">
+<recordnature code="ARC">ARCHIVES</recordnature>
+<recordtype code="COOP">Coopération</recordtype>
+<recordcreation datetime="18/03/20 10:57" format="JJ/MM/AAAA">18/03/2020</recordcreation>
+<recordupdate datetime="18/03/20 10:57" format="JJ/MM/AAAA">18/03/2020</recordupdate>
+<recordindex datetime="18/03/20 10:57" format="JJ/MM/AAAA">18/03/2020</recordindex>
+<uri>https://documentation.boad.org/dyn/portal/index.seam?page=alo&amp;aloId=24428</uri>
+<field id="TIT" order="1">Convention de Financement entre la BOAD et la SEE</field>
+<field_path id="TIT" order="1">doc/Alo/P000001/24428/331781/116_Convention de Financement entre la BOAD et la SEE_21-03-1988.pdf</field_path>
+<field_pathLink id="TIT">jah6P0K-SumXY1PSV4X6z-J6ydh3wW9_&#13;
+</field_pathLink>
+<field_path id="TIT" order="1">doc/Alo/P000001/24428/331781/116_Correspondance du 27-11-89 et du 26-01-90_21-03-1988.pdf</field_path>
+<field_pathLink id="TIT">jah6P0K-SumXY1PSV4X6z-lENS2F0Uxc&#13;
+</field_pathLink>
+<field datetime="21/03/88 00:00" format="JJ/MM/AAAA" id="DTJUR">21/03/1988</field>
+<field code="ACc" id="tacc">Accord de coopération</field>
+</record>
+<record id="24429">
+<recordnature code="ARC">ARCHIVES</recordnature>
+<recordtype code="COOP">Coopération</recordtype>
+<recordcreation datetime="18/03/20 11:01" format="JJ/MM/AAAA">18/03/2020</recordcreation>
+<recordupdate datetime="18/03/20 11:02" format="JJ/MM/AAAA">18/03/2020</recordupdate>
+<recordindex datetime="18/03/20 11:02" format="JJ/MM/AAAA">18/03/2020</recordindex>
+<uri>https://documentation.boad.org/dyn/portal/index.seam?page=alo&amp;aloId=24429</uri>
+<field id="TIT" order="1">Convention de Financement entre la BOAD et Import-Export Bank of Japon</field>
+<field_path id="TIT" order="1">doc/Alo/P000001/24429/331784/118_Loan agreement beteewn BOAD and The Import-Export Bank of Japon_22-04-1992.pdf</field_path>
+<field_pathLink id="TIT">jah6P0K-SumXY1PSV4X6z6uqj_Vxch57&#13;
+</field_pathLink>
+<field_path id="TIT" order="1">doc/Alo/P000001/24429/331784/118_Loan agreement beteewn BOAD and The Import-Export Bank of Japon_24-03-1988.pdf</field_path>
+<field_pathLink id="TIT">jah6P0K-SumXY1PSV4X6z11Vy4TcXPtF&#13;
+</field_pathLink>
+<field datetime="22/04/92 00:00" format="JJ/MM/AAAA" id="DTJUR">22/04/1992</field>
+<field id="GED" order="1">autres</field>
+<field_path id="GED" order="1">doc/Alo/P000001/24429/331788/118_Acceptance of Borrower's adress for service of process_24-03-1988.pdf</field_path>
+<field_pathLink id="GED">jah6P0K-SumXY1PSV4X6zyrs-3Mpd6fg&#13;
+</field_pathLink>
+<field_path id="GED" order="1">doc/Alo/P000001/24429/331788/118_Banking Arrangement between BOAD and Industrial Bank of Japan_15-06-1992.pdf</field_path>
+<field_pathLink id="GED">jah6P0K-SumXY1PSV4X6zy-MjGnRloNF&#13;
+</field_pathLink>
+<field_path id="GED" order="1">doc/Alo/P000001/24429/331788/118_CR de l'entretien entre le département des Opérations Financières et Comptables_02-04-1992.pdf</field_path>
+<field_pathLink id="GED">jah6P0K-SumXY1PSV4X6z-pc8Xbb55uB&#13;
+</field_pathLink>
+<field id="GED" order="2">autres</field>
+<field_path id="GED" order="2">doc/Alo/P000001/24429/331789/118_Signing Ceremony of the first Exim Japan loan to BOAD_24-03-1988.pdf</field_path>
+<field_pathLink id="GED">jah6P0K-SumXY1PSV4X6zzetVfjtzEm4&#13;
+</field_pathLink>
+<field code="ACc" id="tacc">Accord de coopération</field>
+</record>
+<record id="24430">
+<recordnature code="ARC">ARCHIVES</recordnature>
+<recordtype code="COOP">Coopération</recordtype>
+<recordcreation datetime="18/03/20 11:06" format="JJ/MM/AAAA">18/03/2020</recordcreation>
+<recordupdate datetime="18/03/20 11:06" format="JJ/MM/AAAA">18/03/2020</recordupdate>
+<recordindex datetime="18/03/20 11:06" format="JJ/MM/AAAA">18/03/2020</recordindex>
+<uri>https://documentation.boad.org/dyn/portal/index.seam?page=alo&amp;aloId=24430</uri>
+<field id="TIT" order="1">Convention entre la Rep Guinnée Bisseau et la BOAD relative a l'Adhesion</field>
+<field_path id="TIT" order="1">doc/Alo/P000001/24430/331790/122_Avenant N° 1 relative aux modalités de règlement des Sommes dues par la Rép GB_09-10-2006.pdf</field_path>
+<field_pathLink id="TIT">jah6P0K-SumXY1PSV4X6z3u36wjdHBdV&#13;
+</field_pathLink>
+<field_path id="TIT" order="1">doc/Alo/P000001/24430/331790/122_Convention relative à l'adhesion de la BOAD_21-06-1997.pdf</field_path>
+<field_pathLink id="TIT">jah6P0K-SumXY1PSV4X6z1TTF1GZSnh7&#13;
+</field_pathLink>
+<field_path id="TIT" order="1">doc/Alo/P000001/24430/331790/122_Convention relative aux modalités de règlement des Sommes dues par la Rép GB_28-12-2005.pdf</field_path>
+<field_pathLink id="TIT">jah6P0K-SumXY1PSV4X6z96QdGoW8XbZ&#13;
+</field_pathLink>
+<field datetime="09/10/06 00:00" format="JJ/MM/AAAA" id="DTJUR">09/10/2006</field>
+<field code="ACc" id="tacc">Accord de coopération</field>
+</record>
+<record id="24431">
+<recordnature code="ARC">ARCHIVES</recordnature>
+<recordtype code="COOP">Coopération</recordtype>
+<recordcreation datetime="18/03/20 11:11" format="JJ/MM/AAAA">18/03/2020</recordcreation>
+<recordupdate datetime="18/03/20 11:35" format="JJ/MM/AAAA">18/03/2020</recordupdate>
+<recordindex datetime="18/03/20 11:35" format="JJ/MM/AAAA">18/03/2020</recordindex>
+<uri>https://documentation.boad.org/dyn/portal/index.seam?page=alo&amp;aloId=24431</uri>
+<field id="TIT" order="1">Convention de Financement entre la BOAD et la PROPARCO</field>
+<field_path id="TIT" order="1">doc/Alo/P000001/24431/331793/124_DP entre la BOAD SACO et la PROPARCO (SACO) _Paris_ 25-10-1999.pdf</field_path>
+<field_pathLink id="TIT">jah6P0K-SumXY1PSV4X6zxzjtfOKpwrB&#13;
+</field_pathLink>
+<field_path id="TIT" order="1">doc/Alo/P000001/24431/331793/124_ADC (SACO) _TG_  08-11-1999.pdf</field_path>
+<field_pathLink id="TIT">jah6P0K-SumXY1PSV4X6z0waYNKXhOhw&#13;
+</field_pathLink>
+<field_path id="TIT" order="1">doc/Alo/P000001/24431/331793/124_ADC (SACO) _TG_  12-11-1999.pdf</field_path>
+<field_pathLink id="TIT">jah6P0K-SumXY1PSV4X6z0RJRD8p_U7I&#13;
+</field_pathLink>
+<field_path id="TIT" order="1">doc/Alo/P000001/24431/331793/124_CF entre la BOAD et la PROPARCO _TG_ 06-11-1998.pdf</field_path>
+<field_pathLink id="TIT">jah6P0K-SumXY1PSV4X6z1AbDGwdPKkv&#13;
+</field_pathLink>
+<field_path id="TIT" order="1">doc/Alo/P000001/24431/331793/124_CF entre la BOAD et la PROPARCO_TG_  20-04-1998.pdf</field_path>
+<field_pathLink id="TIT">jah6P0K-SumXY1PSV4X6z_I80KhAua4H&#13;
+</field_pathLink>
+<field_path id="TIT" order="1">doc/Alo/P000001/24431/331793/124_CF entre la BOAD et la PROPARCO_TG_  30-11-1999.pdf</field_path>
+<field_pathLink id="TIT">jah6P0K-SumXY1PSV4X6z0eLj3lKgL1o&#13;
+</field_pathLink>
+<field_path id="TIT" order="1">doc/Alo/P000001/24431/331793/124_CF entre la BOAD et la PROPARCO_TG_ 20-06-1995.pdf</field_path>
+<field_pathLink id="TIT">jah6P0K-SumXY1PSV4X6zw4RXNE9cZV6&#13;
+</field_pathLink>
+<field id="TIT" order="2">Convention de Financement entre la BOAD et la PROPARCO</field>
+<field_path id="TIT" order="2">doc/Alo/P000001/24431/331798/124_CF entre la BOAD et la PROPARCO _TG_ 11-05-1999.pdf</field_path>
+<field_pathLink id="TIT">jah6P0K-SumXY1PSV4X6zzVWiJfb9iJ7&#13;
+</field_pathLink>
+<field_path id="TIT" order="2">doc/Alo/P000001/24431/331798/124_CF entre la BOAD et la PROPARCO_TG_  07-12-1998.pdf</field_path>
+<field_pathLink id="TIT">jah6P0K-SumXY1PSV4X6z66_TGJCNc9U&#13;
+</field_pathLink>
+<field_path id="TIT" order="2">doc/Alo/P000001/24431/331798/124_CF entre la BOAD et la PROPARCO_TG_  10-04-1998.pdf</field_path>
+<field_pathLink id="TIT">jah6P0K-SumXY1PSV4X6z4LCMMJQ1efB&#13;
+</field_pathLink>
+<field_path id="TIT" order="2">doc/Alo/P000001/24431/331798/124_COC entre la BOAD et la PROPARCO _TG_ 13-12-2006.pdf</field_path>
+<field_pathLink id="TIT">jah6P0K-SumXY1PSV4X6zz8BsXJ-zJ2t&#13;
+</field_pathLink>
+<field_path id="TIT" order="2">doc/Alo/P000001/24431/331798/124_COC entre la BOAD et la PROPARCO_TG_  01-10-2001.pdf</field_path>
+<field_pathLink id="TIT">jah6P0K-SumXY1PSV4X6z7vNa5apzpsr&#13;
+</field_pathLink>
+<field_path id="TIT" order="2">doc/Alo/P000001/24431/331798/124_COC entre la BOAD et la PROPARCO_TG_  12-10-2007.pdf</field_path>
+<field_pathLink id="TIT">jah6P0K-SumXY1PSV4X6z0lRsE5YuIpm&#13;
+</field_pathLink>
+<field id="TIT" order="3">Convention de Financement entre la BOAD et la PROPARCO</field>
+<field_path id="TIT" order="3">doc/Alo/P000001/24431/331804/124_COC entre la BOAD et la PROPARCO_TG_  23-07-2008.pdf</field_path>
+<field_pathLink id="TIT">jah6P0K-SumXY1PSV4X6z5iEK6j74WRo&#13;
+</field_pathLink>
+<field_path id="TIT" order="3">doc/Alo/P000001/24431/331804/124_COC entre la BOAD et la PROPARCO_TG_  29-06-2009.pdf</field_path>
+<field_pathLink id="TIT">jah6P0K-SumXY1PSV4X6z-fsk6VtSSa0&#13;
+</field_pathLink>
+<field_path id="TIT" order="3">doc/Alo/P000001/24431/331804/124_COC entre la BOAD et la PROPARCO_TG_ 04-09-2003.pdf</field_path>
+<field_pathLink id="TIT">jah6P0K-SumXY1PSV4X6z2PeH8Vg4nEZ&#13;
+</field_pathLink>
+<field_path id="TIT" order="3">doc/Alo/P000001/24431/331804/124_DCA N°016 2003 CA BOAD_Dakar_ 21-06-2003.pdf</field_path>
+<field_pathLink id="TIT">jah6P0K-SumXY1PSV4X6z0XlTa30omZJ&#13;
+</field_pathLink>
+<field_path id="TIT" order="3">doc/Alo/P000001/24431/331804/124_DCA N°018 2005 CA BOAD_Dakar_ 01-07-2005.pdf</field_path>
+<field_pathLink id="TIT">jah6P0K-SumXY1PSV4X6z443QlUvzG4H&#13;
+</field_pathLink>
+<field_path id="TIT" order="3">doc/Alo/P000001/24431/331804/124_MLDT_Lomé_ 16-02-2001.pdf</field_path>
+<field_pathLink id="TIT">jah6P0K-SumXY1PSV4X6z9JTJX6YXhPF&#13;
+</field_pathLink>
+<field datetime="25/10/99 00:00" format="JJ/MM/AAAA" id="DTJUR">25/10/1999</field>
+<field id="MOTC" order="1">Coopération</field>
+<field id="MOTC" order="2">Covention </field>
+<field id="LIEUARC">Lomé</field>
+<field code="ACc" id="tacc">Accord de coopération</field>
+</record>
+<record id="24432">
+<recordnature code="ARC">ARCHIVES</recordnature>
+<recordtype code="COOP">Coopération</recordtype>
+<recordcreation datetime="18/03/20 11:26" format="JJ/MM/AAAA">18/03/2020</recordcreation>
+<recordupdate datetime="03/09/20 11:06" format="JJ/MM/AAAA">03/09/2020</recordupdate>
+<recordindex datetime="03/09/20 11:06" format="JJ/MM/AAAA">03/09/2020</recordindex>
+<uri>https://documentation.boad.org/dyn/portal/index.seam?page=alo&amp;aloId=24432</uri>
+<field id="TIT" order="1">Convention de prêt  de entre la BOAD la Deutsche Investitions 11-03-2002 </field>
+<field_path id="TIT" order="1">doc/Alo/P000001/24432/331816/127_Accord de prêt_Sénégal.pdf</field_path>
+<field_pathLink id="TIT">jah6P0K-SumXY1PSV4X6z057QotfW68E&#13;
+</field_pathLink>
+<field datetime="11/03/02 00:00" format="JJ/MM/AAAA" id="DTJUR">11/03/2002</field>
+<field id="MOTC" order="1">Convention, garantie</field>
+<field code="ACc" id="tacc">Accord de coopération</field>
+</record>
+<record id="24433">
+<recordnature code="ARC">ARCHIVES</recordnature>
+<recordtype code="COOP">Coopération</recordtype>
+<recordcreation datetime="18/03/20 11:42" format="JJ/MM/AAAA">18/03/2020</recordcreation>
+<recordupdate datetime="27/11/23 10:06" format="JJ/MM/AAAA">27/11/2023</recordupdate>
+<recordindex datetime="27/11/23 10:06" format="JJ/MM/AAAA">27/11/2023</recordindex>
+<uri>https://documentation.boad.org/dyn/portal/index.seam?page=alo&amp;aloId=24433</uri>
+</record>
+<record id="24434">
+<recordnature code="ARC">ARCHIVES</recordnature>
+<recordtype code="COOP">Coopération</recordtype>
+<recordcreation datetime="18/03/20 11:43" format="JJ/MM/AAAA">18/03/2020</recordcreation>
+<recordupdate datetime="18/03/20 11:43" format="JJ/MM/AAAA">18/03/2020</recordupdate>
+<recordindex datetime="18/03/20 11:43" format="JJ/MM/AAAA">18/03/2020</recordindex>
+<uri>https://documentation.boad.org/dyn/portal/index.seam?page=alo&amp;aloId=24434</uri>
+<field id="TIT" order="1">136_Convention de Délegation de créance entre la BOAD-la BNDA et HUICOMA du Mali_01-06-1998</field>
+<field_path id="TIT" order="1">doc/Alo/P000001/24434/331829/136_Convention de Délegation de créance entre la BOAD-la BNDA et HUICOMA du Mali_01-06-1998.pdf</field_path>
+<field_pathLink id="TIT">jah6P0K-SumXY1PSV4X6z-CeFJ2U07qd&#13;
+</field_pathLink>
+<field datetime="01/06/98 00:00" format="JJ/MM/AAAA" id="DTJUR">01/06/1998</field>
+<field code="ACc" id="tacc">Accord de coopération</field>
+</record>
+<record id="24435">
+<recordnature code="ARC">ARCHIVES</recordnature>
+<recordtype code="COOP">Coopération</recordtype>
+<recordcreation datetime="18/03/20 11:45" format="JJ/MM/AAAA">18/03/2020</recordcreation>
+<recordupdate datetime="03/09/20 11:05" format="JJ/MM/AAAA">03/09/2020</recordupdate>
+<recordindex datetime="03/09/20 11:05" format="JJ/MM/AAAA">03/09/2020</recordindex>
+<uri>https://documentation.boad.org/dyn/portal/index.seam?page=alo&amp;aloId=24435</uri>
+<field id="TIT" order="1">136_Convention de Pret de liquidité contre Prise de Pension de titre entre BOAD et BIB du Benin_12-05-2000</field>
+<field_path id="TIT" order="1">doc/Alo/P000001/24435/331832/136_Convention de Pret de liquidité contre Prise de Pension de titre entre BOAD et BIB du Benin_12-05-2000.pdf</field_path>
+<field_pathLink id="TIT">jah6P0K-SumXY1PSV4X6z_uUu8cvUTK8&#13;
+</field_pathLink>
+<field datetime="12/05/00 00:00" format="JJ/MM/AAAA" id="DTJUR">12/05/2000</field>
+<field id="MOTC" order="1">convention, Garantie</field>
+<field code="ACc" id="tacc">Accord de coopération</field>
+</record>
+<record id="24436">
+<recordnature code="ARC">ARCHIVES</recordnature>
+<recordtype code="COOP">Coopération</recordtype>
+<recordcreation datetime="18/03/20 11:49" format="JJ/MM/AAAA">18/03/2020</recordcreation>
+<recordupdate datetime="03/09/20 11:05" format="JJ/MM/AAAA">03/09/2020</recordupdate>
+<recordindex datetime="03/09/20 11:05" format="JJ/MM/AAAA">03/09/2020</recordindex>
+<uri>https://documentation.boad.org/dyn/portal/index.seam?page=alo&amp;aloId=24436</uri>
+<field id="TIT" order="1">136_Convention de Pret de liquidité contre Nantissement de titre entre BOAD et CBAO du Sénegal_07-06-2002</field>
+<field_path id="TIT" order="1">doc/Alo/P000001/24436/331836/136_Convention de Pret de liquidité contre Nantissement de titre entre BOAD et CBAO du Sénegal_07-06-2002.pdf</field_path>
+<field_pathLink id="TIT">jah6P0K-SumXY1PSV4X6z2Nag8i_VZgs&#13;
+</field_pathLink>
+<field datetime="07/06/02 00:00" format="JJ/MM/AAAA" id="DTJUR">07/06/2002</field>
+<field id="MOTC" order="1">Convention de Prêt, Garantie</field>
+<field id="LIEUARC">sénégal</field>
+<field code="ACc" id="tacc">Accord de coopération</field>
+</record>
+<record id="24437">
+<recordnature code="ARC">ARCHIVES</recordnature>
+<recordtype code="COOP">Coopération</recordtype>
+<recordcreation datetime="19/03/20 10:11" format="JJ/MM/AAAA">19/03/2020</recordcreation>
+<recordupdate datetime="30/11/23 15:28" format="JJ/MM/AAAA">30/11/2023</recordupdate>
+<recordindex datetime="30/11/23 15:28" format="JJ/MM/AAAA">30/11/2023</recordindex>
+<uri>https://documentation.boad.org/dyn/portal/index.seam?page=alo&amp;aloId=24437</uri>
+<field id="TIT" order="1">Conventions CG TG 2003 01-00 du 25-04-2003 entre la BOAD et la Communauté Electrique du Bénin relative à l'emprunt obligataire CEB 6,5% Net 2003-2010</field>
+<field datetime="25/04/03 00:00" format="JJ/MM/AAAA" id="DTJUR">25/04/2003</field>
+<field id="MOTC" order="1">Convention</field>
+<field id="MOTC" order="2">Garanties</field>
+<field id="MOTC" order="3">CEB</field>
+<field id="MOTC" order="4">Communauté Electrique du Bénin </field>
+<field id="MOTC" order="5">Emprunt obligataire</field>
+<field id="MOTC" order="6">6,5%</field>
+<field id="MOTC" order="7">Net 2003-2010</field>
+<field id="MOTC" order="8">2003 01 00</field>
+<field id="REF">CG TG 2003 01-00 </field>
+<field id="GED" order="1">Contrat de cautionnement solidaire</field>
+<field_path id="GED" order="1">doc/Alo/P000001/24437/331852/44_Contrat de cautionnement solidaire_Bénin.pdf</field_path>
+<field_pathLink id="GED">jah6P0K-SumXY1PSV4X6z2OpTvUz-GLA&#13;
+</field_pathLink>
+<field id="GED" order="2">Convention de garantie N°72-SEP-62</field>
+<field_path id="GED" order="2">doc/Alo/P000001/24437/331853/44_Convention de garantie N°72-SEP-62_Bénin.pdf</field_path>
+<field_pathLink id="GED">jah6P0K-SumXY1PSV4X6z93yqbucBC0g&#13;
+</field_pathLink>
+<field id="GED" order="3">Convention entre la BOAD et la CEB</field>
+<field_path id="GED" order="3">doc/Alo/P000001/24437/331854/44_Convention entre la BOAD et la CEB_Bénin_2003-2010.pdf</field_path>
+<field_pathLink id="GED">jah6P0K-SumXY1PSV4X6zw9sSD1LJfGM&#13;
+</field_pathLink>
+<field id="GED" order="4">Lettre d'engagement de la CEB du 13-10-2003</field>
+<field_path id="GED" order="4">doc/Alo/P000001/24437/331861/44_Lettre d'engagement de la CEB du 13-10-2003_Bénin_13-10-2003.pdf</field_path>
+<field_pathLink id="GED">jah6P0K-SumXY1PSV4X6z0wuWp_YLEKo&#13;
+</field_pathLink>
+<field id="GED" order="5">PV des negociations relative a la garantie</field>
+<field_path id="GED" order="5">doc/Alo/P000001/24437/331862/44_PV des negociations relative a la garantie_Bénin_10-03-2003.pdf</field_path>
+<field_pathLink id="GED">jah6P0K-SumXY1PSV4X6z0KB0_gicHLp&#13;
+</field_pathLink>
+<field id="GED" order="6">Accord de gage-especes et de mécanisme de paiement</field>
+<field_path id="GED" order="6">doc/Alo/P000001/24437/435443/Accord de gage-especes  et de mécanisme de paiement du 12-01-2004.pdf</field_path>
+<field_pathLink id="GED">jah6P0K-SumXY1PSV4X6z1rn6O3_fi43&#13;
+</field_pathLink>
+<field id="LIEUARC">BENIN-CEB</field>
+<field code="ACc" id="tacc">Accord de coopération</field>
+</record>
+<record id="24438">
+<recordnature code="ARC">ARCHIVES</recordnature>
+<recordtype code="COOP">Coopération</recordtype>
+<recordcreation datetime="19/03/20 10:43" format="JJ/MM/AAAA">19/03/2020</recordcreation>
+<recordupdate datetime="03/09/20 11:04" format="JJ/MM/AAAA">03/09/2020</recordupdate>
+<recordindex datetime="03/09/20 11:04" format="JJ/MM/AAAA">03/09/2020</recordindex>
+<uri>https://documentation.boad.org/dyn/portal/index.seam?page=alo&amp;aloId=24438</uri>
+<field id="TIT" order="1">136_Accord et Convention de Pret Interbabcaire</field>
+<field id="TIT" order="2">Convention de Délegation de créance entre la BOAD-la BIB et ONT du Burkina_14-03-1998.pdf</field>
+<field_path id="TIT" order="2">doc/Alo/P000001/24438/331869/136_Convention de Délegation de créance entre la BOAD-la BIB et ONT du Burkina_14-03-1998.pdf</field_path>
+<field_pathLink id="TIT">jah6P0K-SumXY1PSV4X6zywcEN_lyAFc&#13;
+</field_pathLink>
+<field datetime="14/03/98 00:00" format="JJ/MM/AAAA" id="DTJUR">14/03/1998</field>
+<field id="MOTC" order="1">Convention de délégation ,Garantie</field>
+<field id="LIEUARC">Burkina Faso </field>
+<field code="ACc" id="tacc">Accord de coopération</field>
+</record>
+<record id="24439">
+<recordnature code="ARC">ARCHIVES</recordnature>
+<recordtype code="COOP">Coopération</recordtype>
+<recordcreation datetime="19/03/20 10:46" format="JJ/MM/AAAA">19/03/2020</recordcreation>
+<recordupdate datetime="03/09/20 11:03" format="JJ/MM/AAAA">03/09/2020</recordupdate>
+<recordindex datetime="03/09/20 11:03" format="JJ/MM/AAAA">03/09/2020</recordindex>
+<uri>https://documentation.boad.org/dyn/portal/index.seam?page=alo&amp;aloId=24439</uri>
+<field id="TIT" order="1">136_Accord et Convention de Pret Interbabcaire</field>
+<field id="TIT" order="2">Convention de Délegation de créance entre la BOAD-la BNDA et HUICOMA du Mali</field>
+<field_path id="TIT" order="2">doc/Alo/P000001/24439/331879/136_Convention de Délegation de créance entre la BOAD-la BNDA et HUICOMA du Mali_01-06-1998.pdf</field_path>
+<field_pathLink id="TIT">jah6P0K-SumXY1PSV4X6z0OUS599de81&#13;
+</field_pathLink>
+<field datetime="01/06/98 00:00" format="JJ/MM/AAAA" id="DTJUR">01/06/1998</field>
+<field id="MOTC" order="1">Convention de Délegation de créance, garantie</field>
+<field id="LIEUARC">Mali</field>
+<field code="ACc" id="tacc">Accord de coopération</field>
+</record>
+<record id="24440">
+<recordnature code="ARC">ARCHIVES</recordnature>
+<recordtype code="COOP">Coopération</recordtype>
+<recordcreation datetime="19/03/20 10:49" format="JJ/MM/AAAA">19/03/2020</recordcreation>
+<recordupdate datetime="03/09/20 11:03" format="JJ/MM/AAAA">03/09/2020</recordupdate>
+<recordindex datetime="03/09/20 11:03" format="JJ/MM/AAAA">03/09/2020</recordindex>
+<uri>https://documentation.boad.org/dyn/portal/index.seam?page=alo&amp;aloId=24440</uri>
+<field id="TIT" order="1">136_Accord et Convention de Pret Interbabcaire</field>
+<field id="TIT" order="2">Convention de Délegation de créance entre la BOAD-la BOA CI et GMA de la Cote </field>
+<field_path id="TIT" order="2">doc/Alo/P000001/24440/331885/136_Convention de Délegation de créance entre la BOAD-la BOA CI et GMA de la Cote d'Ivoire_24-05-2000.pdf</field_path>
+<field_pathLink id="TIT">jah6P0K-SumXY1PSV4X6z_agnZS0coPW&#13;
+</field_pathLink>
+<field datetime="24/05/00 00:00" format="JJ/MM/AAAA" id="DTJUR">24/05/2000</field>
+<field id="MOTC" order="1">Convention de Délegation de créance, garantie</field>
+<field id="LIEUARC">Côte d'ivoire </field>
+<field code="ACc" id="tacc">Accord de coopération</field>
+</record>
+<record id="24441">
+<recordnature code="ARC">ARCHIVES</recordnature>
+<recordtype code="COOP">Coopération</recordtype>
+<recordcreation datetime="19/03/20 10:51" format="JJ/MM/AAAA">19/03/2020</recordcreation>
+<recordupdate datetime="03/09/20 11:02" format="JJ/MM/AAAA">03/09/2020</recordupdate>
+<recordindex datetime="03/09/20 11:02" format="JJ/MM/AAAA">03/09/2020</recordindex>
+<uri>https://documentation.boad.org/dyn/portal/index.seam?page=alo&amp;aloId=24441</uri>
+<field id="TIT" order="1">136_Accord et Convention de Pret Interbabcaire</field>
+<field id="TIT" order="2">Convention de Délegation de créance entre la BOAD-la BTD et TOGO TELECOM</field>
+<field_path id="TIT" order="2">doc/Alo/P000001/24441/331891/136_Convention de Délegation de créance entre la BOAD-la BTD et TOGO TELECOM_09-10-2000.pdf</field_path>
+<field_pathLink id="TIT">jah6P0K-SumXY1PSV4X6z1AnjPr1CMK8&#13;
+</field_pathLink>
+<field datetime="09/10/00 00:00" format="JJ/MM/AAAA" id="DTJUR">09/10/2000</field>
+<field id="MOTC" order="1">Convention de délégation, garantie</field>
+<field id="LIEUARC">TOGO</field>
+<field code="ACc" id="tacc">Accord de coopération</field>
+</record>
+<record id="24442">
+<recordnature code="ARC">ARCHIVES</recordnature>
+<recordtype code="COOP">Coopération</recordtype>
+<recordcreation datetime="19/03/20 10:53" format="JJ/MM/AAAA">19/03/2020</recordcreation>
+<recordupdate datetime="03/09/20 11:01" format="JJ/MM/AAAA">03/09/2020</recordupdate>
+<recordindex datetime="03/09/20 11:01" format="JJ/MM/AAAA">03/09/2020</recordindex>
+<uri>https://documentation.boad.org/dyn/portal/index.seam?page=alo&amp;aloId=24442</uri>
+<field id="TIT" order="1">136_Accord et Convention de Pret Interbabcaire</field>
+<field id="TIT" order="2"> de titre entre BOAD et  CBAO</field>
+<field_path id="TIT" order="2">doc/Alo/P000001/24442/331896/136_Convention de Pret de liquidité contre Nantissement de titre entre BOAD et CBAO du Sénegal_07-06-2002.pdf</field_path>
+<field_pathLink id="TIT">jah6P0K-SumXY1PSV4X6z_hsqykbv_tI&#13;
+</field_pathLink>
+<field datetime="07/06/02 00:00" format="JJ/MM/AAAA" id="DTJUR">07/06/2002</field>
+<field id="MOTC" order="1">Convention de Pret de liquidité contre Nantissement Garantie</field>
+<field id="LIEUARC">SENEGAL</field>
+<field code="ACc" id="tacc">Accord de coopération</field>
+</record>
+<record id="24443">
+<recordnature code="ARC">ARCHIVES</recordnature>
+<recordtype code="COOP">Coopération</recordtype>
+<recordcreation datetime="19/03/20 10:55" format="JJ/MM/AAAA">19/03/2020</recordcreation>
+<recordupdate datetime="03/09/20 11:01" format="JJ/MM/AAAA">03/09/2020</recordupdate>
+<recordindex datetime="03/09/20 11:01" format="JJ/MM/AAAA">03/09/2020</recordindex>
+<uri>https://documentation.boad.org/dyn/portal/index.seam?page=alo&amp;aloId=24443</uri>
+<field id="TIT" order="1">136_Accord et Convention de Pret Interbabcaire</field>
+<field id="TIT" order="2">Convention de Pret de liquidité contre Prise de Pension de titre entre BOAD et BIB</field>
+<field_path id="TIT" order="2">doc/Alo/P000001/24443/331902/136_Convention de Pret de liquidité contre Prise de Pension de titre entre BOAD et BIB du Benin_12-05-2000.pdf</field_path>
+<field_pathLink id="TIT">jah6P0K-SumXY1PSV4X6zyUvxammQ8kl&#13;
+</field_pathLink>
+<field datetime="12/05/00 00:00" format="JJ/MM/AAAA" id="DTJUR">12/05/2000</field>
+<field id="MOTC" order="1">Convention de Pret de liquidité contre Prise de Pension, Garantie</field>
+<field id="LIEUARC">Bénin</field>
+<field code="ACc" id="tacc">Accord de coopération</field>
+</record>
+<record id="24444">
+<recordnature code="ARC">ARCHIVES</recordnature>
+<recordtype code="COOP">Coopération</recordtype>
+<recordcreation datetime="19/03/20 10:57" format="JJ/MM/AAAA">19/03/2020</recordcreation>
+<recordupdate datetime="03/09/20 11:00" format="JJ/MM/AAAA">03/09/2020</recordupdate>
+<recordindex datetime="03/09/20 11:00" format="JJ/MM/AAAA">03/09/2020</recordindex>
+<uri>https://documentation.boad.org/dyn/portal/index.seam?page=alo&amp;aloId=24444</uri>
+<field id="TIT" order="1">136_Accord et Convention de Pret Interbabcaire</field>
+<field id="TIT" order="2">Convention de Pret de liquidité contre Prise de Pension de titre entre BOAD et BIB</field>
+<field_path id="TIT" order="2">doc/Alo/P000001/24444/331908/136_Convention de Pret de liquidité contre Prise de Pension de titre entre BOAD et BIB du Benin_14-12-1999.pdf</field_path>
+<field_pathLink id="TIT">jah6P0K-SumXY1PSV4X6zzWzC44zF6ZV&#13;
+</field_pathLink>
+<field datetime="14/12/99 00:00" format="JJ/MM/AAAA" id="DTJUR">14/12/1999</field>
+<field id="MOTC" order="1">Convention de Pret de liquidité contre Prise de Pension, garantie</field>
+<field id="LIEUARC">Bénin</field>
+<field code="ACc" id="tacc">Accord de coopération</field>
+</record>
+<record id="24445">
+<recordnature code="ARC">ARCHIVES</recordnature>
+<recordtype code="COOP">Coopération</recordtype>
+<recordcreation datetime="19/03/20 10:59" format="JJ/MM/AAAA">19/03/2020</recordcreation>
+<recordupdate datetime="03/09/20 10:59" format="JJ/MM/AAAA">03/09/2020</recordupdate>
+<recordindex datetime="03/09/20 10:59" format="JJ/MM/AAAA">03/09/2020</recordindex>
+<uri>https://documentation.boad.org/dyn/portal/index.seam?page=alo&amp;aloId=24445</uri>
+<field id="TIT" order="1">136_Accord et Convention de Pret Interbabcaire</field>
+<field id="TIT" order="2"> aupres de la BOA BENIN</field>
+<field_path id="TIT" order="2">doc/Alo/P000001/24445/331914/136_Convention d'ouverture de compte de depot à terme aupres de la BOA BENIN_26-02-1999.pdf</field_path>
+<field_pathLink id="TIT">jah6P0K-SumXY1PSV4X6z75oaJcjWydi&#13;
+</field_pathLink>
+<field datetime="26/02/99 00:00" format="JJ/MM/AAAA" id="DTJUR">26/02/1999</field>
+<field id="MOTC" order="1">Convention d'ouverture de compte de depot à terme, Garantie</field>
+<field id="LIEUARC">Benin</field>
+<field code="ACc" id="tacc">Accord de coopération</field>
+</record>
+<record id="24446">
+<recordnature code="ARC">ARCHIVES</recordnature>
+<recordtype code="COOP">Coopération</recordtype>
+<recordcreation datetime="19/03/20 11:01" format="JJ/MM/AAAA">19/03/2020</recordcreation>
+<recordupdate datetime="03/09/20 10:58" format="JJ/MM/AAAA">03/09/2020</recordupdate>
+<recordindex datetime="03/09/20 10:58" format="JJ/MM/AAAA">03/09/2020</recordindex>
+<uri>https://documentation.boad.org/dyn/portal/index.seam?page=alo&amp;aloId=24446</uri>
+<field id="TIT" order="1">136_Accord et Convention de Pret Interbabcaire</field>
+<field id="TIT" order="2">Convention d'ouverture de compte de depot à terme aupres de la BOA-CI</field>
+<field_path id="TIT" order="2">doc/Alo/P000001/24446/331920/136_Convention d'ouverture de compte de depot à terme aupres de la BOA-CI_16-04-1999.pdf</field_path>
+<field_pathLink id="TIT">jah6P0K-SumXY1PSV4X6z-lwGvBgDWqx&#13;
+</field_pathLink>
+<field datetime="16/04/99 00:00" format="JJ/MM/AAAA" id="DTJUR">16/04/1999</field>
+<field id="MOTC" order="1">Convention d'ouverture de compte de depot à terme, Garantie</field>
+<field id="LIEUARC">Côte d'ivoire</field>
+<field code="ACc" id="tacc">Accord de coopération</field>
+</record>
+<record id="24447">
+<recordnature code="ARC">ARCHIVES</recordnature>
+<recordtype code="COOP">Coopération</recordtype>
+<recordcreation datetime="19/03/20 11:05" format="JJ/MM/AAAA">19/03/2020</recordcreation>
+<recordupdate datetime="19/03/20 11:06" format="JJ/MM/AAAA">19/03/2020</recordupdate>
+<recordindex datetime="19/03/20 11:06" format="JJ/MM/AAAA">19/03/2020</recordindex>
+<uri>https://documentation.boad.org/dyn/portal/index.seam?page=alo&amp;aloId=24447</uri>
+<field id="TIT" order="1">155_Conventions de délégation de créances entre la BOAD et diverses institutions 2002-2005</field>
+<field id="TIT" order="2">Convention de délégation de créances entre la BDM-HOTEL PLAZA-BOAD</field>
+<field_path id="TIT" order="2">doc/Alo/P000001/24447/331926/155_Convention de délégation de créances entre la BDM-HOTEL PLAZA-BOAD_30-06-2003.pdf</field_path>
+<field_pathLink id="TIT">jah6P0K-SumXY1PSV4X6z2syuPr1yYmW&#13;
+</field_pathLink>
+<field datetime="30/06/03 00:00" format="JJ/MM/AAAA" id="DTJUR">30/06/2003</field>
+<field id="MOTC" order="1">Convention de délégation de créances entre la BDM-HOTEL PLAZA-BOAD</field>
+<field id="LIEUARC">Mali</field>
+<field code="ACc" id="tacc">Accord de coopération</field>
+</record>
+<record id="24448">
+<recordnature code="ARC">ARCHIVES</recordnature>
+<recordtype code="COOP">Coopération</recordtype>
+<recordcreation datetime="19/03/20 11:08" format="JJ/MM/AAAA">19/03/2020</recordcreation>
+<recordupdate datetime="19/03/20 11:08" format="JJ/MM/AAAA">19/03/2020</recordupdate>
+<recordindex datetime="19/03/20 11:08" format="JJ/MM/AAAA">19/03/2020</recordindex>
+<uri>https://documentation.boad.org/dyn/portal/index.seam?page=alo&amp;aloId=24448</uri>
+<field id="TIT" order="1">155_Conventions de délégation de créances entre la BOAD et diverses institutions 2002-2005</field>
+<field id="TIT" order="2">Convention de délégation de créances entre la BOA B-BRAKINA-BOAD</field>
+<field_path id="TIT" order="2">doc/Alo/P000001/24448/331932/155_Convention de délégation de créances entre la BOA B-BRAKINA-BOAD_30-06-2003.pdf</field_path>
+<field_pathLink id="TIT">jah6P0K-SumXY1PSV4X6z4-34C6Cr3dK&#13;
+</field_pathLink>
+<field datetime="30/06/03 00:00" format="JJ/MM/AAAA" id="DTJUR">30/06/2003</field>
+<field id="MOTC" order="1">Convention de délégation de créances entre la BOA B-BRAKINA-BOAD</field>
+<field id="LIEUARC">Burkina Faso</field>
+<field code="ACc" id="tacc">Accord de coopération</field>
+</record>
+<record id="24449">
+<recordnature code="ARC">ARCHIVES</recordnature>
+<recordtype code="COOP">Coopération</recordtype>
+<recordcreation datetime="19/03/20 11:09" format="JJ/MM/AAAA">19/03/2020</recordcreation>
+<recordupdate datetime="19/03/20 11:10" format="JJ/MM/AAAA">19/03/2020</recordupdate>
+<recordindex datetime="19/03/20 11:10" format="JJ/MM/AAAA">19/03/2020</recordindex>
+<uri>https://documentation.boad.org/dyn/portal/index.seam?page=alo&amp;aloId=24449</uri>
+<field id="TIT" order="1">155_Conventions de délégation de créances entre la BOAD et diverses institutions 2002-2005</field>
+<field id="TIT" order="2">Convention de délégation de créances entre la BOA BENIN-ADOETI-BOAD</field>
+<field_path id="TIT" order="2">doc/Alo/P000001/24449/331938/155_Convention de délégation de créances entre la BOA BENIN-ADOETI-BOAD_28-12-2002.pdf</field_path>
+<field_pathLink id="TIT">jah6P0K-SumXY1PSV4X6zybNHeyPYYp1&#13;
+</field_pathLink>
+<field datetime="28/12/02 00:00" format="JJ/MM/AAAA" id="DTJUR">28/12/2002</field>
+<field id="MOTC" order="1">Convention de délégation de créances entre la BOA BENIN</field>
+<field id="LIEUARC">Benin</field>
+<field code="ACc" id="tacc">Accord de coopération</field>
+</record>
+<record id="24450">
+<recordnature code="ARC">ARCHIVES</recordnature>
+<recordtype code="COOP">Coopération</recordtype>
+<recordcreation datetime="19/03/20 11:10" format="JJ/MM/AAAA">19/03/2020</recordcreation>
+<recordupdate datetime="19/03/20 11:12" format="JJ/MM/AAAA">19/03/2020</recordupdate>
+<recordindex datetime="19/03/20 11:12" format="JJ/MM/AAAA">19/03/2020</recordindex>
+<uri>https://documentation.boad.org/dyn/portal/index.seam?page=alo&amp;aloId=24450</uri>
+<field id="TIT" order="1">155_Conventions de délégation de créances entre la BOAD et diverses institutions 2002-2005</field>
+<field id="TIT" order="2">Convention de délégation de créances entre la BOA BENIN-SACOGI-BOAD</field>
+<field_path id="TIT" order="2">doc/Alo/P000001/24450/331944/155_Convention de délégation de créances entre la BOA BENIN-SACOGI-BOAD_28-06-2002.pdf</field_path>
+<field_pathLink id="TIT">jah6P0K-SumXY1PSV4X6z0-HUI2LovT_&#13;
+</field_pathLink>
+<field datetime="22/06/99 00:00" format="JJ/MM/AAAA" id="DTJUR">22/06/1999</field>
+<field id="MOTC" order="1">Convention de délégation de créances entre la BOA BENIN-SACOGI</field>
+<field id="LIEUARC">Benin</field>
+<field code="ACc" id="tacc">Accord de coopération</field>
+</record>
+<record id="24451">
+<recordnature code="ARC">ARCHIVES</recordnature>
+<recordtype code="COOP">Coopération</recordtype>
+<recordcreation datetime="19/03/20 11:13" format="JJ/MM/AAAA">19/03/2020</recordcreation>
+<recordupdate datetime="19/03/20 11:14" format="JJ/MM/AAAA">19/03/2020</recordupdate>
+<recordindex datetime="19/03/20 11:14" format="JJ/MM/AAAA">19/03/2020</recordindex>
+<uri>https://documentation.boad.org/dyn/portal/index.seam?page=alo&amp;aloId=24451</uri>
+<field id="TIT" order="1">155_Conventions de délégation de créances entre la BOAD et diverses institutions 2002-2005</field>
+<field id="TIT" order="2">Convention de délégation de créances entre la BOA BENIN-SASIF-BOAD_</field>
+<field_path id="TIT" order="2">doc/Alo/P000001/24451/331950/155_Convention de délégation de créances entre la BOA BENIN-SASIF-BOAD_28-12-2002.pdf</field_path>
+<field_pathLink id="TIT">jah6P0K-SumXY1PSV4X6zw77z2kIy-Bu&#13;
+</field_pathLink>
+<field datetime="28/12/02 00:00" format="JJ/MM/AAAA" id="DTJUR">28/12/2002</field>
+<field id="MOTC" order="1">Convention de délégation de créances entre la BOA BENIN-SASIF</field>
+<field id="LIEUARC">Benin</field>
+<field code="ACc" id="tacc">Accord de coopération</field>
+</record>
+<record id="24452">
+<recordnature code="ARC">ARCHIVES</recordnature>
+<recordtype code="COOP">Coopération</recordtype>
+<recordcreation datetime="19/03/20 11:14" format="JJ/MM/AAAA">19/03/2020</recordcreation>
+<recordupdate datetime="19/03/20 11:15" format="JJ/MM/AAAA">19/03/2020</recordupdate>
+<recordindex datetime="19/03/20 11:15" format="JJ/MM/AAAA">19/03/2020</recordindex>
+<uri>https://documentation.boad.org/dyn/portal/index.seam?page=alo&amp;aloId=24452</uri>
+<field id="TIT" order="1">155_Conventions de délégation de créances entre la BOAD et diverses institutions 2002-2005</field>
+<field id="TIT" order="2">Convention de délégation de créances entre la BOA BENIN-SOBEPEC-BOAD</field>
+<field_path id="TIT" order="2">doc/Alo/P000001/24452/331956/155_Convention de délégation de créances entre la BOA BENIN-SOBEPEC-BOAD_30-06-2003.pdf</field_path>
+<field_pathLink id="TIT">jah6P0K-SumXY1PSV4X6z3Py43owCbXW&#13;
+</field_pathLink>
+<field datetime="30/06/03 00:00" format="JJ/MM/AAAA" id="DTJUR">30/06/2003</field>
+<field id="MOTC" order="1">Convention de délégation de créances entre la BOA BENIN-SOBEPEC</field>
+<field id="LIEUARC">Benin</field>
+<field code="ACc" id="tacc">Accord de coopération</field>
+</record>
+<record id="24453">
+<recordnature code="ARC">ARCHIVES</recordnature>
+<recordtype code="COOP">Coopération</recordtype>
+<recordcreation datetime="19/03/20 11:16" format="JJ/MM/AAAA">19/03/2020</recordcreation>
+<recordupdate datetime="19/03/20 11:16" format="JJ/MM/AAAA">19/03/2020</recordupdate>
+<recordindex datetime="19/03/20 11:16" format="JJ/MM/AAAA">19/03/2020</recordindex>
+<uri>https://documentation.boad.org/dyn/portal/index.seam?page=alo&amp;aloId=24453</uri>
+<field id="TIT" order="1">155_Conventions de délégation de créances entre la BOAD et diverses institutions 2002-2005</field>
+<field id="TIT" order="2">Convention de délégation de créances entre la BOA BOA B-SOBFI-BOAD</field>
+<field_path id="TIT" order="2">doc/Alo/P000001/24453/331962/155_Convention de délégation de créances entre la BOA BOA B-SOBFI-BOAD_30-04-2003.pdf</field_path>
+<field_pathLink id="TIT">jah6P0K-SumXY1PSV4X6z22qdEugvhLP&#13;
+</field_pathLink>
+<field datetime="30/04/03 00:00" format="JJ/MM/AAAA" id="DTJUR">30/04/2003</field>
+<field id="MOTC" order="1">Convention de délégation de créances entre la BOA BOA B-SOBFI-BOAD</field>
+<field id="LIEUARC">Burkina Faso </field>
+<field code="ACc" id="tacc">Accord de coopération</field>
+</record>
+<record id="24454">
+<recordnature code="ARC">ARCHIVES</recordnature>
+<recordtype code="COOP">Coopération</recordtype>
+<recordcreation datetime="19/03/20 11:17" format="JJ/MM/AAAA">19/03/2020</recordcreation>
+<recordupdate datetime="19/03/20 11:18" format="JJ/MM/AAAA">19/03/2020</recordupdate>
+<recordindex datetime="19/03/20 11:18" format="JJ/MM/AAAA">19/03/2020</recordindex>
+<uri>https://documentation.boad.org/dyn/portal/index.seam?page=alo&amp;aloId=24454</uri>
+<field id="TIT" order="1">155_Conventions de délégation de créances entre la BOAD et diverses institutions 2002-2005</field>
+<field id="TIT" order="2">Convention de délégation de créances entre la BOA MALI-ETS ZOUMANA TRAOR</field>
+<field_path id="TIT" order="2">doc/Alo/P000001/24454/331968/155_Convention de délégation de créances entre la BOA MALI-ETS ZOUMANA TRAORE_28-12-2002.pdf</field_path>
+<field_pathLink id="TIT">jah6P0K-SumXY1PSV4X6z4UWZP-pnnHW&#13;
+</field_pathLink>
+<field datetime="28/12/02 00:00" format="JJ/MM/AAAA" id="DTJUR">28/12/2002</field>
+<field id="MOTC" order="1">Convention de délégation de créances entre la BOA MALI-ETS ZOUMANA TRAOR</field>
+<field id="LIEUARC">Mali</field>
+<field code="ACc" id="tacc">Accord de coopération</field>
+</record>
+<record id="24455">
+<recordnature code="ARC">ARCHIVES</recordnature>
+<recordtype code="COOP">Coopération</recordtype>
+<recordcreation datetime="19/03/20 11:19" format="JJ/MM/AAAA">19/03/2020</recordcreation>
+<recordupdate datetime="19/03/20 11:19" format="JJ/MM/AAAA">19/03/2020</recordupdate>
+<recordindex datetime="19/03/20 11:19" format="JJ/MM/AAAA">19/03/2020</recordindex>
+<uri>https://documentation.boad.org/dyn/portal/index.seam?page=alo&amp;aloId=24455</uri>
+<field id="TIT" order="1">155_Conventions de délégation de créances entre la BOAD et diverses institutions 2002-2005</field>
+<field id="TIT" order="2">Convention de délégation de créances entre la BOA NIGER-NIGELEC-BOAD</field>
+<field_path id="TIT" order="2">doc/Alo/P000001/24455/331974/155_Convention de délégation de créances entre la BOA NIGER-NIGELEC-BOAD_27-12-2002.pdf</field_path>
+<field_pathLink id="TIT">jah6P0K-SumXY1PSV4X6z8bsEt4JjUcq&#13;
+</field_pathLink>
+<field datetime="27/12/02 00:00" format="JJ/MM/AAAA" id="DTJUR">27/12/2002</field>
+<field id="MOTC" order="1">Convention de délégation de créances entre la BOA NIGER-NIGELEC-BOAD</field>
+<field id="LIEUARC">Niger</field>
+<field code="ACc" id="tacc">Accord de coopération</field>
+</record>
+<record id="24456">
+<recordnature code="ARC">ARCHIVES</recordnature>
+<recordtype code="COOP">Coopération</recordtype>
+<recordcreation datetime="19/03/20 11:20" format="JJ/MM/AAAA">19/03/2020</recordcreation>
+<recordupdate datetime="19/03/20 11:21" format="JJ/MM/AAAA">19/03/2020</recordupdate>
+<recordindex datetime="19/03/20 11:21" format="JJ/MM/AAAA">19/03/2020</recordindex>
+<uri>https://documentation.boad.org/dyn/portal/index.seam?page=alo&amp;aloId=24456</uri>
+<field id="TIT" order="1">155_Conventions de délégation de créances entre la BOAD et diverses institutions 2002-2005</field>
+<field id="TIT" order="2">Convention de délégation de créances entre la BOM-GANATRANSPORT-BOAD</field>
+<field_path id="TIT" order="2">doc/Alo/P000001/24456/331980/155_Convention de délégation de créances entre la BOM-GANATRANSPORT-BOAD_21-01-2003.pdf</field_path>
+<field_pathLink id="TIT">jah6P0K-SumXY1PSV4X6z0usoIxtmR_v&#13;
+</field_pathLink>
+<field datetime="21/01/03 00:00" format="JJ/MM/AAAA" id="DTJUR">21/01/2003</field>
+<field id="MOTC" order="1">Convention de délégation de créances entre la BOM-GANATRANSPORT-BOAD</field>
+<field id="LIEUARC">Mali</field>
+<field code="ACc" id="tacc">Accord de coopération</field>
+</record>
+<record id="24457">
+<recordnature code="ARC">ARCHIVES</recordnature>
+<recordtype code="COOP">Coopération</recordtype>
+<recordcreation datetime="19/03/20 11:22" format="JJ/MM/AAAA">19/03/2020</recordcreation>
+<recordupdate datetime="19/03/20 11:22" format="JJ/MM/AAAA">19/03/2020</recordupdate>
+<recordindex datetime="19/03/20 11:22" format="JJ/MM/AAAA">19/03/2020</recordindex>
+<uri>https://documentation.boad.org/dyn/portal/index.seam?page=alo&amp;aloId=24457</uri>
+<field id="TIT" order="1">155_Conventions de délégation de créances entre la BOAD et diverses institutions 2002-2005</field>
+<field id="TIT" order="2">Convention de délégation de créances entre la CBB et la BOAD_12-05-2004</field>
+<field_path id="TIT" order="2">doc/Alo/P000001/24457/331986/155_Convention de délégation de créances entre la CBB et la BOAD_12-05-2004.pdf</field_path>
+<field_pathLink id="TIT">jah6P0K-SumXY1PSV4X6z2ObSoXkAwaI&#13;
+</field_pathLink>
+<field datetime="12/05/04 00:00" format="JJ/MM/AAAA" id="DTJUR">12/05/2004</field>
+<field id="MOTC" order="1">Convention de délégation de créances entre la CBB et la BOAD</field>
+<field id="LIEUARC">Benin</field>
+<field code="ACc" id="tacc">Accord de coopération</field>
+</record>
+<record id="24458">
+<recordnature code="ARC">ARCHIVES</recordnature>
+<recordtype code="COOP">Coopération</recordtype>
+<recordcreation datetime="19/03/20 11:23" format="JJ/MM/AAAA">19/03/2020</recordcreation>
+<recordupdate datetime="19/03/20 11:24" format="JJ/MM/AAAA">19/03/2020</recordupdate>
+<recordindex datetime="19/03/20 11:24" format="JJ/MM/AAAA">19/03/2020</recordindex>
+<uri>https://documentation.boad.org/dyn/portal/index.seam?page=alo&amp;aloId=24458</uri>
+<field id="TIT" order="1">155_Conventions de délégation de créances entre la BOAD et diverses institutions 2002-2005</field>
+<field id="TIT" order="2">Convention de délégation de créances et de mecanisme de paiement_25-03-2005</field>
+<field_path id="TIT" order="2">doc/Alo/P000001/24458/331992/155_Convention de délégation de créances et de mecanisme de paiement_25-03-2005.pdf</field_path>
+<field_pathLink id="TIT">jah6P0K-SumXY1PSV4X6z88waJK0883A&#13;
+</field_pathLink>
+<field datetime="25/03/05 00:00" format="JJ/MM/AAAA" id="DTJUR">25/03/2005</field>
+<field id="MOTC" order="1">Convention de délégation de créances et de mecanisme de paiement</field>
+<field id="LIEUARC">Niger</field>
+<field code="ACc" id="tacc">Accord de coopération</field>
+</record>
+<record id="24459">
+<recordnature code="ARC">ARCHIVES</recordnature>
+<recordtype code="COOP">Coopération</recordtype>
+<recordcreation datetime="19/03/20 11:25" format="JJ/MM/AAAA">19/03/2020</recordcreation>
+<recordupdate datetime="19/03/20 11:26" format="JJ/MM/AAAA">19/03/2020</recordupdate>
+<recordindex datetime="19/03/20 11:26" format="JJ/MM/AAAA">19/03/2020</recordindex>
+<uri>https://documentation.boad.org/dyn/portal/index.seam?page=alo&amp;aloId=24459</uri>
+<field id="TIT" order="1">155_Conventions de délégation de créances entre la BOAD et diverses institutions 2002-2005</field>
+<field id="TIT" order="2">Convention de délégation de créances et de mecanisme de paiement</field>
+<field_path id="TIT" order="2">doc/Alo/P000001/24459/331998/155_Convention de délégation de créances et de mecanisme de paiement_27-09-2004.pdf</field_path>
+<field_pathLink id="TIT">jah6P0K-SumXY1PSV4X6z_WGhEAFOCza&#13;
+</field_pathLink>
+<field datetime="27/09/04 00:00" format="JJ/MM/AAAA" id="DTJUR">27/09/2004</field>
+<field id="MOTC" order="1">Convention de délégation de créances et de mecanisme de paiement</field>
+<field id="LIEUARC">CEB- Benin-Togo</field>
+<field code="ACc" id="tacc">Accord de coopération</field>
+</record>
+<record id="24460">
+<recordnature code="ARC">ARCHIVES</recordnature>
+<recordtype code="COOP">Coopération</recordtype>
+<recordcreation datetime="19/03/20 11:29" format="JJ/MM/AAAA">19/03/2020</recordcreation>
+<recordupdate datetime="19/03/20 11:30" format="JJ/MM/AAAA">19/03/2020</recordupdate>
+<recordindex datetime="19/03/20 11:30" format="JJ/MM/AAAA">19/03/2020</recordindex>
+<uri>https://documentation.boad.org/dyn/portal/index.seam?page=alo&amp;aloId=24460</uri>
+<field id="TIT" order="1">194_Contrats et conventions de prestation de service  et autres ontrats 2008-2009</field>
+<field id="TIT" order="2">Convention de location et de prestation de service entre BOAD et CAURIS_Lomé</field>
+<field_path id="TIT" order="2">doc/Alo/P000001/24460/332004/194_Convention de location et de prestation de service entre BOAD et CAURIS_Lomé_20-02-1998.pdf</field_path>
+<field_pathLink id="TIT">jah6P0K-SumXY1PSV4X6zyl11BaDzb1H&#13;
+</field_pathLink>
+<field datetime="20/02/98 00:00" format="JJ/MM/AAAA" id="DTJUR">20/02/1998</field>
+<field id="MOTC" order="1">Convention de location et deprestation de service entre BOAD et CAURIS</field>
+<field id="LIEUARC">TOGO</field>
+<field code="ACc" id="tacc">Accord de coopération</field>
+</record>
+<record id="24461">
+<recordnature code="ARC">ARCHIVES</recordnature>
+<recordtype code="COOP">Coopération</recordtype>
+<recordcreation datetime="19/03/20 11:33" format="JJ/MM/AAAA">19/03/2020</recordcreation>
+<recordupdate datetime="19/03/20 11:35" format="JJ/MM/AAAA">19/03/2020</recordupdate>
+<recordindex datetime="19/03/20 11:35" format="JJ/MM/AAAA">19/03/2020</recordindex>
+<uri>https://documentation.boad.org/dyn/portal/index.seam?page=alo&amp;aloId=24461</uri>
+<field id="TIT" order="1">206_Emissions obligataires de la BOAD</field>
+<field datetime="16/04/10 00:00" format="JJ/MM/AAAA" id="DTJUR">16/04/2010</field>
+<field id="MOTC" order="1">Convention de contre garantie</field>
+<field id="GED" order="1">Convention de contregarantie entre BOAD-BIDC-PAA-BACI et ATLANTIQUE FINANCE_CI_1</field>
+<field_path id="GED" order="1">doc/Alo/P000001/24461/332017/206_Convention de contregarantie entre BOAD-BIDC-PAA-BACI et ATLANTIQUE FINANCE_CI_16-04-2010.pdf</field_path>
+<field_pathLink id="GED">jah6P0K-SumXY1PSV4X6z6Jbuz4KMF3_&#13;
+</field_pathLink>
+<field id="GED" order="2">Convention portant Lettre de garantie à 1ère demande entre BOAD-PAA et ATLANTIQU</field>
+<field_path id="GED" order="2">doc/Alo/P000001/24461/332018/206_Convention portant Lettre de garantie à 1ère demande entre BOAD-PAA et ATLANTIQUE FINABCE_CI_16-04-2010.pdf</field_path>
+<field_pathLink id="GED">jah6P0K-SumXY1PSV4X6z5-6YNbKFf1k&#13;
+</field_pathLink>
+<field id="LIEUARC">Côte d'ivoire</field>
+<field code="ACc" id="tacc">Accord de coopération</field>
+</record>
+<record id="24462">
+<recordnature code="ARC">ARCHIVES</recordnature>
+<recordtype code="COOP">Coopération</recordtype>
+<recordcreation datetime="19/03/20 11:36" format="JJ/MM/AAAA">19/03/2020</recordcreation>
+<recordupdate datetime="01/09/20 13:57" format="JJ/MM/AAAA">01/09/2020</recordupdate>
+<recordindex datetime="01/09/20 13:57" format="JJ/MM/AAAA">01/09/2020</recordindex>
+<uri>https://documentation.boad.org/dyn/portal/index.seam?page=alo&amp;aloId=24462</uri>
+<field id="TIT" order="1">206_Emissions obligataires de la BOAD</field>
+<field id="TIT" order="2">Convention de contregarantie entre BOAD-BOA Senegal et PAD et CGF Bourse_Senegal_29-03-2010&#13;
+8931KB from 8931KB uploaded --- 00:00&#13;
+</field>
+<field_path id="TIT" order="2">doc/Alo/P000001/24462/332023/206_Convention de contregarantie entre BOAD-BOA Senegal et PAD et CGF Bourse_Senegal_29-03-2010.pdf</field_path>
+<field_pathLink id="TIT">jah6P0K-SumXY1PSV4X6z42WFVWeCZ-5&#13;
+</field_pathLink>
+<field id="TIT" order="3">Convention portant Lettre de garantie entre BOAD-PAD et CGF Bourse_Senegal_29-03-2010</field>
+<field_path id="TIT" order="3">doc/Alo/P000001/24462/332025/206_Convention portant Lettre de garantie entre BOAD-PAD et CGF Bourse_Senegal_29-03-2010.pdf</field_path>
+<field_pathLink id="TIT">jah6P0K-SumXY1PSV4X6z15kI8zRP5mc&#13;
+</field_pathLink>
+<field id="TIT" order="4">Lettre relative à l'emprunt obligataire PAD 2010_Senegal_14-04-2010</field>
+<field_path id="TIT" order="4">doc/Alo/P000001/24462/332031/206_Lettre relative à l'emprunt obligataire PAD 2010_Senegal_14-04-2010.pdf</field_path>
+<field_pathLink id="TIT">jah6P0K-SumXY1PSV4X6z6g5yxrkkhNe&#13;
+</field_pathLink>
+<field datetime="29/03/10 00:00" format="JJ/MM/AAAA" id="DTJUR">29/03/2010</field>
+<field id="MOTC" order="1">Convention de contregarantie entre BOAD-BOA Senegal et PAD et CGF Bourse</field>
+<field id="MOTC" order="2">Garanties</field>
+<field id="LIEUARC">sénégal</field>
+<field code="ACc" id="tacc">Accord de coopération</field>
+</record>
+<record id="24463">
+<recordnature code="ARC">ARCHIVES</recordnature>
+<recordtype code="COOP">Coopération</recordtype>
+<recordcreation datetime="19/03/20 11:43" format="JJ/MM/AAAA">19/03/2020</recordcreation>
+<recordupdate datetime="19/03/20 11:46" format="JJ/MM/AAAA">19/03/2020</recordupdate>
+<recordindex datetime="19/03/20 11:46" format="JJ/MM/AAAA">19/03/2020</recordindex>
+<uri>https://documentation.boad.org/dyn/portal/index.seam?page=alo&amp;aloId=24463</uri>
+<field id="TIT" order="1">219.3_CAP entre la BOAD et divers pays et institutions</field>
+<field datetime="28/06/12 00:00" format="JJ/MM/AAAA" id="DTJUR">28/06/2012</field>
+<field id="REF">N°2009054-PR-CI-2012-18-00</field>
+<field id="GED" order="1">Convention de prêt Tome 1 N°2009054-PR-CI-2012-18-00_CÖTE D'IVOIRE</field>
+<field_path id="GED" order="1">doc/Alo/P000001/24463/332042/219_Convention de prêt Tome 1 N°2009054-PR-CI-2012-18-00_CÖTE D'IVOIRE_28-06-2012.pdf</field_path>
+<field_pathLink id="GED">jah6P0K-SumXY1PSV4X6z_IXmvoMZXTw&#13;
+</field_pathLink>
+<field id="GED" order="2">Convention de prêt Tome 2 N°2009054-PR-CI-2012-18-00_CÖTE D'IVOIRE</field>
+<field_path id="GED" order="2">doc/Alo/P000001/24463/332043/219_Convention de prêt Tome 2 N°2009054-PR-CI-2012-18-00_CÖTE D'IVOIRE_28-06-2012.pdf</field_path>
+<field_pathLink id="GED">jah6P0K-SumXY1PSV4X6zyVWDauO4r5E&#13;
+</field_pathLink>
+<field id="LIEUARC">Côte d'ivoire </field>
+<field code="ACc" id="tacc">Accord de coopération</field>
+</record>
+<record id="24464">
+<recordnature code="ARC">ARCHIVES</recordnature>
+<recordtype code="COOP">Coopération</recordtype>
+<recordcreation datetime="19/03/20 14:35" format="JJ/MM/AAAA">19/03/2020</recordcreation>
+<recordupdate datetime="05/12/23 11:54" format="JJ/MM/AAAA">05/12/2023</recordupdate>
+<recordindex datetime="05/12/23 11:54" format="JJ/MM/AAAA">05/12/2023</recordindex>
+<uri>https://documentation.boad.org/dyn/portal/index.seam?page=alo&amp;aloId=24464</uri>
+<field id="TIT" order="1">Convention N°2016093-CG CI 2017 02 00 portant garantie autonome entre BOAD-la Compagnie Ivoirienne d'Electricité (CIE) et la Société Générale de Banques Côte d'Ivoire (SGBCI) pour la garantie de la facilité à court terme octroyée par la SGBCI à la CIE pour l'escompte de traités pour le règlement de factures échues de la CNR International CI au titre de la fourniture de gaz du secteur de l'électricité</field>
+<field datetime="10/02/17 00:00" format="JJ/MM/AAAA" id="DTJUR">10/02/2017</field>
+<field id="MOTC" order="1">Garanties</field>
+<field id="REF">N°2016093-CG CI 2017 02 00</field>
+<field id="GED" order="1">Convention</field>
+<field_path id="GED" order="1">doc/Alo/P000001/24464/332059/272_Convention N° 2016093-CG CI 2017 02 00_Cote d'Ivoire_10-02-2017.pdf</field_path>
+<field_pathLink id="GED">jah6P0K-SumXY1PSV4X6zzkxgeOc7DAN&#13;
+</field_pathLink>
+<field id="GED" order="2">Billet à ordre</field>
+<field_path id="GED" order="2">doc/Alo/P000001/24464/332060/272_Billet a ordre_Cote d'Ivoire_26-02-2017.pdf</field_path>
+<field_pathLink id="GED">jah6P0K-SumXY1PSV4X6z25nz-EHCt4D&#13;
+</field_pathLink>
+<field id="LIEUARC">Côte d'ivoire </field>
+<field code="ACc" id="tacc">Accord de coopération</field>
+</record>
+<record id="24465">
+<recordnature code="ARC">ARCHIVES</recordnature>
+<recordtype code="COOP">Coopération</recordtype>
+<recordcreation datetime="19/03/20 14:39" format="JJ/MM/AAAA">19/03/2020</recordcreation>
+<recordupdate datetime="19/03/20 14:49" format="JJ/MM/AAAA">19/03/2020</recordupdate>
+<recordindex datetime="19/03/20 14:49" format="JJ/MM/AAAA">19/03/2020</recordindex>
+<uri>https://documentation.boad.org/dyn/portal/index.seam?page=alo&amp;aloId=24465</uri>
+<field id="TIT" order="1">219.7 Covention entre la BOAD et divers pays et institutions</field>
+<field datetime="28/06/12 00:00" format="JJ/MM/AAAA" id="DTJUR">28/06/2012</field>
+<field id="GED" order="1">Accord de financement complémentaire N°67_CÖTE D'IVOIRE</field>
+<field_path id="GED" order="1">doc/Alo/P000001/24465/332066/219_Accord de financement complémentaire N°67_CÖTE D'IVOIRE_28-06-2012.pdf</field_path>
+<field_pathLink id="GED">jah6P0K-SumXY1PSV4X6zxVUefi5qF2b&#13;
+</field_pathLink>
+<field id="GED" order="2">Convention de partage de suretés N°66_CÖTE D'IVOIRE</field>
+<field_path id="GED" order="2">doc/Alo/P000001/24465/332067/219_Convention de partage de suretés N°66_CÖTE D'IVOIRE_28-06-2012.pdf</field_path>
+<field_pathLink id="GED">jah6P0K-SumXY1PSV4X6z6e81r0aAdBW&#13;
+</field_pathLink>
+<field id="GED" order="3">Convention de support N°68_CÖTE D'IVOIRE</field>
+<field_path id="GED" order="3">doc/Alo/P000001/24465/332068/219_Convention de support N°68_CÖTE D'IVOIRE_28-06-2012.pdf</field_path>
+<field_pathLink id="GED">jah6P0K-SumXY1PSV4X6z5mVn6okOEwQ&#13;
+</field_pathLink>
+<field id="GED" order="4">Convention multpartite assurance N°49_CÖTE D'IVOIRE</field>
+<field_path id="GED" order="4">doc/Alo/P000001/24465/332074/219_Convention multpartite assurance N°49_CÖTE D'IVOIRE_28-06-2012.pdf</field_path>
+<field_pathLink id="GED">jah6P0K-SumXY1PSV4X6z-l6lKVaSatJ&#13;
+</field_pathLink>
+<field id="GED" order="5">Délégation N°65bis_CÖTE D'IVOIRE</field>
+<field_path id="GED" order="5">doc/Alo/P000001/24465/332075/219_Délégation N°65bis_CÖTE D'IVOIRE_28-06-2012.pdf</field_path>
+<field_pathLink id="GED">jah6P0K-SumXY1PSV4X6z-oegz92mubn&#13;
+</field_pathLink>
+<field id="GED" order="6">Gage des indemnités au titre de construction N°50</field>
+<field_path id="GED" order="6">doc/Alo/P000001/24465/332076/219_Gage des indemnités au titre de construction N°50_CÖTE D'IVOIRE_28-06-2012.pdf</field_path>
+<field_pathLink id="GED">jah6P0K-SumXY1PSV4X6zxF5GanDqsFy&#13;
+</field_pathLink>
+<field id="GED" order="7">Garantie a première demande N°52_CÖTE D'IVOIRE</field>
+<field_path id="GED" order="7">doc/Alo/P000001/24465/332078/219_Garantie a première demande N°52_CÖTE D'IVOIRE_28-06-2012.pdf</field_path>
+<field_pathLink id="GED">jah6P0K-SumXY1PSV4X6z9cXOZ4e0dYw&#13;
+</field_pathLink>
+<field id="GED" order="8">Garantie pour insuffisance de l'indemnité de realisation N°48</field>
+<field_path id="GED" order="8">doc/Alo/P000001/24465/332079/219_Garantie pour insuffisance de l'indemnité de realisation N°48_CÖTE D'IVOIRE_28-06-2012.pdf</field_path>
+<field_pathLink id="GED">jah6P0K-SumXY1PSV4X6zz4urHEgGQMF&#13;
+</field_pathLink>
+<field id="GED" order="9">Nantissement d'actions N°27_CÖTE D'IVOIRE</field>
+<field_path id="GED" order="9">doc/Alo/P000001/24465/332080/219_Nantissement d'actions N°27_CÖTE D'IVOIRE_28-06-2012.pdf</field_path>
+<field_pathLink id="GED">jah6P0K-SumXY1PSV4X6z7TN2nu4koNK&#13;
+</field_pathLink>
+<field id="GED" order="10">Nantissement des comptes N°57_CÖTE D'IVOIRE</field>
+<field_path id="GED" order="10">doc/Alo/P000001/24465/332082/219_Nantissement des comptes N°57_CÖTE D'IVOIRE_28-06-2012.pdf</field_path>
+<field_pathLink id="GED">jah6P0K-SumXY1PSV4X6z55HxNwx1dnn&#13;
+</field_pathLink>
+<field id="GED" order="11">Nantissement des comptes N°62_CÖTE D'IVOIRE</field>
+<field_path id="GED" order="11">doc/Alo/P000001/24465/332083/219_Nantissement des comptes N°62_CÖTE D'IVOIRE_28-06-2012.pdf</field_path>
+<field_pathLink id="GED">jah6P0K-SumXY1PSV4X6zwNB_mXevIWr&#13;
+</field_pathLink>
+<field id="GED" order="12">Nantissement du compte de reserve N°37_CÖTE D'IVOIRE</field>
+<field_path id="GED" order="12">doc/Alo/P000001/24465/332084/219_Nantissement du compte de reserve N°37_CÖTE D'IVOIRE_28-06-2012.pdf</field_path>
+<field_pathLink id="GED">jah6P0K-SumXY1PSV4X6zwJJglHCbczr&#13;
+</field_pathLink>
+<field id="LIEUARC">Côte d'ivoire</field>
+<field code="ACc" id="tacc">Accord de coopération</field>
+</record>
+<record id="24466">
+<recordnature code="ARC">ARCHIVES</recordnature>
+<recordtype code="COOP">Coopération</recordtype>
+<recordcreation datetime="20/03/20 10:33" format="JJ/MM/AAAA">20/03/2020</recordcreation>
+<recordupdate datetime="20/03/20 10:35" format="JJ/MM/AAAA">20/03/2020</recordupdate>
+<recordindex datetime="20/03/20 10:35" format="JJ/MM/AAAA">20/03/2020</recordindex>
+<uri>https://documentation.boad.org/dyn/portal/index.seam?page=alo&amp;aloId=24466</uri>
+<field id="TIT" order="1">282.2_Convention sur les termes communs du 06-03-2017</field>
+<field id="TIT" order="2">Convention de AIIM SEED PARTNERSHIP_Mali_06-03-2017</field>
+<field_path id="TIT" order="2">doc/Alo/P000001/24466/332089/282.2_Convention de AIIM SEED PARTNERSHIP_Mali_06-03-2017.pdf</field_path>
+<field_pathLink id="TIT">jah6P0K-SumXY1PSV4X6z6ZtMeW_Y3SN&#13;
+</field_pathLink>
+<field datetime="06/03/17 00:00" format="JJ/MM/AAAA" id="DTJUR">06/03/2017</field>
+<field id="MOTC" order="1">Convention de AIIM SEED PARTNERSHI</field>
+<field id="LIEUARC">Mali</field>
+<field code="ACc" id="tacc">Accord de coopération</field>
+</record>
+<record id="24467">
+<recordnature code="ARC">ARCHIVES</recordnature>
+<recordtype code="COOP">Coopération</recordtype>
+<recordcreation datetime="20/03/20 10:36" format="JJ/MM/AAAA">20/03/2020</recordcreation>
+<recordupdate datetime="20/03/20 10:37" format="JJ/MM/AAAA">20/03/2020</recordupdate>
+<recordindex datetime="20/03/20 10:37" format="JJ/MM/AAAA">20/03/2020</recordindex>
+<uri>https://documentation.boad.org/dyn/portal/index.seam?page=alo&amp;aloId=24467</uri>
+<field id="TIT" order="1">282.2_Convention sur les termes communs du 06-03-2017</field>
+<field id="TIT" order="2">Convention de BURMEISTER et WAIN SCANDINAVIAN CONTRACTOR A-S</field>
+<field_path id="TIT" order="2">doc/Alo/P000001/24467/332095/282.2_Convention de BURMEISTER et WAIN SCANDINAVIAN CONTRACTOR A-S_Mali_06-03-2017.pdf</field_path>
+<field_pathLink id="TIT">jah6P0K-SumXY1PSV4X6z1ZKrIsT953C&#13;
+</field_pathLink>
+<field datetime="06/03/17 00:00" format="JJ/MM/AAAA" id="DTJUR">06/03/2017</field>
+<field id="MOTC" order="1">Convention de BURMEISTER et WAIN SCANDINAVIAN CONTRACTOR A-S</field>
+<field id="LIEUARC">Mali</field>
+<field code="ACc" id="tacc">Accord de coopération</field>
+</record>
+<record id="24468">
+<recordnature code="ARC">ARCHIVES</recordnature>
+<recordtype code="COOP">Coopération</recordtype>
+<recordcreation datetime="20/03/20 10:37" format="JJ/MM/AAAA">20/03/2020</recordcreation>
+<recordupdate datetime="20/03/20 10:38" format="JJ/MM/AAAA">20/03/2020</recordupdate>
+<recordindex datetime="20/03/20 10:38" format="JJ/MM/AAAA">20/03/2020</recordindex>
+<uri>https://documentation.boad.org/dyn/portal/index.seam?page=alo&amp;aloId=24468</uri>
+<field id="TIT" order="1">282.2_Convention sur les termes communs du 06-03-2017</field>
+<field id="TIT" order="2">Convention de REBOX POWER SOLUTIONS LTD</field>
+<field_path id="TIT" order="2">doc/Alo/P000001/24468/332101/282.2_Convention de REBOX POWER SOLUTIONS LTD_Mali_06-03-2017.pdf</field_path>
+<field_pathLink id="TIT">jah6P0K-SumXY1PSV4X6z_U7kEzVnwNa&#13;
+</field_pathLink>
+<field datetime="06/03/17 00:00" format="JJ/MM/AAAA" id="DTJUR">06/03/2017</field>
+<field id="MOTC" order="1">Convention de REBOX POWER SOLUTIONS LTD</field>
+<field id="LIEUARC">Mali</field>
+<field code="ACc" id="tacc">Accord de coopération</field>
+</record>
+<record id="24469">
+<recordnature code="ARC">ARCHIVES</recordnature>
+<recordtype code="COOP">Coopération</recordtype>
+<recordcreation datetime="20/03/20 10:38" format="JJ/MM/AAAA">20/03/2020</recordcreation>
+<recordupdate datetime="20/03/20 10:40" format="JJ/MM/AAAA">20/03/2020</recordupdate>
+<recordindex datetime="20/03/20 10:40" format="JJ/MM/AAAA">20/03/2020</recordindex>
+<uri>https://documentation.boad.org/dyn/portal/index.seam?page=alo&amp;aloId=24469</uri>
+<field id="TIT" order="1">282.2_Convention sur les termes communs du 06-03-2017</field>
+<field id="TIT" order="2">Convention de THE INVESTMENT FUND DEVELOPING COUNTRIES</field>
+<field_path id="TIT" order="2">doc/Alo/P000001/24469/332107/282.2_Convention de THE INVESTMENT FUND DEVELOPING COUNTRIES_Mali_06-03-2017.pdf</field_path>
+<field_pathLink id="TIT">jah6P0K-SumXY1PSV4X6z5gI5VcUWrZr&#13;
+</field_pathLink>
+<field datetime="06/03/17 00:00" format="JJ/MM/AAAA" id="DTJUR">06/03/2017</field>
+<field id="MOTC" order="1">Convention de THE INVESTMENT FUND DEVELOPING COUNTRIES</field>
+<field id="LIEUARC">Mali</field>
+<field code="ACc" id="tacc">Accord de coopération</field>
+</record>
+<record id="24470">
+<recordnature code="ARC">ARCHIVES</recordnature>
+<recordtype code="COOP">Coopération</recordtype>
+<recordcreation datetime="20/03/20 10:41" format="JJ/MM/AAAA">20/03/2020</recordcreation>
+<recordupdate datetime="20/03/20 10:47" format="JJ/MM/AAAA">20/03/2020</recordupdate>
+<recordindex datetime="20/03/20 10:47" format="JJ/MM/AAAA">20/03/2020</recordindex>
+<uri>https://documentation.boad.org/dyn/portal/index.seam?page=alo&amp;aloId=24470</uri>
+<field id="TIT" order="1">282.3_Convention sur les termes communs du 06-03-2017</field>
+<field datetime="06/03/17 00:00" format="JJ/MM/AAAA" id="DTJUR">06/03/2017</field>
+<field id="GED" order="1">Convention sur les termes communs_Mali</field>
+<field_path id="GED" order="1">doc/Alo/P000001/24470/332115/282.3_Convention sur les termes communs_Mali_06-03-2017.pdf</field_path>
+<field_pathLink id="GED">jah6P0K-SumXY1PSV4X6zzdjOg7S64bt&#13;
+</field_pathLink>
+<field id="GED" order="2">Formalities certificate de la sociéte ALBATROS Energy Mali SA_Mali</field>
+<field_path id="GED" order="2">doc/Alo/P000001/24470/332116/282.3_Formalities certificate de la sociéte ALBATROS Energy Mali SA_Mali_06-03-2017.pdf</field_path>
+<field_pathLink id="GED">jah6P0K-SumXY1PSV4X6zwnbHm1HINTE&#13;
+</field_pathLink>
+<field id="GED" order="3">Formalities certificate de la sociéte ALBATROS Energy Mali SA-Suite 2</field>
+<field_path id="GED" order="3">doc/Alo/P000001/24470/332117/282.3_Formalities certificate de la sociéte ALBATROS Energy Mali SA-Suite 2_Mali_06-03-2017.pdf</field_path>
+<field_pathLink id="GED">jah6P0K-SumXY1PSV4X6z3dC13MmKKl1&#13;
+</field_pathLink>
+<field id="GED" order="4">Formalities certificate de la sociéte ALBATROS Energy Mali SA-Suite 3</field>
+<field_path id="GED" order="4">doc/Alo/P000001/24470/332119/282.3_Formalities certificate de la sociéte ALBATROS Energy Mali SA-Suite 3_Mali_06-03-2017.pdf</field_path>
+<field_pathLink id="GED">jah6P0K-SumXY1PSV4X6z1XnHseSpF_K&#13;
+</field_pathLink>
+<field id="GED" order="5">Formalities certificate de la sociéte ALBATROS Energy Mali SA-Suite 4</field>
+<field_path id="GED" order="5">doc/Alo/P000001/24470/332120/282.3_Formalities certificate de la sociéte ALBATROS Energy Mali SA-Suite 4_Mali_06-03-2017.pdf</field_path>
+<field_pathLink id="GED">jah6P0K-SumXY1PSV4X6z3qoz2TMHyJw&#13;
+</field_pathLink>
+<field id="GED" order="6">Formalities certificate de la sociéte ALBATROS Energy Mali SA-Suite 5</field>
+<field_path id="GED" order="6">doc/Alo/P000001/24470/332121/282.3_Formalities certificate de la sociéte ALBATROS Energy Mali SA-Suite 5_Mali_06-03-2017.pdf</field_path>
+<field_pathLink id="GED">jah6P0K-SumXY1PSV4X6zxCxhq3aZSuD&#13;
+</field_pathLink>
+<field id="GED" order="7">Formalities certificate de la sociéte ALBATROS Energy Mali SA-Suite 6</field>
+<field_path id="GED" order="7">doc/Alo/P000001/24470/332123/282.3_Formalities certificate de la sociéte ALBATROS Energy Mali SA-Suite 6_Mali_06-03-2017.pdf</field_path>
+<field_pathLink id="GED">jah6P0K-SumXY1PSV4X6z558sTAjJMs0&#13;
+</field_pathLink>
+<field id="GED" order="8">Formalities certificate de la sociéte ALBATROS Energy Mali SA-Suite 7</field>
+<field_path id="GED" order="8">doc/Alo/P000001/24470/332124/282.3_Formalities certificate de la sociéte ALBATROS Energy Mali SA-Suite 7_Mali_06-03-2017.pdf</field_path>
+<field_pathLink id="GED">jah6P0K-SumXY1PSV4X6z-FXwRfnZF6e&#13;
+</field_pathLink>
+<field id="GED" order="9">Formalities certificate de la sociéte ALBATROS Energy Mali SA-Suite 8</field>
+<field_path id="GED" order="9">doc/Alo/P000001/24470/332125/282.3_Formalities certificate de la sociéte ALBATROS Energy Mali SA-Suite 8_Mali_06-03-2017.pdf</field_path>
+<field_pathLink id="GED">jah6P0K-SumXY1PSV4X6z6UMoYsURlMo&#13;
+</field_pathLink>
+<field id="GED" order="10">Formalities certificate de la sociéte ALBATROS Energy Mali SA-Suite 9</field>
+<field_path id="GED" order="10">doc/Alo/P000001/24470/332131/282.3_Formalities certificate de la sociéte ALBATROS Energy Mali SA-Suite 9_Mali_06-03-2017.pdf</field_path>
+<field_pathLink id="GED">jah6P0K-SumXY1PSV4X6zznavq64pbwR&#13;
+</field_pathLink>
+<field id="LIEUARC">Mali</field>
+<field code="ACc" id="tacc">Accord de coopération</field>
+</record>
+<record id="24471">
+<recordnature code="ARC">ARCHIVES</recordnature>
+<recordtype code="COOP">Coopération</recordtype>
+<recordcreation datetime="20/03/20 10:50" format="JJ/MM/AAAA">20/03/2020</recordcreation>
+<recordupdate datetime="03/09/20 10:57" format="JJ/MM/AAAA">03/09/2020</recordupdate>
+<recordindex datetime="03/09/20 10:57" format="JJ/MM/AAAA">03/09/2020</recordindex>
+<uri>https://documentation.boad.org/dyn/portal/index.seam?page=alo&amp;aloId=24471</uri>
+<field id="TIT" order="1">296_Convention entre la BOAD et divers pays et institutions</field>
+<field id="TIT" order="2">Convention de garantie de pret AGF-West Africa-BOAD</field>
+<field_path id="TIT" order="2">doc/Alo/P000001/24471/332138/296_Convention de garantie de pret AGF-West Africa-BOAD_20-09-2018.pdf</field_path>
+<field_pathLink id="TIT">jah6P0K-SumXY1PSV4X6zwE4WFJ2nAX1&#13;
+</field_pathLink>
+<field datetime="20/09/18 00:00" format="JJ/MM/AAAA" id="DTJUR">20/09/2018</field>
+<field id="MOTC" order="1">Convention de garantie de pret AGF-West Africa-BOAD,Garantie</field>
+<field id="LIEUARC">Togo</field>
+<field code="ACc" id="tacc">Accord de coopération</field>
+</record>
+<record id="24472">
+<recordnature code="ARC">ARCHIVES</recordnature>
+<recordtype code="COOP">Coopération</recordtype>
+<recordcreation datetime="20/03/20 10:51" format="JJ/MM/AAAA">20/03/2020</recordcreation>
+<recordupdate datetime="20/03/20 10:52" format="JJ/MM/AAAA">20/03/2020</recordupdate>
+<recordindex datetime="20/03/20 10:52" format="JJ/MM/AAAA">20/03/2020</recordindex>
+<uri>https://documentation.boad.org/dyn/portal/index.seam?page=alo&amp;aloId=24472</uri>
+<field id="TIT" order="1">296_Convention entre la BOAD et divers pays et institutions</field>
+<field id="TIT" order="2">Copie Authentique_Sénégal</field>
+<field_path id="TIT" order="2">doc/Alo/P000001/24472/332144/296_Copie Authentique_Sénégal_03-08-2018.pdf</field_path>
+<field_pathLink id="TIT">jah6P0K-SumXY1PSV4X6z8Ojm_WlTO1L&#13;
+</field_pathLink>
+<field datetime="20/09/18 00:00" format="JJ/MM/AAAA" id="DTJUR">20/09/2018</field>
+<field id="MOTC" order="1">Copie Authentique_Sénégal</field>
+<field id="LIEUARC">sénégal</field>
+<field code="ACc" id="tacc">Accord de coopération</field>
+</record>
+<record id="24473">
+<recordnature code="ARC">ARCHIVES</recordnature>
+<recordtype code="COOP">Coopération</recordtype>
+<recordcreation datetime="20/03/20 10:55" format="JJ/MM/AAAA">20/03/2020</recordcreation>
+<recordupdate datetime="01/09/20 14:21" format="JJ/MM/AAAA">01/09/2020</recordupdate>
+<recordindex datetime="01/09/20 14:21" format="JJ/MM/AAAA">01/09/2020</recordindex>
+<uri>https://documentation.boad.org/dyn/portal/index.seam?page=alo&amp;aloId=24473</uri>
+<field id="TIT" order="1">263_Convention CT N°2016036-PR ML 2016 05 00</field>
+<field id="TIT" order="2">Convention de credit a court terme N°2016036-PR ML 2016 05 00</field>
+<field_path id="TIT" order="2">doc/Alo/P000001/24473/332152/263_Convention de credit a court terme N°2016036-PR ML 2016 05 00_MALI_21-04-2016.pdf</field_path>
+<field_pathLink id="TIT">jah6P0K-SumXY1PSV4X6z91UGazYmf9-&#13;
+</field_pathLink>
+<field datetime="21/04/16 00:00" format="JJ/MM/AAAA" id="DTJUR">21/04/2016</field>
+<field id="MOTC" order="1">Convention de credit a court terme N°2016036-PR ML 2016 05 00</field>
+<field id="MOTC" order="2">Garanties</field>
+<field id="REF">N°2016036-PR ML 2016 05 00</field>
+<field id="LIEUARC">Mali</field>
+<field code="ACc" id="tacc">Accord de coopération</field>
+</record>
+</records>
+</Alexandrie>

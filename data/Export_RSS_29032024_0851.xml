@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Alexandrie version="7.0">
+<fieldset>
+<fielddef code="TIT">
+<label>Titre</label>
+<type>S</type>
+</fielddef>
+<fielddef code="URL">
+<label>URL</label>
+<type>U</type>
+</fielddef>
+<fielddef code="CAT">
+<label>Catégorie</label>
+<type>C</type>
+</fielddef>
+<fielddef code="DES">
+<label>Descripteur</label>
+<type>K</type>
+</fielddef>
+<fielddef code="LAN">
+<label>Langue</label>
+<type>C</type>
+</fielddef>
+<fielddef code="DESCR">
+<label>Descriptif</label>
+<type>S</type>
+</fielddef>
+<fielddef code="MOTC">
+<label>Mots clés libres</label>
+<type>S</type>
+</fielddef>
+</fieldset>
+<records total="4">
+<record id="4479">
+<recordnature code="INF">INFOTHEQUE</recordnature>
+<recordtype code="RSS">Flux RSS</recordtype>
+<recordcreation datetime="30/06/10 11:17" format="JJ/MM/AAAA">30/06/2010</recordcreation>
+<recordupdate datetime="01/07/10 09:49" format="JJ/MM/AAAA">01/07/2010</recordupdate>
+<recordindex datetime="30/06/10 11:17" format="JJ/MM/AAAA">30/06/2010</recordindex>
+<uri>https://documentation.boad.org/dyn/portal/index.seam?page=alo&amp;aloId=4479</uri>
+<field id="exe_id" idlink="3115" order="1" targetTYPE="EXE">0000003115</field>
+<field id="TIT" order="1">Actualités internationales</field>
+<field id="URL">http://www.lamoooche.com/getRSS.php?idnews=5</field>
+<field code="FRA" id="LAN" order="1">Français</field>
+<field id="DESCR">ACTUALITES - POLITIQUE- ECONOMIE</field>
+</record>
+<record id="4508">
+<recordnature code="INF">INFOTHEQUE</recordnature>
+<recordtype code="RSS">Flux RSS</recordtype>
+<recordcreation datetime="01/07/10 10:11" format="JJ/MM/AAAA">01/07/2010</recordcreation>
+<recordupdate datetime="01/07/10 11:59" format="JJ/MM/AAAA">01/07/2010</recordupdate>
+<recordindex datetime="01/07/10 10:11" format="JJ/MM/AAAA">01/07/2010</recordindex>
+<uri>https://documentation.boad.org/dyn/portal/index.seam?page=alo&amp;aloId=4508</uri>
+<field id="TIT" order="1">Banques &amp; assurances </field>
+<field id="URL">http://fr.allafrica.com/tools/headlines/rdf/banking/headlines.rdf</field>
+<field code="FRA" id="LAN" order="1">Français</field>
+</record>
+<record id="18500">
+<recordnature code="INF">INFOTHEQUE</recordnature>
+<recordtype code="RSS">Flux RSS</recordtype>
+<recordcreation datetime="21/07/14 16:51" format="JJ/MM/AAAA">21/07/2014</recordcreation>
+<recordupdate datetime="21/07/14 16:51" format="JJ/MM/AAAA">21/07/2014</recordupdate>
+<recordindex datetime="21/07/14 16:51" format="JJ/MM/AAAA">21/07/2014</recordindex>
+<uri>https://documentation.boad.org/dyn/portal/index.seam?page=alo&amp;aloId=18500</uri>
+<field id="TIT" order="1">Actualités BCEAO</field>
+<field id="URL">http://www.bceao.int/rss_actus.html</field>
+</record>
+<record id="18524">
+<recordnature code="INF">INFOTHEQUE</recordnature>
+<recordtype code="RSS">Flux RSS</recordtype>
+<recordcreation datetime="24/07/14 11:19" format="JJ/MM/AAAA">24/07/2014</recordcreation>
+<recordupdate datetime="24/07/14 11:19" format="JJ/MM/AAAA">24/07/2014</recordupdate>
+<recordindex datetime="24/07/14 11:19" format="JJ/MM/AAAA">24/07/2014</recordindex>
+<uri>https://documentation.boad.org/dyn/portal/index.seam?page=alo&amp;aloId=18524</uri>
+<field id="TIT" order="1">Actualités Afrique de l'Ouest </field>
+<field id="URL">http://www.afrik.com/affiliation/backend-region3.html</field>
+<field code="FRA" id="LAN" order="1">Français</field>
+</record>
+</records>
+</Alexandrie>

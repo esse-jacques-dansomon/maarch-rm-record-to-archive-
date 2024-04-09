@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Alexandrie version="7.0">
+<fieldset>
+<fielddef code="TIT">
+<label>Titre</label>
+<type>S</type>
+</fielddef>
+<fielddef code="DTJUR">
+<label>Date du texte</label>
+<type>D</type>
+</fielddef>
+<fielddef code="MOTC">
+<label>Mots clés libres</label>
+<type>S</type>
+</fielddef>
+<fielddef code="GED">
+<label>Fichiers annexes</label>
+<type>S</type>
+</fielddef>
+<fielddef code="REF">
+<label>Référence</label>
+<type>S</type>
+</fielddef>
+<fielddef code="NATJUR">
+<label>Nature du texte</label>
+<type>C</type>
+</fielddef>
+</fieldset>
+<records total="1">
+<record id="14573">
+<recordnature code="AL5">RESSOURCES HUMAINES</recordnature>
+<recordtype code="ECO">Emplois et compétences</recordtype>
+<recordcreation datetime="11/01/13 16:03" format="JJ/MM/AAAA">11/01/2013</recordcreation>
+<recordupdate datetime="11/01/13 16:03" format="JJ/MM/AAAA">11/01/2013</recordupdate>
+<recordindex datetime="11/01/13 16:03" format="JJ/MM/AAAA">11/01/2013</recordindex>
+<uri>https://documentation.boad.org/dyn/portal/index.seam?page=alo&amp;aloId=14573</uri>
+<field id="TIT" order="1">Règlement du personnel 22, gestion des emplois, compétences et carrières</field>
+<field_path id="TIT" order="1">doc/Alo/P000000/14573/229983/Règlement du personnel 22 - gestion des emplois et des compétences.pdf</field_path>
+<field_pathLink id="TIT">jah6P0K-SulUR6SK8rXKR9StzeV6Py-W&#13;
+</field_pathLink>
+<field datetime="31/12/12 00:00" format="JJ/MM/AAAA" id="DTJUR">31/12/2012</field>
+<field id="MOTC" order="1">Règlement 22</field>
+<field id="MOTC" order="2">gestion des emplois</field>
+<field id="MOTC" order="3">Compétences</field>
+<field id="MOTC" order="4">carrières</field>
+<field id="MOTC" order="5">Gestion des carrières</field>
+<field code="REG" id="NATJUR">Règlement</field>
+</record>
+</records>
+</Alexandrie>
