@@ -19,7 +19,7 @@ const retentionRuleScript = async () => {
                 }
             }
             const res = await postRequest(api, dataItem)
-            console.log(res.data)
+            console.log("res ",  item, res.data)
         } catch (e) {
             console.log(e)
         }
@@ -34,9 +34,9 @@ const archiveProfileScript = async () => {
         try {
             const dataItem = {
                 "retentionRule":    {
-                    "archivalProfileId": "actes",
-                    "reference": "actes",
-                    "name": "actes (SEDA version 1.0)",
+                    "archivalProfileId":data[item].Numero,
+                    "reference":  data[item].Description,
+                    "name":  data[item].Description,
                     "description": null,
                     "descriptionSchema": null,
                     "descriptionClass": null,
@@ -56,11 +56,11 @@ const archiveProfileScript = async () => {
                 },
             }
             const res = await postRequest(apiArchieProfile, dataItem)
-            console.log(res.data)
+            console.log("res retentionRule", item, res.data)
         } catch (e) {
             console.log(e)
         }
-        console.log('End import retentionRule')
+        console.log('End import retentionRule archiveProfileScript')
     }
 }
 

@@ -8,6 +8,7 @@ const axios = require("axios");
 
 const  API_URL = Process.env.API_URL;
 
+
 // Options d'en-tête pour les requêtes HTTP
 const headerOptions = {
     'Accept': 'application/json',
@@ -15,6 +16,7 @@ const headerOptions = {
     'User-Agent': 'service',
     'Cookie': `LAABS-AUTH=${authToken}`
 };
+
 
 // Fonction pour convertir une durée en années en une durée ISO 8601
 const dateToISO8601 = (duree) => {
@@ -82,6 +84,7 @@ function pdfToBase64Converter(pdfFilePath) {
 }
 
 const postRequest = (data, apiUrl) => {
+    return true ;
     return new Promise((resolve, reject) => {
         axios.post(apiUrl, data, {
             headers: headerOptions
@@ -131,12 +134,33 @@ const createDefaultArchive = () => {
     }
 }
 
-const readArchiveDetails = (recordData) => {
+const setArchiveDetails = (archiveDetails ) => {
+    let archive = createDefaultArchive()
+    archive.archive.archiveName = archiveDetails.archiveName
+    archive.archive.originatingDate = archiveDetails.originatingDate ?? archiveDetails.recordcreation ?? new Date().toISOString()
+    archive.archive.description.title = [archiveDetails.archiveName]
+    archive.archive.description.description = archiveDetails.desText
+    archive.archive.description.documentType = archiveDetails.type
+    archive.archive.description.descriptionLevel = archiveDetails.recordnature
+    archive.archive.description.keyword = archiveDetails.keyWords
+    archive.archive.description.language = [archiveDetails.language]
+    archive.archive.description.description = archiveDetails.desText
+    archive.archive.description.fullTextIndexation = archiveDetails.fullText ? 'fulltext' : 'none'
+    // archive.archive.digitalResources[0].handler = archiveDetails.digitalResources[0].handler
+    // archive.archive.digitalResources[0].size = archiveDetails.digitalResources[0].size
+    // archive.archive.digitalResources[0].fileName = archiveDetails.digitalResources[0].fileName
+    // archive.archive.digitalResources[0].mimetype = archiveDetails.digitalResources[0].mimetype
+    return archive
+
+}
+
+const readArchiveDetails = (recordData ) => {
     let id = recordData.id;
     let archiveName = recordData.id;
     let originatingDate = null
     let recordcreation =  recordData['recordcreation']['_']
-    const fields = recordData['field'];
+    let recordnature = recordData['recordnature']['_']
+    let fields = recordData['field'];
     let des = {}
     let desText = ''
     let keyWords = []
@@ -144,6 +168,11 @@ const readArchiveDetails = (recordData) => {
     let fullText = null
     let type = recordData['recordtype']['_']
     let uri = recordData['uri']
+    if (fields && !Array.isArray(fields) ){
+        fields = [fields]
+    }else if (!fields){
+        fields = []
+    }
     for (const field of fields) {
         if (field['id'] === 'DTJUR') {
             originatingDate = field['datetime'];
@@ -189,10 +218,15 @@ const readArchiveDetails = (recordData) => {
         intro:INTRO,
         fullText,
         keyWords,
-        uri
+        uri,
+        recordnature
     }
 }
 
+
 module.exports = {
-    dateToISO8601, readExecl, readXmlFile, parseXml, postRequest, pdfToBase64Converter,createDefaultArchive,readArchiveDetails,
-    headerOptions, API_URL}
+    dateToISO8601, readExecl, readXmlFile, parseXml, postRequest, pdfToBase64Converter,
+    createDefaultArchive,readArchiveDetails,setArchiveDetails,
+    headerOptions, API_URL
+}
+

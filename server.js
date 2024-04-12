@@ -1,8 +1,8 @@
 const {archiveProfileScript, retentionRuleScript} = require("./scripts/retention-rule");
 const {
+    importArchivesFromXML,
     importArchivesFormXML_1,
     importArchivesFormXML_2,
-    importArchivesFromXML,
     importArchivesFormXML_3,
     importArchivesFormXML_4,
     importArchivesFormXML_5,
@@ -14,9 +14,9 @@ const {
 
 (async () => {
     //retention rule script
-    // await retentionRuleScript();
-    // //archive profile script
-    // await archiveProfileScript();
+    await retentionRuleScript();
+    // // //archive profile script
+    await archiveProfileScript();
     // //archive script
     // //1- file data
     await importArchivesFromXML();
@@ -28,5 +28,5 @@ const {
     await importArchivesFormXML_6();
     await importArchivesFormXML_7();
     await importArchivesFormXML_8();
-    await importArchivesFormXML_9();
+     await importArchivesFormXML_9();
 })();
