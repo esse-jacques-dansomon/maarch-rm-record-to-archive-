@@ -84,7 +84,6 @@ function pdfToBase64Converter(pdfFilePath) {
 }
 
 const postRequest = (data, apiUrl) => {
-    return true ;
     return new Promise((resolve, reject) => {
         axios.post(apiUrl, data, {
             headers: headerOptions
@@ -126,9 +125,10 @@ const createDefaultArchive = () => {
                 "descriptionLevel": "Item",
             },
             "archiveName": "",
-            "originatingDate": null,
+            "archivalProfileReference": "actes_v2",
             "fullTextIndexation": "none",
             "descriptionClass": "seda2",
+
         },
         "zipContainer": false
     }
@@ -137,13 +137,13 @@ const createDefaultArchive = () => {
 const setArchiveDetails = (archiveDetails ) => {
     let archive = createDefaultArchive()
     archive.archive.archiveName = archiveDetails.archiveName
-    archive.archive.originatingDate = archiveDetails.originatingDate ?? archiveDetails.recordcreation ?? new Date().toISOString()
-    archive.archive.description.title = [archiveDetails.archiveName]
+    // archive.archive.originatingDate = archiveDetails.originatingDate ?? archiveDetails.recordcreation ?? new Date().toISOString()
+    archive.archive.description.title = [archiveDetails.type]
     archive.archive.description.description = archiveDetails.desText
     archive.archive.description.documentType = archiveDetails.type
     archive.archive.description.descriptionLevel = archiveDetails.recordnature
+    archive.archive.archivalProfileReference = archiveDetails.recordnatureCode ?? ''
     archive.archive.description.keyword = archiveDetails.keyWords
-    archive.archive.description.language = [archiveDetails.language]
     archive.archive.description.description = archiveDetails.desText
     archive.archive.description.fullTextIndexation = archiveDetails.fullText ? 'fulltext' : 'none'
     // archive.archive.digitalResources[0].handler = archiveDetails.digitalResources[0].handler
@@ -160,6 +160,7 @@ const readArchiveDetails = (recordData ) => {
     let originatingDate = null
     let recordcreation =  recordData['recordcreation']['_']
     let recordnature = recordData['recordnature']['_']
+    let recordnatureCode = recordData['recordnature']['code']
     let fields = recordData['field'];
     let des = {}
     let desText = ''
@@ -219,7 +220,8 @@ const readArchiveDetails = (recordData ) => {
         fullText,
         keyWords,
         uri,
-        recordnature
+        recordnature,
+        recordnatureCode,
     }
 }
 

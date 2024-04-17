@@ -3,7 +3,66 @@ const {readXmlFile, parseXml, postRequest, API_URL, pdfToBase64Converter, create
 } = require("./utils");
 
 const apiUrl = `${API_URL}/recordsManagement/archive`;
+// const profiles = [
+//     'DOCUMENTATION',
+//     'RESSOURCES HUMAINES',
+//     'CONTENU WEB',
+//     'ARCHIVES',
+//     'MEDIATHEQUE',
+//     'INFOTHEQUE',
+//     'PRODUCTION GRISE'
+// ]
+const profiles = [
 
+]
+
+async function importArchivesFromXMls() {
+    const files = [
+        'data/data.xml',
+        'data/Export_AD_29032024_0950.xml',
+        'data/Export_BLOG0001_29032024_0950.xml',
+        'data/Export_CONTW_29032024_0950.xml',
+        'data/Export_COOP_29032024_0950.xml',
+        'data/Export_ECO_29032024_0950.xml',
+        'data/Export_MULTI_29032024_0851.xml',
+        'data/Export_RSS_29032024_0851.xml',
+        'data/Export_SEM_29032024_0851.xml',
+        'data/Export_TJUR_29032024_0851.xml'
+    ]
+
+    for (const file of files) {
+        try {
+            // Lire le fichier XML
+            const xmlData = await readXmlFile(file);
+
+            // Parser le XML en objet JavaScript
+            const jsonData = await parseXml(xmlData);
+
+            // Convertir les données en archives et les envoyer à l'API
+            console.log(`Start importArchivesFromXML ${file}`)
+            let records = jsonData['Alexandrie']['records']['record'];
+            //if record not array
+            if (!Array.isArray(records)) {
+                records = [records];
+            }
+            // URL de l'API à laquelle envoyer les données
+            for (const recordData of records) {
+                let archiveDetails = readArchiveDetails(recordData)
+                let archive = setArchiveDetails(archiveDetails);
+                try {
+                    let res = await postRequest(archive, apiUrl)
+                    console.log("success")
+                } catch (error) {
+                    console.error('Error:', error);
+                }
+            }
+            console.log(`End importArchivesFromXML ${file}`)
+        } catch (error) {
+            console.error('Error:', error.data);
+        }
+    }
+    console.log(profiles)
+}
 // Exécution du script
 async function importArchivesFromXML() {
     const xmlFilePath = 'data/data.xml';
@@ -19,15 +78,21 @@ async function importArchivesFromXML() {
         const records = jsonData['Alexandrie']['records']['record'];
 
         // URL de l'API à laquelle envoyer les données
+        let profiles = []
         for (const recordData of records) {
             let archiveDetails = readArchiveDetails(recordData)
+            console.log(archiveDetails)
             let archive = setArchiveDetails(archiveDetails);
-            let res = await postRequest(archive, apiUrl)
-            console.log(res)
+            profiles.push(archiveDetails.recordnature)
+            // let res = await postRequest(archive, apiUrl)
+            // console.log()
+            // return
+            
         }
+        console.log(profiles)
         console.log('End importArchivesFromXML')
     } catch (error) {
-        console.error('Error:', error.message);
+        console.error('Error:', error);
     }
 }
 
@@ -50,7 +115,7 @@ async function importArchivesFormXML_1() {
             let archiveDetails = readArchiveDetails(recordData)
             let archive = setArchiveDetails(archiveDetails);
             let res = await postRequest(archive, apiUrl)
-            console.log(res)
+            
         }
         console.log('End importArchivesFormXML_1')
     } catch (error) {
@@ -75,7 +140,7 @@ async function importArchivesFormXML_2() {
             let archiveDetails = readArchiveDetails(recordData)
             let archive = setArchiveDetails(archiveDetails);
             let res = await postRequest(archive, apiUrl)
-            console.log(res)
+            
         }
         console.log('End importArchivesFormXML_2')
     } catch (error) {
@@ -102,7 +167,7 @@ async function importArchivesFormXML_3() {
             let archiveDetails = readArchiveDetails(recordData)
             let archive = setArchiveDetails(archiveDetails);
             let res = await postRequest(archive, apiUrl)
-            console.log(res)
+            
         }
         console.log('End importArchivesFormXML_3')
     } catch (error) {
@@ -128,7 +193,7 @@ async function importArchivesFormXML_4() {
             let archiveDetails = readArchiveDetails(recordData)
             let archive = setArchiveDetails(archiveDetails);
             let res = await postRequest(archive, apiUrl)
-            console.log(res)
+            
         }
         console.log('End importArchivesFormXML_4')
     } catch (error) {
@@ -153,7 +218,7 @@ async function importArchivesFormXML_5() {
         let archiveDetails = readArchiveDetails(recordData)
         let archive = setArchiveDetails(archiveDetails);
         let res = await postRequest(archive, apiUrl)
-        console.log(res)
+        
         console.log('End importArchivesFormXML_5')
 
     } catch (error) {
@@ -179,7 +244,7 @@ async function importArchivesFormXML_6() {
             let archiveDetails = readArchiveDetails(recordData)
             let archive = setArchiveDetails(archiveDetails);
             let res = await postRequest(archive, apiUrl)
-            console.log(res)
+            
         }
         console.log('End importArchivesFormXML_6')
     } catch (error) {
@@ -206,7 +271,7 @@ async function importArchivesFormXML_7() {
             let archiveDetails = readArchiveDetails(recordData)
             let archive = setArchiveDetails(archiveDetails);
             let res = await postRequest(archive, apiUrl)
-            console.log(res)
+            
         }
         console.log('End importArchivesFormXML_7')
 
@@ -234,7 +299,7 @@ async function importArchivesFormXML_8() {
             let archiveDetails = readArchiveDetails(recordData)
             let archive = setArchiveDetails(archiveDetails);
             let res = await postRequest(archive, apiUrl)
-            console.log(res)
+            
         }
         console.log('End importArchivesFormXML_8')
 
@@ -262,7 +327,7 @@ async function importArchivesFormXML_9() {
             let archiveDetails = readArchiveDetails(recordData)
             let archive = setArchiveDetails(archiveDetails);
             let res = await postRequest(archive, apiUrl)
-            console.log(res)
+            
         }
         console.log('End importArchivesFormXML_9')
 
@@ -273,6 +338,7 @@ async function importArchivesFormXML_9() {
 }
 
 module.exports = {
+    importArchivesFromXMls,
     importArchivesFromXML,
     importArchivesFormXML_1,
     importArchivesFormXML_2,
