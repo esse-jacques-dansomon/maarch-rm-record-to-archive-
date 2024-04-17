@@ -11,6 +11,7 @@
   },
   "scripts": {
     "start": "node --env-file=.env server.js",
-    "prod": "node --env-file=.env.prod server.js"
+    "prod": "node --env-file=.env.prod server.js",
+    "cron": "node --env-file=.env.prod scripts/cron.js"
   }
 }
