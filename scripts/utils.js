@@ -97,6 +97,48 @@ const postRequest = (data, apiUrl) => {
     })
 }
 
+const putRequest = (data, apiUrl) => {
+    return new Promise((resolve, reject) => {
+        axios.put(apiUrl, data, {
+            headers: headerOptions
+        })
+            .then(res => {
+                resolve(res)
+            })
+            .catch(err => {
+                reject(err)
+            })
+    })
+}
+
+const deleteRequest = (apiUrl) => {
+    return new Promise((resolve, reject) => {
+        axios.delete(apiUrl, {
+            headers: headerOptions
+        })
+            .then(res => {
+                resolve(res)
+            })
+            .catch(err => {
+                reject(err)
+            })
+    })
+}
+
+const getRequest = (apiUrl) => {
+    return new Promise((resolve, reject) => {
+        axios.get(apiUrl, {
+            headers: headerOptions
+        })
+            .then(res => {
+                resolve(res)
+            })
+            .catch(err => {
+                reject(err)
+            })
+    })
+}
+
 const createDefaultArchive = () => {
     return   {
         "archive": {
@@ -228,7 +270,7 @@ const readArchiveDetails = (recordData ) => {
 
 module.exports = {
     dateToISO8601, readExecl, readXmlFile, parseXml, postRequest, pdfToBase64Converter,
-    createDefaultArchive,readArchiveDetails,setArchiveDetails,
+    createDefaultArchive,readArchiveDetails,setArchiveDetails,putRequest, getRequest,deleteRequest,
     headerOptions, API_URL
 }
 

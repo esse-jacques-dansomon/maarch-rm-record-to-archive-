@@ -1,4 +1,4 @@
-const {archiveProfileScript, retentionRuleScript, archivalAgreementScript} = require("./scripts/retention-rule");
+const {archiveProfileScript, retentionRuleScript, archivalAgreementScript, getAllArchivalAgreementScript} = require("./scripts/retention-rule");
 const {
     importArchivesFromXML,
     importArchivesFormXML_1,
@@ -17,8 +17,7 @@ const {
 
     //retention rule script
     // await retentionRuleScript();
-    // // //archive profile script
-    await archiveProfileScript();
+    // await archiveProfileScript();
     await archivalAgreementScript();
 
     // // // //archive script
