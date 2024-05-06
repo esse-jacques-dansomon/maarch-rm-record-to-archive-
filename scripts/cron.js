@@ -20,8 +20,8 @@ axios.request(config)
     });
 
 
-// Schedule the cron job to run every minute
-cron.schedule('0* * * * *', () => {
+
+cron.schedule('/10* * * * *', () => {
 
     axios.request(config)
         .then((response) => {
