@@ -21,7 +21,7 @@ axios.request(config)
 
 
 
-cron.schedule('/10* * * * *', () => {
+cron.schedule('*/10 * * * *', () => {
 
     axios.request(config)
         .then((response) => {

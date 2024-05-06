@@ -1,6 +1,11 @@
 # Use an official Node.js runtime as the base image
 FROM node:14
 
+# Set environment variables
+ENV NODE_ENV=production
+ENV API_URL=localhost
+ENV NOTIFICATION_BASH_ID=1
+ENV LAABS_AUTH=1
 # Set the working directory in the container
 WORKDIR /usr/src/app
 
