@@ -188,7 +188,7 @@ const setArchiveDetails = (archiveDetails ) => {
     archive.archive.description.description = archiveDetails.desText
     archive.archive.description.documentType = archiveDetails.type
     archive.archive.description.descriptionLevel = archiveDetails.recordnature
-    archive.archive.archivalProfileReference = archiveDetails.recordnatureCode ?? ''
+    // archive.archive.archivalProfileReference = archiveDetails.recordnatureCode ?? ''
     archive.archive.description.keyword = archiveDetails.keyWords
     archive.archive.description.description = archiveDetails.desText
     archive.archive.description.fullTextIndexation = archiveDetails.fullText ? 'fulltext' : 'none'
