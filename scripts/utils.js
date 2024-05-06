@@ -1,12 +1,15 @@
+require('dotenv').config();
 const Process = require('process');
-let authToken = Process.env.LAABS_AUTH;
 const XLSX = require("xlsx");
 const fs = require("fs");
 const xml2js = require("xml2js");
 const pdfToBase64 = require("pdf-to-base64");
 const axios = require("axios");
 
+
+
 const  API_URL = Process.env.API_URL;
+let authToken = Process.env.LAABS_AUTH;
 
 
 // Options d'en-tête pour les requêtes HTTP
