@@ -249,8 +249,8 @@ const readArchiveDetails = (recordData ) => {
             desText += field['_'] + ", "
         }
 
-        let id = field['id'] + ( field['order'] ?? '')
-        des[id] = field['_']
+        // let id = field['id'] + ( field['order'] ?? '')
+        // des[id] = field['_']
 
     }
 
