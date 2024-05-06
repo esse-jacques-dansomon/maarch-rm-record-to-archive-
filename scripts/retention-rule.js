@@ -1,9 +1,16 @@
 const {dateToISO8601, headerOptions, readExecl, API_URL, postRequest, putRequest, getRequest, deleteRequest} = require("./utils");
+const fs = require('fs');
+const path = require('path');
+
+// Change the working directory to the directory containing the script
+process.chdir(__dirname);
 const api = `${API_URL}/recordsManagement/retentionRule`
 const apiArchieProfile = `${API_URL}/recordsManagement/archivalProfile`
 const apiArchieProfileUpload = `${API_URL}/recordsManagement/archivalProfile/archivalProfile/upload`
 const archivalAgreementApi = `${API_URL}/medona/archivalAgreement`
 const total = 50
+const exelPath = './storage_conservations.xlsx'
+// const exelPath = fs.readFileSync('storage_conservations.xlsx')
 
 
 const storageRules = [
@@ -25,8 +32,9 @@ const storageRules = [
 
 
 const retentionRuleScript = async () => {
-    console.log('Start import retentionRule')
-    const data = await readExecl('/Users/essejacques.co/projects/axone/maarchrm/maarchrm-script/data/storage_conservations.xlsx')
+    console.log('Start import retentionRule', exelPath)
+
+    const data = await readExecl(exelPath)
     let i = 0
     for (const item in data) {
         try {
@@ -55,7 +63,8 @@ const retentionRuleScript = async () => {
 
 const archiveProfileScript = async () => {
     console.log('Start import archivalProfile')
-    const data = await readExecl('/Users/essejacques.co/projects/axone/maarchrm/maarchrm-script/data/storage_conservations.xlsx')
+    console.log(exelPath)
+    const data = await readExecl(exelPath)
     let i = 0
     for (const item of data) {
         try {
@@ -103,7 +112,7 @@ const archiveProfileScript = async () => {
 
 const archivalAgreementScript = async () => {
     console.log('Start import accordsVersement')
-    const data = await readExecl('/Users/essejacques.co/projects/axone/maarchrm/maarchrm-script/data/storage_conservations.xlsx')
+    const data = await readExecl(exelPath)
     // let indexAccords  = null
     // const resIndex = await getRequest(archivalAgreementApi + "/index")
     // indexAccords = resIndex.data
