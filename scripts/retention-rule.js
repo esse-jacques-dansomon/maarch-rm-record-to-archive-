@@ -27,7 +27,7 @@ const storageRules = [
 const retentionRuleScript = async () => {
     console.log('Start import retentionRule')
     const data = await readExecl('/Users/essejacques.co/projects/axone/maarchrm/maarchrm-script/data/storage_conservations.xlsx')
-    let i = 0
+
     for (const item in data) {
         try {
             const dataItem = {
@@ -41,11 +41,6 @@ const retentionRuleScript = async () => {
                 }
             }
             const res = await postRequest(dataItem, api)
-            i = i + 1
-            console.log("res retentionRule success", res.data)
-            if (i === 10) {
-                break
-            }
         } catch (e) {
             console.log("error", e)
         }
@@ -56,7 +51,7 @@ const retentionRuleScript = async () => {
 const archiveProfileScript = async () => {
     console.log('Start import archivalProfile')
     const data = await readExecl('/Users/essejacques.co/projects/axone/maarchrm/maarchrm-script/data/storage_conservations.xlsx')
-    let i = 0
+
     for (const item of data) {
         try {
             const dataItem = {
@@ -91,10 +86,6 @@ const archiveProfileScript = async () => {
         } catch (e) {
             console.log("error", e)
         }
-        i = i + 1
-        if (i === 10) {
-            break
-        }
     }
 
     console.log('End import retentionRule archiveProfileScript')
@@ -104,23 +95,7 @@ const archiveProfileScript = async () => {
 const archivalAgreementScript = async () => {
     console.log('Start import accordsVersement')
     const data = await readExecl('/Users/essejacques.co/projects/axone/maarchrm/maarchrm-script/data/storage_conservations.xlsx')
-    // let indexAccords  = null
-    // const resIndex = await getRequest(archivalAgreementApi + "/index")
-    // indexAccords = resIndex.data
 
-    let res;
-    let i = 0
-    // for (let item of indexAccords) {
-    //     if (item.name.includes(item.reference.toUpperCase()) && item.description.includes("Accord de versement - (")) {
-    //         // console.log("Accord de versement - (DOCUMENTATION) - DOCUMENTATION")
-    //         // break
-    //         res = await deleteRequest(archivalAgreementApi + "/" + item.archivalAgreementId)
-    //         console.log("delete", res.data)
-    //     } else {
-    //         console.log("not delete",item.name)
-    //     }
-    //
-    // }
     for (const item of data) {
 
         try {
@@ -163,68 +138,10 @@ const archivalAgreementScript = async () => {
         } catch (e) {
             console.log("error", e)
         }
-        i = i + 1
-        if (i === 10) {
-            break
-        }
     }
     console.log('End import archivalAgreement')
-
-
 }
 
-// const getAllArchivalAgreementScript = async () => {
-//     let data = null;
-//     getRequest(archivalAgreementApi + "/index").then(
-//         res => {
-//             console.log("get all archivalAgreement success")
-//             data = res.data
-//             for (const item of data) {
-//                 if (item.name.includes("Maarch les Bains -"))
-//                 {
-//                     updateArchivalAgreement(item)
-//                 }
-//             }
-//         }
-//     ).catch(e => {
-//             console.log("error", e)
-//         }
-//     )
-//
-//
-// }
-
-
-// updateArchivalAgreement =(item) => {
-//     const dataItem = {
-//         "archivalAgreement":
-//             {
-//                 "archivalAgreementId":item.archivalAgreementId,
-//                 "reference": item.reference.replace("MAARCH_LES_BAINS_", ""),
-//                 "name": item.name.replace("Maarch les Bains -", ""),
-//                 "description": item.description.replace("Maarch les Bains -", ""),
-//                 "archiverOrgRegNumber": item.archiverOrgRegNumber,
-//                 "originatorOrgIds": item.originatorOrgIds,
-//                 "depositorOrgRegNumber": item.depositorOrgRegNumber,
-//                 "beginDate": null,
-//                 "endDate": null,
-//                 "archivalProfileReference": item.archivalProfileReference,
-//                 "serviceLevelReference": "serviceLevel_001",
-//                 "maxSizeAgreement": 1000000,
-//                 "maxSizeTransfer": 0,
-//                 "maxSizeDay": 0,
-//                 "maxSizeMonth": 0,
-//                 "maxSizeWeek": 0,
-//                 "maxSizeYear": 0,
-//                 "signed": false,
-//                 "autoTransferAcceptance": true,
-//                 "processSmallArchive": true
-//             },
-//
-//     }
-//     const res = putRequest(dataItem, archivalAgreementApi)
-//     console.log("put archivalAgreement  success", res)
-// }
 
 module.exports = {
     retentionRuleScript,
