@@ -1,6 +1,5 @@
 const cron = require('node-cron');
 const axios = require('axios');
-const {token} = require('../token');
 const {API_URL, NOTIFICATION_BASH_ID,  headerOptions} = require("./utils");
 
 
