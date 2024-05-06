@@ -16,8 +16,8 @@ const {
 
 
     //retention rule script
-    await retentionRuleScript();
-    await archiveProfileScript();
+    // await retentionRuleScript();
+    // await archiveProfileScript();
     await archivalAgreementScript();
 
     // // // //archive script

@@ -113,23 +113,23 @@ const archiveProfileScript = async () => {
 const archivalAgreementScript = async () => {
     console.log('Start import accordsVersement')
     const data = await readExecl(exelPath)
-    // let indexAccords  = null
-    // const resIndex = await getRequest(archivalAgreementApi + "/index")
-    // indexAccords = resIndex.data
+    let indexAccords  = null
+    const resIndex = await getRequest(archivalAgreementApi + "/index")
+    indexAccords = resIndex.data
 
     let res;
     let i = 0
-    // for (let item of indexAccords) {
-    //     if (item.name.includes(item.reference.toUpperCase()) && item.description.includes("Accord de versement - (")) {
-    //         // console.log("Accord de versement - (DOCUMENTATION) - DOCUMENTATION")
-    //         // break
-    //         res = await deleteRequest(archivalAgreementApi + "/" + item.archivalAgreementId)
-    //         console.log("delete", res.data)
-    //     } else {
-    //         console.log("not delete",item.name)
-    //     }
-    //
-    // }
+    for (let item of indexAccords) {
+        if (item.name.includes(item.reference.toUpperCase()) && item.description.includes("Accord de versement - (")) {
+            // console.log("Accord de versement - (DOCUMENTATION) - DOCUMENTATION")
+            // break
+            res = await deleteRequest(archivalAgreementApi + "/" + item.archivalAgreementId)
+            console.log("delete", res.data)
+        } else {
+            console.log("not delete",item.name)
+        }
+
+    }
     for (const item of data) {
 
         try {
@@ -137,7 +137,7 @@ const archivalAgreementScript = async () => {
                 "archivalAgreement":
                     {
                         "archivalAgreementId": item.Numero.toUpperCase(),
-                        "reference": item.Numero.toUpperCase(),
+                        "reference": item.Numero,
                         "name": item.Description + " - " + item.Numero.toUpperCase(),
                         "description": "Accord de versement - (" + item.Description + ")" + " - " + item.Numero.toUpperCase(),
                         "archiverOrgRegNumber": "ACME_ARCHIVE",
@@ -153,7 +153,7 @@ const archivalAgreementScript = async () => {
                         "endDate": null,
                         "allowedFormats": "fmt/14 fmt/15 fmt/16 fmt/17 fmt/18 fmt/19 fmt/20 fmt/95 fmt/101 fmt/189 fmt/276 fmt/354 fmt/412 fmt/476 fmt/477 fmt/478 fmt/479 fmt/480 fmt/481 fmt/291 fmt/43",
                         "enabled": true,
-                        "archivalProfileReference": item.Numero.toUpperCase(),
+                        "archivalProfileReference": item.Numero,
                         "serviceLevelReference": "serviceLevel_001",
                         "maxSizeAgreement": 1000000,
                         "maxSizeTransfer": 0,
@@ -162,7 +162,7 @@ const archivalAgreementScript = async () => {
                         "maxSizeWeek": 0,
                         "maxSizeYear": 0,
                         "signed": false,
-                        "autoTransferAcceptance": true,
+                        "autoTransferAcceptance": false,
                         "processSmallArchive": true
                     },
 

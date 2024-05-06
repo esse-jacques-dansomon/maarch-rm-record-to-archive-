@@ -9,7 +9,8 @@ const axios = require("axios");
 
 
 const  API_URL = Process.env.API_URL;
-let authToken = Process.env.LAABS_AUTH;
+const authToken = Process.env.LAABS_AUTH;
+const NOTIFICATION_BASH_ID = Process.env.NOTIFICATION_BASH_ID;
 
 
 // Options d'en-tête pour les requêtes HTTP
@@ -274,6 +275,6 @@ const readArchiveDetails = (recordData ) => {
 module.exports = {
     dateToISO8601, readExecl, readXmlFile, parseXml, postRequest, pdfToBase64Converter,
     createDefaultArchive,readArchiveDetails,setArchiveDetails,putRequest, getRequest,deleteRequest,
-    headerOptions, API_URL
+    headerOptions, API_URL, NOTIFICATION_BASH_ID
 }
 

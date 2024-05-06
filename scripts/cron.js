@@ -1,17 +1,15 @@
 const cron = require('node-cron');
 const axios = require('axios');
 const {token} = require('../token');
+const {API_URL, NOTIFICATION_BASH_ID,  headerOptions} = require("./utils");
+
+
 
 let config = {
     method: 'get',
     maxBodyLength: Infinity,
-    url: 'http://maarchrmap.axone-sn.com/batchProcessing/scheduling/Execute/maarchRMAP_scrcwa-fh0u-3ie4if',
-    headers: {
-        'Accept': 'application/json',
-        'Content-Type': 'application/json',
-        'User-Agent': 'service',
-        'Cookie': 'LAABS-AUTH=' + token
-    }
+    url: `${API_URL}/batchProcessing/scheduling/Execute/${NOTIFICATION_BASH_ID}`,
+    headers: headerOptions
 };
 
 axios.request(config)
