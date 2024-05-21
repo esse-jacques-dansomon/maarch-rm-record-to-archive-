@@ -46,7 +46,7 @@ async function importArchivesFromXMls() {
                 let archiveDetails = readArchiveDetails(recordData)
                 let archive = setArchiveDetails(archiveDetails);
                 try {
-                    // let res = await postRequest(archive, apiUrl)
+                    let res = await postRequest(archive, apiUrl)
                     console.log("success", archive.archive)
                 } catch (error) {
                     console.error('Error:', error);
