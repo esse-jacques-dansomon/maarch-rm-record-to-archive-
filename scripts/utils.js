@@ -188,7 +188,8 @@ const setArchiveDetails = (archiveDetails ) => {
     archive.archive.description.description = archiveDetails.desText
     archive.archive.description.documentType = archiveDetails.type
     archive.archive.description.descriptionLevel = archiveDetails.recordnature
-    archive.archive.archivalProfileReference = archiveDetails.recordnatureCode ?? ''
+    // archive.archive.archivalProfileReference = archiveDetails.recordnatureCode ?? ''
+    archive.archive.archivalProfileReference = 'actes_v2'
     archive.archive.description.keyword = archiveDetails.keyWords
     archive.archive.description.description = archiveDetails.desText
     archive.archive.description.fullTextIndexation = archiveDetails.fullText ? 'fulltext' : 'none'
@@ -249,8 +250,8 @@ const readArchiveDetails = (recordData ) => {
             desText += field['_'] + ", "
         }
 
-        // let id = field['id'] + ( field['order'] ?? '')
-        // des[id] = field['_']
+        let id = field['id'] + ( field['order'] ?? '')
+        des[id] = field['_']
 
     }
 

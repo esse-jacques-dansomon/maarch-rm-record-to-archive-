@@ -1,7 +1,9 @@
+// require('dotenv').config();
+// const Process = require('process');
+
 const {readXmlFile, parseXml, postRequest, API_URL, pdfToBase64Converter, createDefaultArchive, readArchiveDetails,
     setArchiveDetails
 } = require("./utils");
-const Process = require("process");
 
 const apiUrl = `${API_URL}/recordsManagement/archive`;
 // const profiles = [
@@ -16,6 +18,7 @@ const apiUrl = `${API_URL}/recordsManagement/archive`;
 const profiles = [
 
 ]
+
 
 const  XML_FILES = [ 'data/ConférenceDesChefsdEtatUEMOA.xml' ];
 
@@ -44,7 +47,7 @@ async function importArchivesFromXMls() {
                 let archive = setArchiveDetails(archiveDetails);
                 try {
                     // let res = await postRequest(archive, apiUrl)
-                    console.log("success")
+                    console.log("success", archive.archive)
                 } catch (error) {
                     console.error('Error:', error);
                 }
