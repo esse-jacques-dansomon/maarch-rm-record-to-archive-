@@ -2,7 +2,6 @@ const {readXmlFile, parseXml, postRequest, API_URL, pdfToBase64Converter, create
     setArchiveDetails
 } = require("./utils");
 const Process = require("process");
-const  XML_FILES = Process.env.XML_FILES;
 
 const apiUrl = `${API_URL}/recordsManagement/archive`;
 // const profiles = [
@@ -17,6 +16,11 @@ const apiUrl = `${API_URL}/recordsManagement/archive`;
 const profiles = [
 
 ]
+
+const  XML_FILES = [ 'data/ConférenceDesChefsdEtatUEMOA.xml' ];
+
+
+
 
 async function importArchivesFromXMls() {
     for (const file of XML_FILES) {
