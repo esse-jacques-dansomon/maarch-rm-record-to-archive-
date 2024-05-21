@@ -1,5 +1,5 @@
-// require('dotenv').config();
-// const Process = require('process');
+require('dotenv').config();
+const Process = require('process');
 
 const {readXmlFile, parseXml, postRequest, API_URL, pdfToBase64Converter, createDefaultArchive, readArchiveDetails,
     setArchiveDetails
@@ -20,7 +20,7 @@ const profiles = [
 ]
 
 
-const  XML_FILES = [ 'data/ConférenceDesChefsdEtatUEMOA.xml' ];
+const  XML_FILES = [ process.env.XML_FILES ];
 
 
 
