@@ -1,0 +1,1565 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Alexandrie version="7.0">
+<fieldset>
+<fielddef code="TIT">
+<label>Titre</label>
+<type>S</type>
+</fielddef>
+<fielddef code="LIEUARC">
+<label>Partenaire</label>
+<type>S</type>
+</fielddef>
+<fielddef code="DRE">
+<label>Date de tenue de la réunion</label>
+<type>D</type>
+</fielddef>
+<fielddef code="PAYS">
+<label>Pays</label>
+<type>K</type>
+</fielddef>
+<fielddef code="COT">
+<label>Cote</label>
+<type>S</type>
+</fielddef>
+<fielddef code="MOTC">
+<label>Mots clés libres</label>
+<type>S</type>
+</fielddef>
+<fielddef code="OBS">
+<label>Observations</label>
+<type>W</type>
+</fielddef>
+<fielddef code="ANNEX">
+<label>Pièces annexes</label>
+<type>S</type>
+</fielddef>
+</fieldset>
+<records total="44">
+<record id="8988">
+<recordnature code="ARC">ARCHIVES</recordnature>
+<recordtype code="CCEUEMOA">Conférence des Chefs d'Etat UEMOA</recordtype>
+<recordcreation datetime="02/08/11 14:47" format="JJ/MM/AAAA">02/08/2011</recordcreation>
+<recordupdate datetime="12/03/12 11:11" format="JJ/MM/AAAA">12/03/2012</recordupdate>
+<recordindex datetime="02/08/11 14:47" format="JJ/MM/AAAA">02/08/2011</recordindex>
+<uri>https://documentation.boad.org/dyn/portal/index.seam?page=alo&amp;aloId=8988</uri>
+<field id="TIT" order="1">Sixième session de la conférence des Chefs d’État de l'UEMOA du 06 Août 1988 &#13;
+</field>
+<field id="LIEUARC">cotonou</field>
+<field datetime="06/08/88 00:00" format="JJ/MM/AAAA" id="DRE">06/08/1988</field>
+<field id="PAYS" idthes="161" order="1" thes="50">Bénin</field>
+<field id="COT">1A1</field>
+<field id="ANNEX" order="1">Rapport d'activité du gouverneur de la BCEAO</field>
+<field_path id="ANNEX" order="1">doc/Alo/P000000/8988/192305/Rapport d'activité du gouverneur de la BCEAO.pdf</field_path>
+<field_pathLink id="ANNEX">QcoV5hnjdchqpIsWmZ0MnAwWZKKC20Y8&#13;
+</field_pathLink>
+<field id="ANNEX" order="2">5.Programme d'assainissement des banques primaires dans l'UMOA</field>
+<field_path id="ANNEX" order="2">doc/Alo/P000000/8988/109908/5.Programme d'assainissement des banques primaires dans l'UMOA.pdf</field_path>
+<field_pathLink id="ANNEX">QcoV5hnjdcjUMnw18NN3EwkSPylJwT6t&#13;
+</field_pathLink>
+<field id="ANNEX" order="3">1.Rapport du président du conseil des ministres sur les réflections pour quelle Uninon menetaire pour demain</field>
+<field_path id="ANNEX" order="3">doc/Alo/P000000/8988/109904/1.Rapport du président du conseil des ministres sur les réflections pour quelle Uninon menetaire pour demain.pdf</field_path>
+<field_pathLink id="ANNEX">QcoV5hnjdcjUMnw18NN3EzWzpxpSCx5c&#13;
+</field_pathLink>
+<field id="ANNEX" order="4">2.Rapport du président du conseil des ministres sur l'ajustement la croissance et la dette</field>
+<field_path id="ANNEX" order="4">doc/Alo/P000000/8988/109905/2.Rapport du président du conseil des ministres sur l'ajustement la croissance et la dette.pdf</field_path>
+<field_pathLink id="ANNEX">QcoV5hnjdcjUMnw18NN3E1Gn5zOl7xxJ&#13;
+</field_pathLink>
+<field id="ANNEX" order="5">3.Ajustement-croissance et dette dans les pays de l'UEMOA</field>
+<field_path id="ANNEX" order="5">doc/Alo/P000000/8988/109906/3.Ajustement-croissance et dette dans les pays de l'UEMOA.pdf</field_path>
+<field_pathLink id="ANNEX">QcoV5hnjdcjUMnw18NN3E_4DcVIMBXtE&#13;
+</field_pathLink>
+<field id="ANNEX" order="6">4.Suivi de la mise en application des décisions des conférences des chefs d'etat</field>
+<field_path id="ANNEX" order="6">doc/Alo/P000000/8988/109907/4.Suivi de la mise en application des décisions des conférences des chefs d'etat.pdf</field_path>
+<field_pathLink id="ANNEX">QcoV5hnjdcjUMnw18NN3E98z6pyvuryt&#13;
+</field_pathLink>
+<field id="ANNEX" order="7">Ordre du jour</field>
+<field_path id="ANNEX" order="7">doc/Alo/P000000/8988/121667/Ordre du jour.pdf</field_path>
+<field_pathLink id="ANNEX">QcoV5hnjdciu2WGF6EdLrWg8V3LWlMev&#13;
+</field_pathLink>
+</record>
+<record id="8989">
+<recordnature code="ARC">ARCHIVES</recordnature>
+<recordtype code="CCEUEMOA">Conférence des Chefs d'Etat UEMOA</recordtype>
+<recordcreation datetime="02/08/11 15:02" format="JJ/MM/AAAA">02/08/2011</recordcreation>
+<recordupdate datetime="12/03/12 11:10" format="JJ/MM/AAAA">12/03/2012</recordupdate>
+<recordindex datetime="02/08/11 15:02" format="JJ/MM/AAAA">02/08/2011</recordindex>
+<uri>https://documentation.boad.org/dyn/portal/index.seam?page=alo&amp;aloId=8989</uri>
+<field id="TIT" order="1">Septième Session de la Conférence des Chefs d’État de l'UEMOA 15 Juin 1992  </field>
+<field datetime="15/06/92 00:00" format="JJ/MM/AAAA" id="DRE">15/06/1992</field>
+<field id="COT">1A2</field>
+<field id="ANNEX" order="1">1.Rapport d'activité du président de la BOAD Juin 1992</field>
+<field_path id="ANNEX" order="1">doc/Alo/P000000/8989/109909/1.Rapport d'activité du président de la BOAD Juin 1992.pdf</field_path>
+<field_pathLink id="ANNEX">QcoV5hnjdcjUMnw18NN3E656QhfB02jp&#13;
+</field_pathLink>
+</record>
+<record id="8991">
+<recordnature code="ARC">ARCHIVES</recordnature>
+<recordtype code="CCEUEMOA">Conférence des Chefs d'Etat UEMOA</recordtype>
+<recordcreation datetime="02/08/11 15:27" format="JJ/MM/AAAA">02/08/2011</recordcreation>
+<recordupdate datetime="12/03/12 11:10" format="JJ/MM/AAAA">12/03/2012</recordupdate>
+<recordindex datetime="02/08/11 15:27" format="JJ/MM/AAAA">02/08/2011</recordindex>
+<uri>https://documentation.boad.org/dyn/portal/index.seam?page=alo&amp;aloId=8991</uri>
+<field id="TIT" order="1">Première Session de la conférence des Chefs d’État de l'UEMOA du 10 Mai 1996 </field>
+<field id="LIEUARC">Ouagadougou</field>
+<field datetime="10/05/96 00:00" format="JJ/MM/AAAA" id="DRE">10/05/1996</field>
+<field id="PAYS" idthes="162" order="1" thes="50">Burkina Faso</field>
+<field id="COT">1A4</field>
+</record>
+<record id="8993">
+<recordnature code="ARC">ARCHIVES</recordnature>
+<recordtype code="CCEUEMOA">Conférence des Chefs d'Etat UEMOA</recordtype>
+<recordcreation datetime="02/08/11 15:34" format="JJ/MM/AAAA">02/08/2011</recordcreation>
+<recordupdate datetime="12/03/12 11:09" format="JJ/MM/AAAA">12/03/2012</recordupdate>
+<recordindex datetime="02/08/11 15:34" format="JJ/MM/AAAA">02/08/2011</recordindex>
+<uri>https://documentation.boad.org/dyn/portal/index.seam?page=alo&amp;aloId=8993</uri>
+<field id="TIT" order="1">Conférence des Chefs d’État de l'UEMOA du 28 Janvier 1999 </field>
+<field id="LIEUARC">Lomé</field>
+<field datetime="28/01/99 00:00" format="JJ/MM/AAAA" id="DRE">28/01/1999</field>
+<field id="PAYS" idthes="178" order="1" thes="50">Togo</field>
+<field id="COT">1A6A</field>
+<field id="ANNEX" order="1">ordre du jour</field>
+<field_path id="ANNEX" order="1">doc/Alo/P000000/8993/109951/ordre du jour.pdf</field_path>
+<field_pathLink id="ANNEX">QcoV5hnjdcjUMnw18NN3E8cpPza6TqLu&#13;
+</field_pathLink>
+<field id="ANNEX" order="2">rapport du gouverneur de la banque centrale de la BCEAO</field>
+<field_path id="ANNEX" order="2">doc/Alo/P000000/8993/109952/rapport du gouverneur de la banque centrale de la BCEAO.pdf</field_path>
+<field_pathLink id="ANNEX">QcoV5hnjdcjUMnw18NN3EyI8y414-T-q&#13;
+</field_pathLink>
+<field id="ANNEX" order="3">rapport sur la situation économique financiaire en monétaire de la guinée bissau</field>
+<field_path id="ANNEX" order="3">doc/Alo/P000000/8993/109953/rapport sur la situation économique financiaire en monétaire de la guinée bissau.pdf</field_path>
+<field_pathLink id="ANNEX">QcoV5hnjdcjUMnw18NN3E6rOZbZGXyC3&#13;
+</field_pathLink>
+<field id="ANNEX" order="4">rapport du PR des conseils des ministres</field>
+<field_path id="ANNEX" order="4">doc/Alo/P000000/8993/109954/rapport du PR des conseils des ministres.pdf</field_path>
+<field_pathLink id="ANNEX">QcoV5hnjdcjUMnw18NN3E8mUqTm73YwL&#13;
+</field_pathLink>
+<field id="ANNEX" order="5">communiqué final lomé 28-01-1999</field>
+<field_path id="ANNEX" order="5">doc/Alo/P000000/8993/109955/communiqué final lomé 28-01-1999.pdf</field_path>
+<field_pathLink id="ANNEX">QcoV5hnjdcjUMnw18NN3E4ufzfcBe8Ku&#13;
+</field_pathLink>
+</record>
+<record id="8994">
+<recordnature code="ARC">ARCHIVES</recordnature>
+<recordtype code="CCEUEMOA">Conférence des Chefs d'Etat UEMOA</recordtype>
+<recordcreation datetime="02/08/11 15:37" format="JJ/MM/AAAA">02/08/2011</recordcreation>
+<recordupdate datetime="04/04/17 09:22" format="JJ/MM/AAAA">04/04/2017</recordupdate>
+<recordindex datetime="02/08/11 15:37" format="JJ/MM/AAAA">02/08/2011</recordindex>
+<uri>https://documentation.boad.org/dyn/portal/index.seam?page=alo&amp;aloId=8994</uri>
+<field id="TIT" order="1">Conférence des Chefs d’État de l'UEMOA du 08 Décembre 1999 </field>
+<field_path id="TIT" order="1">doc/Alo/P000000/8994/109864/Communiqué final CCEG du 08.12.99.pdf</field_path>
+<field_pathLink id="TIT">QcoV5hnjdciu2WGF6EdLrQlhhbGQsU2i&#13;
+</field_pathLink>
+<field id="LIEUARC">Lomé</field>
+<field datetime="08/12/99 00:00" format="JJ/MM/AAAA" id="DRE">08/12/1999</field>
+<field id="PAYS" idthes="178" order="1" thes="50">Togo</field>
+<field id="COT">1A7B</field>
+<field id="ANNEX" order="1">ordre du jour</field>
+<field_path id="ANNEX" order="1">doc/Alo/P000000/8994/109962/BOAD ENCHIFFRES 1993-1999.pdf</field_path>
+<field_pathLink id="ANNEX">QcoV5hnjdcjUMnw18NN3E_BVMlE3E3LF&#13;
+</field_pathLink>
+<field_path id="ANNEX" order="1">doc/Alo/P000000/8994/109962/ordre du jour.pdf</field_path>
+<field_pathLink id="ANNEX">QcoV5hnjdcjUMnw18NN3E5ADCXeI4X1i&#13;
+</field_pathLink>
+<field id="ANNEX" order="2">BOAD ENCHIFFRES 1993-1999</field>
+<field_path id="ANNEX" order="2">doc/Alo/P000000/8994/109963/BOAD ENCHIFFRES 1993-1999[0].pdf</field_path>
+<field_pathLink id="ANNEX">QcoV5hnjdcjUMnw18NN3E2-G0j9ysRfi&#13;
+</field_pathLink>
+<field id="ANNEX" order="3">BOAD et la promotion des PME</field>
+<field_path id="ANNEX" order="3">doc/Alo/P000000/8994/109964/BOAD et la promotion des PME.pdf</field_path>
+<field_pathLink id="ANNEX">QcoV5hnjdcjUMnw18NN3E8dxfjzLT8Ea&#13;
+</field_pathLink>
+<field id="ANNEX" order="4">BOAD et le financement du secteur privé</field>
+<field_path id="ANNEX" order="4">doc/Alo/P000000/8994/109965/BOAD et le financement du secteur privé.pdf</field_path>
+<field_pathLink id="ANNEX">QcoV5hnjdcjUMnw18NN3EznXueaJ1Uaz&#13;
+</field_pathLink>
+<field id="ANNEX" order="5">BOAD la lutte contre la pauvreté</field>
+<field_path id="ANNEX" order="5">doc/Alo/P000000/8994/109966/BOAD la lutte contre la pauvreté.pdf</field_path>
+<field_pathLink id="ANNEX">QcoV5hnjdcjUMnw18NN3E39C8pCotP5Q&#13;
+</field_pathLink>
+<field id="ANNEX" order="6">BOAD le financement de l'intégration économique</field>
+<field_path id="ANNEX" order="6">doc/Alo/P000000/8994/109967/BOAD le financement de l'intégration économique.pdf</field_path>
+<field_pathLink id="ANNEX">QcoV5hnjdcjUMnw18NN3E8kS-wg3St9l&#13;
+</field_pathLink>
+<field id="ANNEX" order="7">rapport du PR de la BOAD</field>
+<field_path id="ANNEX" order="7">doc/Alo/P000000/8994/109968/rapport du PR de la BOAD.pdf</field_path>
+<field_pathLink id="ANNEX">QcoV5hnjdcjUMnw18NN3EzuOzWmYgDn6&#13;
+</field_pathLink>
+</record>
+<record id="8995">
+<recordnature code="ARC">ARCHIVES</recordnature>
+<recordtype code="CCEUEMOA">Conférence des Chefs d'Etat UEMOA</recordtype>
+<recordcreation datetime="02/08/11 15:42" format="JJ/MM/AAAA">02/08/2011</recordcreation>
+<recordupdate datetime="12/03/12 10:48" format="JJ/MM/AAAA">12/03/2012</recordupdate>
+<recordindex datetime="02/08/11 15:42" format="JJ/MM/AAAA">02/08/2011</recordindex>
+<uri>https://documentation.boad.org/dyn/portal/index.seam?page=alo&amp;aloId=8995</uri>
+<field id="TIT" order="1">Conférence des Chefs d’État de l'UEMOA du 14 Décembre 2000 </field>
+<field id="LIEUARC">Bamako </field>
+<field datetime="14/12/00 00:00" format="JJ/MM/AAAA" id="DRE">14/12/2000</field>
+<field id="PAYS" idthes="171" order="1" thes="50">Mali</field>
+<field id="COT">1A8A</field>
+<field id="ANNEX" order="1">ORDRE DU JOUR</field>
+<field_path id="ANNEX" order="1">doc/Alo/P000000/8995/109969/ORDRE DU JOUR.pdf</field_path>
+<field_pathLink id="ANNEX">QcoV5hnjdcjUMnw18NN3Ezjv4ZqS5s-N&#13;
+</field_pathLink>
+<field id="ANNEX" order="2">rapport du gouverneur a la conférence des chefs d'état de l'UEMOA</field>
+<field_path id="ANNEX" order="2">doc/Alo/P000000/8995/109970/rapport du gouverneur a la conférence des chefs d'état de l'UEMOA.pdf</field_path>
+<field_pathLink id="ANNEX">QcoV5hnjdcjUMnw18NN3E1eQMOfnmjlo&#13;
+</field_pathLink>
+<field id="ANNEX" order="3">24ème sommet de la CEDEAO</field>
+<field_path id="ANNEX" order="3">doc/Alo/P000000/8995/122132/24 ème sommet de la CEDEAO.pdf</field_path>
+<field_pathLink id="ANNEX">QcoV5hnjdciu2WGF6EdLrUsLy81Z0Sdo&#13;
+</field_pathLink>
+<field id="ANNEX" order="4">Communiqué final</field>
+<field_path id="ANNEX" order="4">doc/Alo/P000000/8995/122133/Communiqué final.pdf</field_path>
+<field_pathLink id="ANNEX">QcoV5hnjdciu2WGF6EdLrdjYeXfE7dWc&#13;
+</field_pathLink>
+<field id="ANNEX" order="5">Note administrative inter structure</field>
+<field_path id="ANNEX" order="5">doc/Alo/P000000/8995/122134/Note administrative inter structure.pdf</field_path>
+<field_pathLink id="ANNEX">QcoV5hnjdciu2WGF6EdLrR5kx9HOzrJr&#13;
+</field_pathLink>
+<field id="ANNEX" order="6">Projet de communiqué final</field>
+<field_path id="ANNEX" order="6">doc/Alo/P000000/8995/122135/Projet de communiqué final.pdf</field_path>
+<field_pathLink id="ANNEX">QcoV5hnjdciu2WGF6EdLrU5wJGE1OHqd&#13;
+</field_pathLink>
+<field id="ANNEX" order="7">Projet du rapport du Président du CM</field>
+<field_path id="ANNEX" order="7">doc/Alo/P000000/8995/122136/Projet du rapport du Président du CM.pdf</field_path>
+<field_pathLink id="ANNEX">QcoV5hnjdciu2WGF6EdLrRsfcGJBpXZj&#13;
+</field_pathLink>
+<field id="ANNEX" order="8">Requête d'assistance financière soumise à la Finlande</field>
+<field_path id="ANNEX" order="8">doc/Alo/P000000/8995/122146/Requète d'assistance financière soumise à la Finlande.pdf</field_path>
+<field_pathLink id="ANNEX">QcoV5hnjdciu2WGF6EdLrW3E7XhRowS7&#13;
+</field_pathLink>
+<field id="ANNEX" order="9">UMOA Conseil régiona</field>
+<field_path id="ANNEX" order="9">doc/Alo/P000000/8995/122147/UMOA Conseil régional.pdf</field_path>
+<field_pathLink id="ANNEX">QcoV5hnjdciu2WGF6EdLrVVVSbXWGdhD&#13;
+</field_pathLink>
+<field id="ANNEX" order="10">Rapport du Président de la BOAD</field>
+<field_path id="ANNEX" order="10">doc/Alo/P000000/8995/122159/Rapport du Président de la BOAD2.pdf</field_path>
+<field_pathLink id="ANNEX">QcoV5hnjdciu2WGF6EdLrVcAYhxyqA5n&#13;
+</field_pathLink>
+</record>
+<record id="8996">
+<recordnature code="ARC">ARCHIVES</recordnature>
+<recordtype code="CCEUEMOA">Conférence des Chefs d'Etat UEMOA</recordtype>
+<recordcreation datetime="02/08/11 15:46" format="JJ/MM/AAAA">02/08/2011</recordcreation>
+<recordupdate datetime="12/03/12 11:09" format="JJ/MM/AAAA">12/03/2012</recordupdate>
+<recordindex datetime="02/08/11 15:46" format="JJ/MM/AAAA">02/08/2011</recordindex>
+<uri>https://documentation.boad.org/dyn/portal/index.seam?page=alo&amp;aloId=8996</uri>
+<field id="TIT" order="1">Conférence des Chefs d’État de l'UEMOA du 29 janvier 2003 </field>
+<field id="LIEUARC">Dakar</field>
+<field datetime="29/01/03 00:00" format="JJ/MM/AAAA" id="DRE">29/01/2003</field>
+<field id="PAYS" idthes="176" order="1" thes="50">Sénégal</field>
+<field id="COT">1A11A</field>
+<field id="ANNEX" order="1">ordre du jour</field>
+<field_path id="ANNEX" order="1">doc/Alo/P000000/8996/109976/ordre du jour.pdf</field_path>
+<field_pathLink id="ANNEX">QcoV5hnjdcjUMnw18NN3Ex9O-Y4lhFos&#13;
+</field_pathLink>
+<field id="ANNEX" order="2">contribution de la BOAD au communiqué final de la conférence des chefs d'états</field>
+<field_path id="ANNEX" order="2">doc/Alo/P000000/8996/109977/contribution de la BOAD au communiqué final de la conférence des chefs d'états.pdf</field_path>
+<field_pathLink id="ANNEX">QcoV5hnjdcjUMnw18NN3E-O-oYTldYHT&#13;
+</field_pathLink>
+<field id="ANNEX" order="3">5.Mémorandum sur l'évolution institutionnelle de l'UEMOA et de la BCEAO</field>
+<field_path id="ANNEX" order="3">doc/Alo/P000000/8996/109978/de l'évolution institutionnelle de l'UNION et de la BCEAO.pdf</field_path>
+<field_pathLink id="ANNEX">QcoV5hnjdcjUMnw18NN3E1Go0zmQHuDq&#13;
+</field_pathLink>
+<field id="ANNEX" order="4">2.Rapport thématique sur l'entreprise privée face au défi du développement régional</field>
+<field_path id="ANNEX" order="4">doc/Alo/P000000/8996/109979/l'entreprise priée face au defi du dévéloppement régional.pdf</field_path>
+<field_pathLink id="ANNEX">QcoV5hnjdcjUMnw18NN3EyoyX5u2yAoS&#13;
+</field_pathLink>
+<field id="ANNEX" order="5">4.Mémorandum sur proposition de réaménagement de la dénomination de la monnaie commune</field>
+<field_path id="ANNEX" order="5">doc/Alo/P000000/8996/109980/proposition de réaménagement de la dénomination de la monaie commune.pdf</field_path>
+<field_pathLink id="ANNEX">QcoV5hnjdcjUMnw18NN3E0oVTHJ8NwLB&#13;
+</field_pathLink>
+<field id="ANNEX" order="6">1.rapport  d'activités du gouvernement de la  BCEAO pour l'année 2002</field>
+<field_path id="ANNEX" order="6">doc/Alo/P000000/8996/109985/rapport  d'activités du gouvernement de la  BCEAO.pdf</field_path>
+<field_pathLink id="ANNEX">QcoV5hnjdcjUMnw18NN3E8DQJqv8i4X9&#13;
+</field_pathLink>
+<field id="ANNEX" order="7">Programme économique régional</field>
+<field_path id="ANNEX" order="7">doc/Alo/P000000/8996/192372/Programme économique régional.pdf</field_path>
+<field_pathLink id="ANNEX">QcoV5hnjdchqpIsWmZ0MnMK1vsOMWxn-&#13;
+</field_pathLink>
+</record>
+<record id="8997">
+<recordnature code="ARC">ARCHIVES</recordnature>
+<recordtype code="CCEUEMOA">Conférence des Chefs d'Etat UEMOA</recordtype>
+<recordcreation datetime="02/08/11 16:09" format="JJ/MM/AAAA">02/08/2011</recordcreation>
+<recordupdate datetime="12/03/12 11:08" format="JJ/MM/AAAA">12/03/2012</recordupdate>
+<recordindex datetime="02/08/11 16:09" format="JJ/MM/AAAA">02/08/2011</recordindex>
+<uri>https://documentation.boad.org/dyn/portal/index.seam?page=alo&amp;aloId=8997</uri>
+<field id="TIT" order="1">Septième session de la Conférence des Chefs d’État de l'UEMOA du 29 Janvier 2003 &#13;
+</field>
+<field id="LIEUARC">Dakar</field>
+<field datetime="29/01/03 00:00" format="JJ/MM/AAAA" id="DRE">29/01/2003</field>
+<field id="PAYS" idthes="176" order="1" thes="50">Sénégal</field>
+<field id="COT">1A11B</field>
+<field id="ANNEX" order="1">Projet d’ordre du jour</field>
+<field_path id="ANNEX" order="1">doc/Alo/P000000/8997/109997/Projet d'odre du jour.pdf</field_path>
+<field_pathLink id="ANNEX">QcoV5hnjdcjUMnw18NN3E8sOPm7sMJKg&#13;
+</field_pathLink>
+<field id="ANNEX" order="2">1.Projet de révision du traité de l'union</field>
+<field_path id="ANNEX" order="2">doc/Alo/P000000/8997/109998/1.Projet de révision du traité de l'union.pdf</field_path>
+<field_pathLink id="ANNEX">QcoV5hnjdcjUMnw18NN3E3BGjpT93KFd&#13;
+</field_pathLink>
+<field id="ANNEX" order="3">2.Projet de protocole additionnel modifiant et complétant le protocole additionnel N°II</field>
+<field_path id="ANNEX" order="3">doc/Alo/P000000/8997/109999/2.Projet de protocole additionnel modifiant et complètant le protocole additionnel N°II.pdf</field_path>
+<field_pathLink id="ANNEX">QcoV5hnjdcjUMnw18NN3E_vQA1fvKcB2&#13;
+</field_pathLink>
+<field id="ANNEX" order="4">3.Projet de traité portant création du parlement de l'union.</field>
+<field_path id="ANNEX" order="4">doc/Alo/P000000/8997/121822/3.Projet de traité portant création du traité de l'union[0].pdf</field_path>
+<field_pathLink id="ANNEX">QcoV5hnjdciu2WGF6EdLrVQk3veGT3-D&#13;
+</field_pathLink>
+<field id="ANNEX" order="5">4.Rapport du président de la BOAD</field>
+<field_path id="ANNEX" order="5">doc/Alo/P000000/8997/121823/4.Rapport du président de la BOAD2.pdf</field_path>
+<field_pathLink id="ANNEX">QcoV5hnjdciu2WGF6EdLrWeZE0eEMOOw&#13;
+</field_pathLink>
+<field id="ANNEX" order="6">5.La BOAD en chiffres</field>
+<field_path id="ANNEX" order="6">doc/Alo/P000000/8997/121824/5.La BOAD en chiffres2.pdf</field_path>
+<field_pathLink id="ANNEX">QcoV5hnjdciu2WGF6EdLraPClXA1j-PO&#13;
+</field_pathLink>
+<field id="ANNEX" order="7">6.Septième sommet des Chefs d’État et de gouvernement</field>
+<field_path id="ANNEX" order="7">doc/Alo/P000000/8997/121825/6.Septième sommet des Chefs d'Etat et de gouvernement.pdf</field_path>
+<field_pathLink id="ANNEX">QcoV5hnjdciu2WGF6EdLrTrVXgR5FO-r&#13;
+</field_pathLink>
+<field id="ANNEX" order="8">7.Rapport du sous comité des experts statutaire chargé d'examiner les dossiers</field>
+<field_path id="ANNEX" order="8">doc/Alo/P000000/8997/121826/7.Rapport du sous comité des experts atatutaire chargé d'examiner les dossiers de la surveillance multi latérale.pdf</field_path>
+<field_pathLink id="ANNEX">QcoV5hnjdciu2WGF6EdLrfbwKa4V5BKl&#13;
+</field_pathLink>
+<field id="ANNEX" order="9">8.Note administrative inter-structure</field>
+<field_path id="ANNEX" order="9">doc/Alo/P000000/8997/121838/8.Note administrative inter-structure.pdf</field_path>
+<field_pathLink id="ANNEX">QcoV5hnjdciu2WGF6EdLrTgrDUpFsHC2&#13;
+</field_pathLink>
+<field id="ANNEX" order="10">9.Lettre UEMOA</field>
+<field_path id="ANNEX" order="10">doc/Alo/P000000/8997/121839/9.Lettre UEMOA.pdf</field_path>
+<field_pathLink id="ANNEX">QcoV5hnjdciu2WGF6EdLrQ-gOQ80SCTo&#13;
+</field_pathLink>
+<field id="ANNEX" order="11">10.Lettre CDEOA</field>
+<field_path id="ANNEX" order="11">doc/Alo/P000000/8997/121840/10.Lettre CDEOA.pdf</field_path>
+<field_pathLink id="ANNEX">QcoV5hnjdciu2WGF6EdLrWagsA-2Q09u&#13;
+</field_pathLink>
+<field id="ANNEX" order="12">11.Discours du Docteur YAYI BONI</field>
+<field_path id="ANNEX" order="12">doc/Alo/P000000/8997/121841/11.Discours du Docteur YAYI BONI.pdf</field_path>
+<field_pathLink id="ANNEX">QcoV5hnjdciu2WGF6EdLrYpb0p-H4aB1&#13;
+</field_pathLink>
+<field id="ANNEX" order="13">12.Note administrative inter-structure 20 Janvier 2003</field>
+<field_path id="ANNEX" order="13">doc/Alo/P000000/8997/121842/12.Note administrative inter-structure 20 Janvier 2003.pdf</field_path>
+<field_pathLink id="ANNEX">QcoV5hnjdciu2WGF6EdLrbIK4M-20F-2&#13;
+</field_pathLink>
+<field id="ANNEX" order="14">Décision portant création d'un fonds de développement</field>
+<field_path id="ANNEX" order="14">doc/Alo/P000000/8997/121851/Décision portant création d'un fonds de dévpt.pdf</field_path>
+<field_pathLink id="ANNEX">QcoV5hnjdchqpIsWmZ0MnLb7KLuYLjxt&#13;
+</field_pathLink>
+<field id="ANNEX" order="15">14.Septième sommet des Chefs d’État et de gouvernement Communiqué final</field>
+<field_path id="ANNEX" order="15">doc/Alo/P000000/8997/121852/14.Septième sommet des Chefs d'Etat et de gouvernement Communiqué final.pdf</field_path>
+<field_pathLink id="ANNEX">QcoV5hnjdciu2WGF6EdLral4OIwKbkPn&#13;
+</field_pathLink>
+<field id="ANNEX" order="16">Projet d'acte additionnel modifiant l'acte additionnel</field>
+<field_path id="ANNEX" order="16">doc/Alo/P000000/8997/192388/Projet d'acte additionnel modifiant l'acte additionnel N° 04-99 du 08.12.99.pdf</field_path>
+<field_pathLink id="ANNEX">QcoV5hnjdchqpIsWmZ0MnLBGomA0DMZJ&#13;
+</field_pathLink>
+<field id="ANNEX" order="17">Projet de traité portant création du parlement de l'Union</field>
+<field_path id="ANNEX" order="17">doc/Alo/P000000/8997/192389/Projet de traité portant création du parlement de l'Union.pdf</field_path>
+<field_pathLink id="ANNEX">QcoV5hnjdchqpIsWmZ0MnJJuOxiX4eGK&#13;
+</field_pathLink>
+<field id="ANNEX" order="18">Projet d'émission de titres d'emprunt BOAD</field>
+<field_path id="ANNEX" order="18">doc/Alo/P000000/8997/192390/Projet d'émission de titres d'emprunt BOAD.pdf</field_path>
+<field_pathLink id="ANNEX">QcoV5hnjdchqpIsWmZ0MnFxMi9ImRBax&#13;
+</field_pathLink>
+<field id="ANNEX" order="19">Ordre du jour 2</field>
+<field_path id="ANNEX" order="19">doc/Alo/P000000/8997/195956/1.Ordre du jour 2.pdf</field_path>
+<field_pathLink id="ANNEX">QcoV5hnjdchqpIsWmZ0MnFoMjpLkfZux&#13;
+</field_pathLink>
+<field id="ANNEX" order="20">projet de discours d'ouverture du président en exercice de l'UEMOA (Abdoulaye WADE)</field>
+<field_path id="ANNEX" order="20">doc/Alo/P000000/8997/195957/2.projet de discours d'ouverture du président en exercice de l'UEMOA (Abdoulaye WADE).pdf</field_path>
+<field_pathLink id="ANNEX">QcoV5hnjdchqpIsWmZ0MnEGtA2aiuOdp&#13;
+</field_pathLink>
+<field id="ANNEX" order="21">7ème sommet des chefs d'etat et de gouvernement</field>
+<field_path id="ANNEX" order="21">doc/Alo/P000000/8997/195958/3.7ème sommet des chefs d'etat et de gouvernement.pdf</field_path>
+<field_pathLink id="ANNEX">QcoV5hnjdchqpIsWmZ0MnA7N0CAKsxzh&#13;
+</field_pathLink>
+</record>
+<record id="8998">
+<recordnature code="ARC">ARCHIVES</recordnature>
+<recordtype code="CCEUEMOA">Conférence des Chefs d'Etat UEMOA</recordtype>
+<recordcreation datetime="02/08/11 16:12" format="JJ/MM/AAAA">02/08/2011</recordcreation>
+<recordupdate datetime="12/03/12 10:43" format="JJ/MM/AAAA">12/03/2012</recordupdate>
+<recordindex datetime="02/08/11 16:12" format="JJ/MM/AAAA">02/08/2011</recordindex>
+<uri>https://documentation.boad.org/dyn/portal/index.seam?page=alo&amp;aloId=8998</uri>
+<field id="TIT" order="1">Huitième Session de la Conférence des Chefs d’État du 10 Janvier 2004 &#13;
+</field>
+<field id="LIEUARC">NIiamey</field>
+<field datetime="10/01/04 00:00" format="JJ/MM/AAAA" id="DRE">10/01/2004</field>
+<field id="PAYS" idthes="173" order="1" thes="50">Niger</field>
+<field id="COT">1A12</field>
+<field id="ANNEX" order="1">ordre du jour</field>
+<field_path id="ANNEX" order="1">doc/Alo/P000000/8998/110002/ordre du jour.pdf</field_path>
+<field_pathLink id="ANNEX">QcoV5hnjdcjUMnw18NN3E8vqzdSe5Six&#13;
+</field_pathLink>
+<field id="ANNEX" order="2">1.situation actuelle et perceptive</field>
+<field_path id="ANNEX" order="2">doc/Alo/P000000/8998/110003/1 situation actuelle et perpective.pdf</field_path>
+<field_pathLink id="ANNEX">QcoV5hnjdcjUMnw18NN3EyQu927UHJV4&#13;
+</field_pathLink>
+<field id="ANNEX" order="3">adoption de la politique d'aménagement du territoire</field>
+<field_path id="ANNEX" order="3">doc/Alo/P000000/8998/110004/adoption de la politique d'aménagement du territoire.pdf</field_path>
+<field_pathLink id="ANNEX">QcoV5hnjdcjUMnw18NN3E2VUDCNrViWh&#13;
+</field_pathLink>
+<field id="ANNEX" order="4">rapport d'activité</field>
+<field_path id="ANNEX" order="4">doc/Alo/P000000/8998/110005/rapport d'activité.pdf</field_path>
+<field_pathLink id="ANNEX">QcoV5hnjdcjUMnw18NN3Eyn9j-LRoEf5&#13;
+</field_pathLink>
+<field id="ANNEX" order="5">rapport du président de la BOAD</field>
+<field_path id="ANNEX" order="5">doc/Alo/P000000/8998/110006/rapport du président de la BOAD.pdf</field_path>
+<field_pathLink id="ANNEX">QcoV5hnjdcjUMnw18NN3E5J5i9YOEXx6&#13;
+</field_pathLink>
+</record>
+<record id="8999">
+<recordnature code="ARC">ARCHIVES</recordnature>
+<recordtype code="CCEUEMOA">Conférence des Chefs d'Etat UEMOA</recordtype>
+<recordcreation datetime="02/08/11 16:22" format="JJ/MM/AAAA">02/08/2011</recordcreation>
+<recordupdate datetime="13/08/13 10:43" format="JJ/MM/AAAA">13/08/2013</recordupdate>
+<recordindex datetime="02/08/11 16:22" format="JJ/MM/AAAA">02/08/2011</recordindex>
+<uri>https://documentation.boad.org/dyn/portal/index.seam?page=alo&amp;aloId=8999</uri>
+<field id="TIT" order="1">Réunion extraordinaire des Chefs d’État de l'UEMOA du 11 octobre 2004 </field>
+<field id="LIEUARC">Niamey</field>
+<field datetime="11/10/04 00:00" format="JJ/MM/AAAA" id="DRE">11/10/2004</field>
+<field id="PAYS" idthes="173" order="1" thes="50">Niger</field>
+<field id="COT">1A13</field>
+<field id="ANNEX" order="1">Réunion extraordinaire</field>
+<field_path id="ANNEX" order="1">doc/Alo/P000000/8999/110008/ComPressCCE111004.pdf</field_path>
+<field_pathLink id="ANNEX">QcoV5hnjdciu2WGF6EdLrSW3NsX0Q_9d&#13;
+</field_pathLink>
+</record>
+<record id="9000">
+<recordnature code="ARC">ARCHIVES</recordnature>
+<recordtype code="CCEUEMOA">Conférence des Chefs d'Etat UEMOA</recordtype>
+<recordcreation datetime="02/08/11 16:25" format="JJ/MM/AAAA">02/08/2011</recordcreation>
+<recordupdate datetime="12/03/12 10:40" format="JJ/MM/AAAA">12/03/2012</recordupdate>
+<recordindex datetime="02/08/11 16:25" format="JJ/MM/AAAA">02/08/2011</recordindex>
+<uri>https://documentation.boad.org/dyn/portal/index.seam?page=alo&amp;aloId=9000</uri>
+<field id="TIT" order="1">Conférence des Chefs d’État de l'UEMOA du 30 Mars 2005 </field>
+<field id="LIEUARC">Niamey</field>
+<field datetime="30/03/05 00:00" format="JJ/MM/AAAA" id="DRE">30/03/2005</field>
+<field id="PAYS" idthes="173" order="1" thes="50">Niger</field>
+<field id="COT">1A14A</field>
+<field id="ANNEX" order="1">Ordre du jour</field>
+<field_path id="ANNEX" order="1">doc/Alo/P000000/9000/110009/Ordre du jour[0].pdf</field_path>
+<field_pathLink id="ANNEX">QcoV5hnjdcjUMnw18NN3E7UAuk4s2Tpw&#13;
+</field_pathLink>
+<field id="ANNEX" order="2">1.Rapport d'activité du gouverneur de la BOAD</field>
+<field_path id="ANNEX" order="2">doc/Alo/P000000/9000/110010/1.Rapport d'activité du gouverneur de la BOAD.pdf</field_path>
+<field_pathLink id="ANNEX">QcoV5hnjdcjUMnw18NN3E1AxWoVdBihK&#13;
+</field_pathLink>
+<field id="ANNEX" order="3">2.Perspectives d'insertion des pays de l'UEMOA dans l'économie mondiale</field>
+<field_path id="ANNEX" order="3">doc/Alo/P000000/9000/110011/2.Prespective d'insertion des pays de l'UEMOA dans l'économie mondiale.pdf</field_path>
+<field_pathLink id="ANNEX">QcoV5hnjdcjUMnw18NN3Ewz2hOU8r6ix&#13;
+</field_pathLink>
+</record>
+<record id="10900">
+<recordnature code="ARC">ARCHIVES</recordnature>
+<recordtype code="CCEUEMOA">Conférence des Chefs d'Etat UEMOA</recordtype>
+<recordcreation datetime="27/08/11 09:33" format="JJ/MM/AAAA">27/08/2011</recordcreation>
+<recordupdate datetime="12/03/12 10:46" format="JJ/MM/AAAA">12/03/2012</recordupdate>
+<recordindex datetime="27/08/11 09:33" format="JJ/MM/AAAA">27/08/2011</recordindex>
+<uri>https://documentation.boad.org/dyn/portal/index.seam?page=alo&amp;aloId=10900</uri>
+<field id="TIT" order="1">Huitième session Conférence des Chefs d’État de l'UEMOA du 01 janvier 1994 </field>
+<field id="LIEUARC">Dakar</field>
+<field datetime="01/01/94 00:00" format="JJ/MM/AAAA" id="DRE">01/01/1994</field>
+<field id="PAYS" idthes="176" order="1" thes="50">Sénégal</field>
+<field id="COT">1A3A</field>
+<field id="ANNEX" order="1">ordre du jour</field>
+<field_path id="ANNEX" order="1">doc/Alo/P000000/10900/122123/ordre du jour.pdf</field_path>
+<field_pathLink id="ANNEX">QcoV5hnjdciu2WGF6EdLra9YxfwVe-VZ&#13;
+</field_pathLink>
+<field id="ANNEX" order="2">8ieme conference des chef d'etats Rapport d'activité</field>
+<field_path id="ANNEX" order="2">doc/Alo/P000000/10900/122124/8ieme conference des chef d'etats Rapport d'activité.pdf</field_path>
+<field_pathLink id="ANNEX">QcoV5hnjdciu2WGF6EdLrSzn9WCtjwhj&#13;
+</field_pathLink>
+<field id="ANNEX" order="3">compte-rendu de la mission à dakar</field>
+<field_path id="ANNEX" order="3">doc/Alo/P000000/10900/122125/compte-rendu de la mission à dakar.pdf</field_path>
+<field_pathLink id="ANNEX">QcoV5hnjdciu2WGF6EdLrdNj4JOs5B_-&#13;
+</field_pathLink>
+<field id="ANNEX" order="4">Rapport de verification des comptes</field>
+<field_path id="ANNEX" order="4">doc/Alo/P000000/10900/122126/Rapport de verification des comptes.pdf</field_path>
+<field_pathLink id="ANNEX">QcoV5hnjdciu2WGF6EdLra2-6bw-qUR-&#13;
+</field_pathLink>
+</record>
+<record id="10901">
+<recordnature code="ARC">ARCHIVES</recordnature>
+<recordtype code="CCEUEMOA">Conférence des Chefs d'Etat UEMOA</recordtype>
+<recordcreation datetime="27/08/11 09:39" format="JJ/MM/AAAA">27/08/2011</recordcreation>
+<recordupdate datetime="12/03/12 11:07" format="JJ/MM/AAAA">12/03/2012</recordupdate>
+<recordindex datetime="27/08/11 09:39" format="JJ/MM/AAAA">27/08/2011</recordindex>
+<uri>https://documentation.boad.org/dyn/portal/index.seam?page=alo&amp;aloId=10901</uri>
+<field id="TIT" order="1">Conférence des Chefs d’État de l'UEMOA du 10 Mai 1996 &#13;
+</field>
+<field id="LIEUARC">Ouagadougou</field>
+<field datetime="10/05/96 00:00" format="JJ/MM/AAAA" id="DRE">10/05/1996</field>
+<field id="PAYS" idthes="162" order="1" thes="50">Burkina Faso</field>
+<field id="COT">1A4</field>
+<field id="ANNEX" order="1">B - Proposition d'orientations generals</field>
+<field_path id="ANNEX" order="1">doc/Alo/P000000/10901/122201/B - Proposition d'orientations generals.pdf</field_path>
+<field_pathLink id="ANNEX">QcoV5hnjdciu2WGF6EdLrSoYA75ekx3l&#13;
+</field_pathLink>
+<field id="ANNEX" order="2">C - Rapport du président de la BOAD</field>
+<field_path id="ANNEX" order="2">doc/Alo/P000000/10901/122216/C - Rapport du président de la BOAD.pdf</field_path>
+<field_pathLink id="ANNEX">QcoV5hnjdciu2WGF6EdLrQeoyPn-Xb7m&#13;
+</field_pathLink>
+<field id="ANNEX" order="3">D - Actes additionnels et decision</field>
+<field_path id="ANNEX" order="3">doc/Alo/P000000/10901/122217/D - Actes additionnels et decision.pdf</field_path>
+<field_pathLink id="ANNEX">QcoV5hnjdciu2WGF6EdLrfgvvEUUbC3I&#13;
+</field_pathLink>
+<field id="ANNEX" order="4">A - Rapport d'activité de la commission de l'UEMOA</field>
+<field_path id="ANNEX" order="4">doc/Alo/P000000/10901/122227/A - Rapport d'activité de la commission de l'UEMOA.pdf</field_path>
+<field_pathLink id="ANNEX">QcoV5hnjdciu2WGF6EdLraD7QkurhB6n&#13;
+</field_pathLink>
+<field id="ANNEX" order="5">Pièces Supplémentaires</field>
+<field_path id="ANNEX" order="5">doc/Alo/P000000/10901/122228/Allocution du président de la BOAD.pdf</field_path>
+<field_pathLink id="ANNEX">QcoV5hnjdciu2WGF6EdLrWEhX-Q0RHIP&#13;
+</field_pathLink>
+<field_path id="ANNEX" order="5">doc/Alo/P000000/10901/122228/Bienvenu au Burkina.pdf</field_path>
+<field_pathLink id="ANNEX">QcoV5hnjdciu2WGF6EdLrfDsAWfFuecA&#13;
+</field_pathLink>
+<field_path id="ANNEX" order="5">doc/Alo/P000000/10901/122228/BOAD bureau de representation au senegal.pdf</field_path>
+<field_pathLink id="ANNEX">QcoV5hnjdciu2WGF6EdLrSnqBhMZct5t&#13;
+</field_pathLink>
+<field id="ANNEX" order="6">Pièces Supplémentaires</field>
+<field_path id="ANNEX" order="6">doc/Alo/P000000/10901/122229/BUREAUX.pdf</field_path>
+<field_pathLink id="ANNEX">QcoV5hnjdciu2WGF6EdLrc3WhLUTpkhq&#13;
+</field_pathLink>
+<field_path id="ANNEX" order="6">doc/Alo/P000000/10901/122229/Décision concernant la BOAD.pdf</field_path>
+<field_pathLink id="ANNEX">QcoV5hnjdciu2WGF6EdLrU7JR61CIPmS&#13;
+</field_pathLink>
+<field_path id="ANNEX" order="6">doc/Alo/P000000/10901/122229/Fiche de renseignement utiles.pdf</field_path>
+<field_pathLink id="ANNEX">QcoV5hnjdciu2WGF6EdLrdorwwvD2rCZ&#13;
+</field_pathLink>
+<field id="ANNEX" order="7">Pièces Supplémentaires</field>
+<field_path id="ANNEX" order="7">doc/Alo/P000000/10901/122230/Heures d'arrivées et de depart.pdf</field_path>
+<field_pathLink id="ANNEX">QcoV5hnjdciu2WGF6EdLrUlNEyEn56NI&#13;
+</field_pathLink>
+<field_path id="ANNEX" order="7">doc/Alo/P000000/10901/122230/Horaire - Burkina Faso.pdf</field_path>
+<field_pathLink id="ANNEX">QcoV5hnjdciu2WGF6EdLrZpSEruq3Q9X&#13;
+</field_pathLink>
+<field_path id="ANNEX" order="7">doc/Alo/P000000/10901/122230/Horaires de vols Ouagadougou-bruxelles-ouagadougou.pdf</field_path>
+<field_pathLink id="ANNEX">QcoV5hnjdciu2WGF6EdLraGEDaf84kv0&#13;
+</field_pathLink>
+<field id="ANNEX" order="8">Pièces Supplémentaires</field>
+<field_path id="ANNEX" order="8">doc/Alo/P000000/10901/122231/Hotels.pdf</field_path>
+<field_pathLink id="ANNEX">QcoV5hnjdciu2WGF6EdLrXEZeCVSiEzZ&#13;
+</field_pathLink>
+<field_path id="ANNEX" order="8">doc/Alo/P000000/10901/122231/Intervention de M. LAFOURCADE devant la réunion de la CCE.pdf</field_path>
+<field_pathLink id="ANNEX">QcoV5hnjdciu2WGF6EdLrbGOkNbGc7E1&#13;
+</field_pathLink>
+<field_path id="ANNEX" order="8">doc/Alo/P000000/10901/122231/Note d'information sur la cooperation entre la commission de l'UEMOA et UE.pdf</field_path>
+<field_pathLink id="ANNEX">QcoV5hnjdciu2WGF6EdLrW5WCuyVt31W&#13;
+</field_pathLink>
+<field id="ANNEX" order="9">Pièces Supplémentaires</field>
+<field_path id="ANNEX" order="9">doc/Alo/P000000/10901/122232/ODRE de mission.pdf</field_path>
+<field_pathLink id="ANNEX">QcoV5hnjdciu2WGF6EdLrbZFQtxyhxYP&#13;
+</field_pathLink>
+<field_path id="ANNEX" order="9">doc/Alo/P000000/10901/122232/Perpectives de decaissement des prêts a court terme.pdf</field_path>
+<field_pathLink id="ANNEX">QcoV5hnjdciu2WGF6EdLrZaIyVD38G2H&#13;
+</field_pathLink>
+<field_path id="ANNEX" order="9">doc/Alo/P000000/10901/122232/Programme  valable pour compter du 1 novembre.pdf</field_path>
+<field_pathLink id="ANNEX">QcoV5hnjdciu2WGF6EdLrbQ-gbFiwPKU&#13;
+</field_pathLink>
+<field id="ANNEX" order="10">Pièces Supplémentaires</field>
+<field_path id="ANNEX" order="10">doc/Alo/P000000/10901/122233/Projet de declaration de la CCE.pdf</field_path>
+<field_pathLink id="ANNEX">QcoV5hnjdciu2WGF6EdLrSIHLAIvRj4k&#13;
+</field_pathLink>
+<field_path id="ANNEX" order="10">doc/Alo/P000000/10901/122233/Projet de rapport de M.Niamien N'GORAN.pdf</field_path>
+<field_pathLink id="ANNEX">QcoV5hnjdciu2WGF6EdLrW7RHA-MGw-L&#13;
+</field_pathLink>
+<field_path id="ANNEX" order="10">doc/Alo/P000000/10901/122233/Relevé des décisions et recommandations du CM.pdf</field_path>
+<field_pathLink id="ANNEX">QcoV5hnjdciu2WGF6EdLrSPZGXa3vdtS&#13;
+</field_pathLink>
+<field id="ANNEX" order="11">Pièces Supplémentaires</field>
+<field_path id="ANNEX" order="11">doc/Alo/P000000/10901/122234/Réunion des organe de l'UEMOA.pdf</field_path>
+<field_pathLink id="ANNEX">QcoV5hnjdciu2WGF6EdLrV7eSK8uMEbY&#13;
+</field_pathLink>
+<field_path id="ANNEX" order="11">doc/Alo/P000000/10901/122234/Situation des projets Régionaux finances par la boad.pdf</field_path>
+<field_pathLink id="ANNEX">QcoV5hnjdciu2WGF6EdLrUZeij1NNQ2v&#13;
+</field_pathLink>
+<field id="ANNEX" order="12">Information sur la mise en oeuvre de l'article 33</field>
+<field_path id="ANNEX" order="12">doc/Alo/P000000/10901/122235/Information sur la mise en oeuvre de l'article 33.pdf</field_path>
+<field_pathLink id="ANNEX">QcoV5hnjdciu2WGF6EdLra246bgVBWGa&#13;
+</field_pathLink>
+<field id="ANNEX" order="13">0.ordre du jour</field>
+<field_path id="ANNEX" order="13">doc/Alo/P000000/10901/122236/0.ordre du jour.pdf</field_path>
+<field_pathLink id="ANNEX">QcoV5hnjdciu2WGF6EdLrdkvDbrLfWTr&#13;
+</field_pathLink>
+<field id="ANNEX" order="14">Rapport d'activité de la commission de l'UEMOA</field>
+<field_path id="ANNEX" order="14">doc/Alo/P000000/10901/192310/Rapport d'activité de la commission de l'UEMOA.pdf</field_path>
+<field_pathLink id="ANNEX">QcoV5hnjdchqpIsWmZ0MnEak49YPGx2N&#13;
+</field_pathLink>
+</record>
+<record id="10902">
+<recordnature code="ARC">ARCHIVES</recordnature>
+<recordtype code="CCEUEMOA">Conférence des Chefs d'Etat UEMOA</recordtype>
+<recordcreation datetime="27/08/11 10:15" format="JJ/MM/AAAA">27/08/2011</recordcreation>
+<recordupdate datetime="12/03/12 10:35" format="JJ/MM/AAAA">12/03/2012</recordupdate>
+<recordindex datetime="27/08/11 10:15" format="JJ/MM/AAAA">27/08/2011</recordindex>
+<uri>https://documentation.boad.org/dyn/portal/index.seam?page=alo&amp;aloId=10902</uri>
+<field id="TIT" order="1">Conférence des Chefs d’État de l'UEMOA du 23 Juin 1997 </field>
+<field id="LIEUARC">Lomé </field>
+<field datetime="23/06/97 00:00" format="JJ/MM/AAAA" id="DRE">23/06/1997</field>
+<field id="PAYS" idthes="178" order="1" thes="50">Togo</field>
+<field id="COT">1A5A</field>
+<field id="ANNEX" order="1">ordre du jour</field>
+<field_path id="ANNEX" order="1">doc/Alo/P000000/10902/122154/ordre du jour.pdf</field_path>
+<field_pathLink id="ANNEX">QcoV5hnjdciu2WGF6EdLrf3Qs-hXZMPq&#13;
+</field_pathLink>
+<field id="ANNEX" order="2">Declaration de la CCE et de gouvernement</field>
+<field_path id="ANNEX" order="2">doc/Alo/P000000/10902/122155/Declaration de la CCE et de gouvernement.pdf</field_path>
+<field_pathLink id="ANNEX">QcoV5hnjdciu2WGF6EdLrWxzBGz5o2DI&#13;
+</field_pathLink>
+<field id="ANNEX" order="3">Communiqué final</field>
+<field_path id="ANNEX" order="3">doc/Alo/P000000/10902/122156/Communiqué final.pdf</field_path>
+<field_pathLink id="ANNEX">QcoV5hnjdciu2WGF6EdLra-TRTZYX-4v&#13;
+</field_pathLink>
+<field id="ANNEX" order="4">Rapport d'activité</field>
+<field_path id="ANNEX" order="4">doc/Alo/P000000/10902/122157/Rapport d'activité.pdf</field_path>
+<field_pathLink id="ANNEX">QcoV5hnjdciu2WGF6EdLrTjUy6smuphs&#13;
+</field_pathLink>
+<field id="ANNEX" order="5">Répartition sectorielle</field>
+<field_path id="ANNEX" order="5">doc/Alo/P000000/10902/122158/Répartition sectorielle.pdf</field_path>
+<field_pathLink id="ANNEX">QcoV5hnjdciu2WGF6EdLrT_6QCmD9rKL&#13;
+</field_pathLink>
+</record>
+<record id="10903">
+<recordnature code="ARC">ARCHIVES</recordnature>
+<recordtype code="CCEUEMOA">Conférence des Chefs d'Etat UEMOA</recordtype>
+<recordcreation datetime="27/08/11 10:24" format="JJ/MM/AAAA">27/08/2011</recordcreation>
+<recordupdate datetime="12/03/12 11:07" format="JJ/MM/AAAA">12/03/2012</recordupdate>
+<recordindex datetime="27/08/11 10:24" format="JJ/MM/AAAA">27/08/2011</recordindex>
+<uri>https://documentation.boad.org/dyn/portal/index.seam?page=alo&amp;aloId=10903</uri>
+<field id="TIT" order="1">Conférence des Chefs d’État de l'UEMOA du 23 juin 1997 &#13;
+</field>
+<field id="LIEUARC">Lomé</field>
+<field datetime="23/06/97 00:00" format="JJ/MM/AAAA" id="DRE">23/06/1997</field>
+<field id="PAYS" idthes="178" order="1" thes="50">Togo</field>
+<field id="COT">1A5B</field>
+<field id="ANNEX" order="1">Dossier</field>
+<field_path id="ANNEX" order="1">doc/Alo/P000000/10903/122165/Dossier.pdf</field_path>
+<field_pathLink id="ANNEX">QcoV5hnjdciu2WGF6EdLrTWD4HU9NcYZ&#13;
+</field_pathLink>
+<field id="ANNEX" order="2">Conclusion et recommendation du CM chargé de l'énergie  (Bamako 11 avril 1997) projet de directive</field>
+<field_path id="ANNEX" order="2">doc/Alo/P000000/10903/122166/Conclusion et recommendation du CM chargé de l'énergie  (Bamako 11 avril 1997) projet de directive.pdf</field_path>
+<field_pathLink id="ANNEX">QcoV5hnjdciu2WGF6EdLrWcajrejQKl0&#13;
+</field_pathLink>
+<field id="ANNEX" order="3">Dossier de la commission de l'UEMOA</field>
+<field_path id="ANNEX" order="3">doc/Alo/P000000/10903/122167/Dossier de la commission de l'UEMOA.pdf</field_path>
+<field_pathLink id="ANNEX">QcoV5hnjdciu2WGF6EdLrbPL4OxlMIWX&#13;
+</field_pathLink>
+<field id="ANNEX" order="4">Mission deBons BOAD Dossier du CA</field>
+<field_path id="ANNEX" order="4">doc/Alo/P000000/10903/122168/Mission deBons BOAD Dossier du CA.pdf</field_path>
+<field_pathLink id="ANNEX">QcoV5hnjdciu2WGF6EdLrWgWzBlMXmAv&#13;
+</field_pathLink>
+<field id="ANNEX" order="5">Porjet de communiqué final</field>
+<field_path id="ANNEX" order="5">doc/Alo/P000000/10903/122169/Porjet de communiqué final.pdf</field_path>
+<field_pathLink id="ANNEX">QcoV5hnjdciu2WGF6EdLrdEqnnY8LTXs&#13;
+</field_pathLink>
+<field id="ANNEX" order="6">Programme d'actions communes dans les dommaines des infrastructures et des transports routiers au sein de l'UEMOA</field>
+<field_path id="ANNEX" order="6">doc/Alo/P000000/10903/122170/Programme d'actions communes dans les dommaines des infrastructures et des transports routiers au sein de l'UEMOA.pdf</field_path>
+<field_pathLink id="ANNEX">QcoV5hnjdciu2WGF6EdLrXzswiLcFsRz&#13;
+</field_pathLink>
+<field id="ANNEX" order="7">Projet d'émission de titre d'emprunt d'emprunt de laBOAD dans les pays de l'UEMOA pour l'exercice 1997-1998</field>
+<field_path id="ANNEX" order="7">doc/Alo/P000000/10903/122171/Projet d'émission de titre d'emprunt d'emprunt de laBOAD dans les pays de l'UEMOA pour l'exercice 1997-1998.pdf</field_path>
+<field_pathLink id="ANNEX">QcoV5hnjdciu2WGF6EdLrV-N7mNV-mth&#13;
+</field_pathLink>
+<field id="ANNEX" order="8">Rapport d'activité du président de la BOAD</field>
+<field_path id="ANNEX" order="8">doc/Alo/P000000/10903/122172/Rapport d'activité du président de la BOAD.pdf</field_path>
+<field_pathLink id="ANNEX">QcoV5hnjdciu2WGF6EdLrWwr9mTcQVVz&#13;
+</field_pathLink>
+<field id="ANNEX" order="9">Acte additionnel modifiant l'article 12 de l'acte n°04-96 du 10-05-1996</field>
+<field_path id="ANNEX" order="9">doc/Alo/P000000/10903/192336/Acte additionnel modifiant l'article 12 de l'acte n°04-96 du 10-05-1996.pdf</field_path>
+<field_pathLink id="ANNEX">QcoV5hnjdchqpIsWmZ0MnMsln-tgteih&#13;
+</field_pathLink>
+<field id="ANNEX" order="10">Acte additionnel portant modification composition de la commission</field>
+<field_path id="ANNEX" order="10">doc/Alo/P000000/10903/192337/Acte additionnel portant modification composition de la commission.pdf</field_path>
+<field_pathLink id="ANNEX">QcoV5hnjdchqpIsWmZ0MnOvBjS-ZeCVG&#13;
+</field_pathLink>
+<field id="ANNEX" order="11">Acte additionnel portant modification de la cour de justice</field>
+<field_path id="ANNEX" order="11">doc/Alo/P000000/10903/192338/Acte additionnel portant modification de la cour de justice.pdf</field_path>
+<field_pathLink id="ANNEX">QcoV5hnjdchqpIsWmZ0MnCfjeJcwqxuP&#13;
+</field_pathLink>
+<field id="ANNEX" order="12">Acte additionnel statuts de la cour de justice de l'UEMOA</field>
+<field_path id="ANNEX" order="12">doc/Alo/P000000/10903/192339/Acte additionnel statuts de la cour de justice de l'UEMOA.pdf</field_path>
+<field_pathLink id="ANNEX">QcoV5hnjdchqpIsWmZ0MnBIwlnMq1gGT&#13;
+</field_pathLink>
+<field id="ANNEX" order="13">Agriculture</field>
+<field_path id="ANNEX" order="13">doc/Alo/P000000/10903/192340/Agriculture.pdf</field_path>
+<field_pathLink id="ANNEX">QcoV5hnjdchqpIsWmZ0MnBitNGThZlAt&#13;
+</field_pathLink>
+<field id="ANNEX" order="14">Chambre consulaire régionale</field>
+<field_path id="ANNEX" order="14">doc/Alo/P000000/10903/192341/Chambre consulaire régionale.pdf</field_path>
+<field_pathLink id="ANNEX">QcoV5hnjdchqpIsWmZ0MnOERmE4Z3NgB&#13;
+</field_pathLink>
+<field id="ANNEX" order="15">Environnement</field>
+<field_path id="ANNEX" order="15">doc/Alo/P000000/10903/192342/Environnement.pdf</field_path>
+<field_pathLink id="ANNEX">QcoV5hnjdchqpIsWmZ0MnJ9KYtHsvzl5&#13;
+</field_pathLink>
+<field id="ANNEX" order="16">Programme de Minimum de la Politique Commune de Production et d'Echange(PMPCPE)</field>
+<field_path id="ANNEX" order="16">doc/Alo/P000000/10903/192343/Programme de Minimum de la Politique Commune de Production et d'Echange(PMPCPE).pdf</field_path>
+<field_pathLink id="ANNEX">QcoV5hnjdchqpIsWmZ0MnIq04UQZQN7q&#13;
+</field_pathLink>
+</record>
+<record id="10904">
+<recordnature code="ARC">ARCHIVES</recordnature>
+<recordtype code="CCEUEMOA">Conférence des Chefs d'Etat UEMOA</recordtype>
+<recordcreation datetime="27/08/11 10:27" format="JJ/MM/AAAA">27/08/2011</recordcreation>
+<recordupdate datetime="12/03/12 11:06" format="JJ/MM/AAAA">12/03/2012</recordupdate>
+<recordindex datetime="27/08/11 10:27" format="JJ/MM/AAAA">27/08/2011</recordindex>
+<uri>https://documentation.boad.org/dyn/portal/index.seam?page=alo&amp;aloId=10904</uri>
+<field id="TIT" order="1">Conférence des Chefs d’État de l'UEMOA du l9 décembre 2001</field>
+<field id="LIEUARC">Dakar</field>
+<field datetime="19/12/01 00:00" format="JJ/MM/AAAA" id="DRE">19/12/2001</field>
+<field id="PAYS" idthes="176" order="1" thes="50">Sénégal</field>
+<field id="COT">1A9B</field>
+<field id="ANNEX" order="1">-Discours de Dr Yayi BONI Président de la DOAD à l'la CCEG&#13;
+-La BOAD en chiffres 1993-2001</field>
+<field_path id="ANNEX" order="1">doc/Alo/P000000/10904/122178/1-Discours de Dr Yayi BONI Président de la DOAD à l'la CCEG.pdf</field_path>
+<field_pathLink id="ANNEX">QcoV5hnjdciu2WGF6EdLrULMtWRZ3X6O&#13;
+</field_pathLink>
+<field_path id="ANNEX" order="1">doc/Alo/P000000/10904/122178/2-La BOAD en chiffres 1993-2001.pdf</field_path>
+<field_pathLink id="ANNEX">QcoV5hnjdciu2WGF6EdLrR8jFC0FR9L9&#13;
+</field_pathLink>
+<field id="ANNEX" order="2">-Rapport du président de la BOAD&#13;
+-Statuts de la BOAD 24 Septembre 1998</field>
+<field_path id="ANNEX" order="2">doc/Alo/P000000/10904/122179/3-Rapport du président de la BOAD.pdf</field_path>
+<field_pathLink id="ANNEX">QcoV5hnjdciu2WGF6EdLrd7FlBfT1ay9&#13;
+</field_pathLink>
+<field_path id="ANNEX" order="2">doc/Alo/P000000/10904/122179/4-Statuts de la BOAD 24 Septembre 1998.pdf</field_path>
+<field_pathLink id="ANNEX">QcoV5hnjdciu2WGF6EdLrVGxoqCs4iRr&#13;
+</field_pathLink>
+</record>
+<record id="10905">
+<recordnature code="ARC">ARCHIVES</recordnature>
+<recordtype code="CCEUEMOA">Conférence des Chefs d'Etat UEMOA</recordtype>
+<recordcreation datetime="27/08/11 10:32" format="JJ/MM/AAAA">27/08/2011</recordcreation>
+<recordupdate datetime="12/03/12 11:06" format="JJ/MM/AAAA">12/03/2012</recordupdate>
+<recordindex datetime="27/08/11 10:32" format="JJ/MM/AAAA">27/08/2011</recordindex>
+<uri>https://documentation.boad.org/dyn/portal/index.seam?page=alo&amp;aloId=10905</uri>
+<field id="TIT" order="1">Conférence des Chefs d’Etat de l'UEMOA du 28 Janvier 1999 </field>
+<field id="LIEUARC">Lomé</field>
+<field datetime="28/01/99 00:00" format="JJ/MM/AAAA" id="DRE">28/01/1999</field>
+<field id="PAYS" idthes="178" order="1" thes="50">Togo</field>
+<field id="COT">1A6B</field>
+<field id="ANNEX" order="1">Ordre du jour</field>
+<field_path id="ANNEX" order="1">doc/Alo/P000000/10905/122185/ORDRE DU JOUR.pdf</field_path>
+<field_pathLink id="ANNEX">QcoV5hnjdciu2WGF6EdLrSMWK8qEEp7b&#13;
+</field_pathLink>
+<field id="ANNEX" order="2">BOAD EN CHIFFRE</field>
+<field_path id="ANNEX" order="2">doc/Alo/P000000/10905/122186/BOAD EN CHIFFRE.pdf</field_path>
+<field_pathLink id="ANNEX">QcoV5hnjdciu2WGF6EdLrbnltvLO5azo&#13;
+</field_pathLink>
+<field id="ANNEX" order="3">RAPPORT DU PRESIDENT DE LA BOAD</field>
+<field_path id="ANNEX" order="3">doc/Alo/P000000/10905/122187/RAPPORT DU PRESIDENT DE LA BOAD.pdf</field_path>
+<field_pathLink id="ANNEX">QcoV5hnjdciu2WGF6EdLrcBBEThZwlJ6&#13;
+</field_pathLink>
+</record>
+<record id="10907">
+<recordnature code="ARC">ARCHIVES</recordnature>
+<recordtype code="CCEUEMOA">Conférence des Chefs d'Etat UEMOA</recordtype>
+<recordcreation datetime="27/08/11 10:56" format="JJ/MM/AAAA">27/08/2011</recordcreation>
+<recordupdate datetime="12/03/12 10:27" format="JJ/MM/AAAA">12/03/2012</recordupdate>
+<recordindex datetime="27/08/11 10:56" format="JJ/MM/AAAA">27/08/2011</recordindex>
+<uri>https://documentation.boad.org/dyn/portal/index.seam?page=alo&amp;aloId=10907</uri>
+<field id="TIT" order="1">Onzième Session de la Conférence des Chefs d’État de l'UEMOA du 20 Janvier 2OO7 </field>
+<field id="LIEUARC">Ouagadougou</field>
+<field datetime="20/01/07 00:00" format="JJ/MM/AAAA" id="DRE">20/01/2007</field>
+<field id="PAYS" idthes="162" order="1" thes="50">Burkina Faso</field>
+<field id="COT">1A17B</field>
+<field id="ANNEX" order="1">-Projet d'ordre du jour&#13;
+-Contribution de la BOAD à la conférence du 23 déc. 2006&#13;
+-Déclaration des Ministres Chargés du Commerce des Etats membres de l'UEMOA&#13;
+</field>
+<field_path id="ANNEX" order="1">doc/Alo/P000000/10907/122250/Projet d'ordre du jour.pdf</field_path>
+<field_pathLink id="ANNEX">QcoV5hnjdciu2WGF6EdLrYYMUGheCXXs&#13;
+</field_pathLink>
+<field_path id="ANNEX" order="1">doc/Alo/P000000/10907/122250/Contribution de la BOAD à la conférence du 23 déc. 2006.pdf</field_path>
+<field_pathLink id="ANNEX">QcoV5hnjdciu2WGF6EdLrdTpPD_SVK9Q&#13;
+</field_pathLink>
+<field_path id="ANNEX" order="1">doc/Alo/P000000/10907/122250/Déclaration des Ministres Chargés du Commerce des Etats membres de l'UEMOA.pdf</field_path>
+<field_pathLink id="ANNEX">QcoV5hnjdciu2WGF6EdLrWHXsOhK5AOm&#13;
+</field_pathLink>
+<field id="ANNEX" order="2">-Difficultés d'application de la Convent° portant créat° de la BSIC&#13;
+-Nomination des responsables des institutions&#13;
+-Point sur accord de partenariat économique</field>
+<field_path id="ANNEX" order="2">doc/Alo/P000000/10907/122251/Difficultés d'application de la Convent° portant créat° de la BSIC.pdf</field_path>
+<field_pathLink id="ANNEX">QcoV5hnjdciu2WGF6EdLrfLINVWv8aBa&#13;
+</field_pathLink>
+<field_path id="ANNEX" order="2">doc/Alo/P000000/10907/122251/Nomination des responsables des institutions.pdf</field_path>
+<field_pathLink id="ANNEX">QcoV5hnjdciu2WGF6EdLrQ6QpCZdbi8j&#13;
+</field_pathLink>
+<field_path id="ANNEX" order="2">doc/Alo/P000000/10907/122251/Point sur accord de partenariat économique.pdf</field_path>
+<field_pathLink id="ANNEX">QcoV5hnjdciu2WGF6EdLrYqb0DM_sd3g&#13;
+</field_pathLink>
+<field id="ANNEX" order="3">-Projet d'acte additionnel instituant 1 nouvelle période transitoire de finan de CCR&#13;
+-Rapport annuel de la commission sur le fonctionemnt &amp; l'évolu de l'Union&#13;
+-Rapport du Président du CM</field>
+<field_path id="ANNEX" order="3">doc/Alo/P000000/10907/122252/Projet d'acte additionnel instituant 1 nouvelle période transitoire de finan de CCR.pdf</field_path>
+<field_pathLink id="ANNEX">QcoV5hnjdciu2WGF6EdLrXTWBmiApMB4&#13;
+</field_pathLink>
+<field_path id="ANNEX" order="3">doc/Alo/P000000/10907/122252/Rapport du Président du CM.pdf</field_path>
+<field_pathLink id="ANNEX">QcoV5hnjdciu2WGF6EdLrc32I3hneZgQ&#13;
+</field_pathLink>
+<field id="ANNEX" order="4">-Table ronde des bailleurs de fonds du per&#13;
+-Rapport annuel de la commission sur le fonctionemnt &amp; l'évolu de l'Union</field>
+<field_path id="ANNEX" order="4">doc/Alo/P000000/10907/122253/Table ronde des bailleurs de fonds du per.pdf</field_path>
+<field_pathLink id="ANNEX">QcoV5hnjdciu2WGF6EdLrWgBje_BjZMY&#13;
+</field_pathLink>
+<field id="ANNEX" order="5">Rapport annuel de la commission sur le fonctionnement &amp; l'évolution de l'Union</field>
+<field_path id="ANNEX" order="5">doc/Alo/P000000/10907/122310/Rapport annuel de la commission  sur le fonctionemnt &amp; l'évolu de l'Union2.pdf</field_path>
+<field_pathLink id="ANNEX">QcoV5hnjdciu2WGF6EdLrc-WSCe4gkwY&#13;
+</field_pathLink>
+<field id="ANNEX" order="6">Caractéristiques moyennes des apports de prêts de l'exercice 2006</field>
+<field_path id="ANNEX" order="6">doc/Alo/P000000/10907/192384/Caractéristiques moyennes des apports de prêts de l'exercice 2006.pdf</field_path>
+<field_pathLink id="ANNEX">QcoV5hnjdchqpIsWmZ0MnAJHhjB7rmH1&#13;
+</field_pathLink>
+<field id="ANNEX" order="7">CR de la table ronde tenue à Dakar sur le financement du PER</field>
+<field_path id="ANNEX" order="7">doc/Alo/P000000/10907/192385/CR de la table ronde tenue à Dakar sur le financement du PER.pdf</field_path>
+<field_pathLink id="ANNEX">QcoV5hnjdchqpIsWmZ0MnFeeqBugpz_I&#13;
+</field_pathLink>
+<field id="ANNEX" order="8">Etat de l'UMOA</field>
+<field_path id="ANNEX" order="8">doc/Alo/P000000/10907/192386/Etat de l'UMOA.pdf</field_path>
+<field_pathLink id="ANNEX">QcoV5hnjdchqpIsWmZ0MnKadePp5ddhV&#13;
+</field_pathLink>
+</record>
+<record id="12778">
+<recordnature code="ARC">ARCHIVES</recordnature>
+<recordtype code="CCEUEMOA">Conférence des Chefs d'Etat UEMOA</recordtype>
+<recordcreation datetime="13/02/12 10:30" format="JJ/MM/AAAA">13/02/2012</recordcreation>
+<recordupdate datetime="12/03/12 11:04" format="JJ/MM/AAAA">12/03/2012</recordupdate>
+<recordindex datetime="13/02/12 10:30" format="JJ/MM/AAAA">13/02/2012</recordindex>
+<uri>https://documentation.boad.org/dyn/portal/index.seam?page=alo&amp;aloId=12778</uri>
+<field id="TIT" order="1">Conférence des Chefs de l'UEMOA du 23 Juin 1997</field>
+<field id="LIEUARC">Lomé</field>
+<field datetime="23/06/97 00:00" format="JJ/MM/AAAA" id="DRE">23/06/1997</field>
+<field id="PAYS" idthes="178" order="1" thes="50">Togo</field>
+<field id="COT">1A5C</field>
+<field id="ANNEX" order="1">Projet d'ordre du jour-document1</field>
+<field_path id="ANNEX" order="1">doc/Alo/P000000/12778/195990/1.Projet d'ordre du jour-document1.pdf</field_path>
+<field_pathLink id="ANNEX">QcoV5hnjdchqpIsWmZ0MnL4ZiLhtRMIw&#13;
+</field_pathLink>
+<field id="ANNEX" order="2">Projet d'ordre du jour-document2</field>
+<field_path id="ANNEX" order="2">doc/Alo/P000000/12778/195991/2.Projet d'ordre du jour-document2.pdf</field_path>
+<field_pathLink id="ANNEX">QcoV5hnjdchqpIsWmZ0MnGq9ODHB7mHq&#13;
+</field_pathLink>
+<field id="ANNEX" order="3">Rapport d'activités de la commission 1996-1997</field>
+<field_path id="ANNEX" order="3">doc/Alo/P000000/12778/195992/3.Rapport d'activités de la commission 1996-1997.pdf</field_path>
+<field_pathLink id="ANNEX">QcoV5hnjdchqpIsWmZ0MnIAOo--lWYs0&#13;
+</field_pathLink>
+<field id="ANNEX" order="4">Projet d'acte additionnel modifiant l'article 12 de l'acte additionnel n°4-96</field>
+<field_path id="ANNEX" order="4">doc/Alo/P000000/12778/195993/4.Projet d'acte additionnel modifiant l'article 12 de l'acte additionnel n°4-96.pdf</field_path>
+<field_pathLink id="ANNEX">QcoV5hnjdchqpIsWmZ0MnJOVpQ2pCiii&#13;
+</field_pathLink>
+<field id="ANNEX" order="5">Projet d'acte additionnel fixant les attributions-composition et les principes d'organisation-de fonctionnement de la chambre consulaire régionale de l'UEMOA</field>
+<field_path id="ANNEX" order="5">doc/Alo/P000000/12778/195994/5.Projet d'acte additionnel fixant les attributions-composition et les principes d'organisation-de fonctionnement de la chambre consulaire regionale de l'UEMOA.pdf</field_path>
+<field_pathLink id="ANNEX">QcoV5hnjdchqpIsWmZ0MnBUwxJ6fl__O&#13;
+</field_pathLink>
+<field id="ANNEX" order="6">Projet d'acte additionnel portant modification de la composition de la commission de l'UEMOA</field>
+<field_path id="ANNEX" order="6">doc/Alo/P000000/12778/196006/6.Projet d'acte additionnel portant modification de la composition de la commission de l'UEMOA.pdf</field_path>
+<field_pathLink id="ANNEX">QcoV5hnjdchqpIsWmZ0MnH01sBe-qoDk&#13;
+</field_pathLink>
+<field id="ANNEX" order="7">Projet d'acte additionnel portant modification de la composition de la cour de justice de l'UEMOA</field>
+<field_path id="ANNEX" order="7">doc/Alo/P000000/12778/196007/7.Projet d'acte additionnel portant modification de la composition de la cour de justice de l'UEMOA.pdf</field_path>
+<field_pathLink id="ANNEX">QcoV5hnjdchqpIsWmZ0MnGYKguqeN-51&#13;
+</field_pathLink>
+<field id="ANNEX" order="8">projet d'acte additionnel portant modification de l'article 4 de l'acte additionnel n°10-96 du 10-05-1996 portant statuts de la cour de justice de l'UEMOA</field>
+<field_path id="ANNEX" order="8">doc/Alo/P000000/12778/196008/8.projet d'acte additionnel portant modification de l'article 4 de l'acte additionnel n°10-96 du 10-05-1996 portant statuts de la cour de justice de l'UEMOA.pdf</field_path>
+<field_pathLink id="ANNEX">QcoV5hnjdchqpIsWmZ0MnDJhdWOxu2UL&#13;
+</field_pathLink>
+<field id="ANNEX" order="9">Conclusions et recommandations du CM chargés de l'agriculture_Ouagadougou-6 mars 1997</field>
+<field_path id="ANNEX" order="9">doc/Alo/P000000/12778/196009/9.Conclusions et recommandations du CM chargés de l'agriculture_Ouagadougou-6 mars 1997.pdf</field_path>
+<field_pathLink id="ANNEX">QcoV5hnjdchqpIsWmZ0MnDqCDeX7UwuJ&#13;
+</field_pathLink>
+<field id="ANNEX" order="10">Conclusions et recommandations du CM chargés de l'environnement-Cotonou 11 Avril 1997</field>
+<field_path id="ANNEX" order="10">doc/Alo/P000000/12778/196010/10.Conclusions et recommandations du CM chargés de l'environnement-Cotonou 11 Avril 1997.pdf</field_path>
+<field_pathLink id="ANNEX">QcoV5hnjdchqpIsWmZ0MnIIW-5ExKiNX&#13;
+</field_pathLink>
+<field id="ANNEX" order="11">Conclusions et recommandations du CM du chargés de l’énergie Bamako 11 Avril 1997</field>
+<field_path id="ANNEX" order="11">doc/Alo/P000000/12778/196036/11.Conclusions et recommandations du CM du chargés de l'energie Bamako 11 Avril 1997.pdf</field_path>
+<field_pathLink id="ANNEX">QcoV5hnjdchqpIsWmZ0MnKIq1eVZtN3D&#13;
+</field_pathLink>
+<field id="ANNEX" order="12">Conclusions et recommandations du CM du chargés des transports Ouagadougou 30 Mai 1997</field>
+<field_path id="ANNEX" order="12">doc/Alo/P000000/12778/196037/12.Conclusions et recommandations du CM du chargés des transports Ouagadougou 30 Mai 1997.pdf</field_path>
+<field_pathLink id="ANNEX">QcoV5hnjdchqpIsWmZ0MnACqolsB2zlJ&#13;
+</field_pathLink>
+<field id="ANNEX" order="13">Rapport de la réunion du comité des experts Ouagadougou du 09 au 15 juin 1997</field>
+<field_path id="ANNEX" order="13">doc/Alo/P000000/12778/196038/13.Rapport de la réunion du comité des experts Ouagadougou du 09 au 15 juin 1997.pdf</field_path>
+<field_pathLink id="ANNEX">QcoV5hnjdchqpIsWmZ0MnBh0HzgrJkqt&#13;
+</field_pathLink>
+<field id="ANNEX" order="14">Note sur le transfert de la capitale de la république fédérale d’Allemagne de Bonn à Berlin</field>
+<field_path id="ANNEX" order="14">doc/Alo/P000000/12778/196039/14.Note sur le transfert de la capitale de la republique federale d'allemagne de Bonn à Berlin.pdf</field_path>
+<field_pathLink id="ANNEX">QcoV5hnjdchqpIsWmZ0MnDzh8wXgaced&#13;
+</field_pathLink>
+<field id="ANNEX" order="15">Commiqué final</field>
+<field_path id="ANNEX" order="15">doc/Alo/P000000/12778/196040/15.Commiqué final.pdf</field_path>
+<field_pathLink id="ANNEX">QcoV5hnjdchqpIsWmZ0MnOGRPJJTbCja&#13;
+</field_pathLink>
+<field id="ANNEX" order="16">Discours de différents intervenants</field>
+<field_path id="ANNEX" order="16">doc/Alo/P000000/12778/196043/16.Discours de différents intervenants.pdf</field_path>
+<field_pathLink id="ANNEX">QcoV5hnjdchqpIsWmZ0MnFV8X7St8R_W&#13;
+</field_pathLink>
+</record>
+<record id="12779">
+<recordnature code="ARC">ARCHIVES</recordnature>
+<recordtype code="CCEUEMOA">Conférence des Chefs d'Etat UEMOA</recordtype>
+<recordcreation datetime="14/02/12 09:24" format="JJ/MM/AAAA">14/02/2012</recordcreation>
+<recordupdate datetime="12/03/12 11:04" format="JJ/MM/AAAA">12/03/2012</recordupdate>
+<recordindex datetime="14/02/12 09:24" format="JJ/MM/AAAA">14/02/2012</recordindex>
+<uri>https://documentation.boad.org/dyn/portal/index.seam?page=alo&amp;aloId=12779</uri>
+<field id="TIT" order="1">Dixième session Conférence des Chefs d’État de l'UEMOA du 27 Juin 1997</field>
+<field id="LIEUARC">Libreville</field>
+<field datetime="27/06/97 00:00" format="JJ/MM/AAAA" id="DRE">27/06/1997</field>
+<field id="PAYS" idthes="154" order="1" thes="50">Gabon</field>
+<field id="COT">1A3B</field>
+<field id="ANNEX" order="1">Déclaration du président du conseil des ministres de l'UMOA</field>
+<field_path id="ANNEX" order="1">doc/Alo/P000000/12779/192319/Déclaration du président du conseil des ministres de l'UMOA.pdf</field_path>
+<field_pathLink id="ANNEX">QcoV5hnjdchqpIsWmZ0MnOY__j02MVYE&#13;
+</field_pathLink>
+<field id="ANNEX" order="2">Economic development institute 17 juin 1994</field>
+<field_path id="ANNEX" order="2">doc/Alo/P000000/12779/192320/Economic development institute 17 juin 1994.pdf</field_path>
+<field_pathLink id="ANNEX">QcoV5hnjdchqpIsWmZ0MnPLufvP_Sq-j&#13;
+</field_pathLink>
+<field id="ANNEX" order="3">Point sur l'intégration régionale dans la zone franc</field>
+<field_path id="ANNEX" order="3">doc/Alo/P000000/12779/192321/Point sur l'intégration régionale dans la zone franc.pdf</field_path>
+<field_pathLink id="ANNEX">QcoV5hnjdchqpIsWmZ0MnNXHctcUrorI&#13;
+</field_pathLink>
+<field id="ANNEX" order="4">Projet de révision du traité de l'UEMOA</field>
+<field_path id="ANNEX" order="4">doc/Alo/P000000/12779/192322/Projet de révision du traité de l'UEMOA.pdf</field_path>
+<field_pathLink id="ANNEX">QcoV5hnjdchqpIsWmZ0MnNC_SwC3EE09&#13;
+</field_pathLink>
+<field id="ANNEX" order="5">PV de le 9ème conférence des chefs d'etat de l'union monétaire O.A</field>
+<field_path id="ANNEX" order="5">doc/Alo/P000000/12779/192323/PV de le 9ème conférence des chefs d'etat de l'union monétaire O.A.pdf</field_path>
+<field_pathLink id="ANNEX">QcoV5hnjdchqpIsWmZ0MnELjpgKH0w_d&#13;
+</field_pathLink>
+<field id="ANNEX" order="6">Rapport de synthese de la réunion ministerielle du 25 juin 1994</field>
+<field_path id="ANNEX" order="6">doc/Alo/P000000/12779/192324/Rapport de synthese de la réunion ministerielle du 25 juin 1994.pdf</field_path>
+<field_pathLink id="ANNEX">QcoV5hnjdchqpIsWmZ0MnMDi5XzJlxe0&#13;
+</field_pathLink>
+<field id="ANNEX" order="7">Réunion preparatoire des experts nationaux</field>
+<field_path id="ANNEX" order="7">doc/Alo/P000000/12779/192325/Réunion preparatoire des experts nationaux.pdf</field_path>
+<field_pathLink id="ANNEX">QcoV5hnjdchqpIsWmZ0MnIcU1WhQFgkf&#13;
+</field_pathLink>
+</record>
+<record id="12780">
+<recordnature code="ARC">ARCHIVES</recordnature>
+<recordtype code="CCEUEMOA">Conférence des Chefs d'Etat UEMOA</recordtype>
+<recordcreation datetime="14/02/12 09:28" format="JJ/MM/AAAA">14/02/2012</recordcreation>
+<recordupdate datetime="12/03/12 10:17" format="JJ/MM/AAAA">12/03/2012</recordupdate>
+<recordindex datetime="14/02/12 09:28" format="JJ/MM/AAAA">14/02/2012</recordindex>
+<uri>https://documentation.boad.org/dyn/portal/index.seam?page=alo&amp;aloId=12780</uri>
+<field id="TIT" order="1">Conférence des Chefs d’État de l'UEMOA du 08 Décembre 1999</field>
+<field id="LIEUARC">Lomé</field>
+<field datetime="08/12/99 00:00" format="JJ/MM/AAAA" id="DRE">08/12/1999</field>
+<field id="PAYS" idthes="178" order="1" thes="50">Togo</field>
+<field id="COT">1A7A</field>
+<field id="ANNEX" order="1">Rapport du gouverneur de la BCEAO</field>
+<field_path id="ANNEX" order="1">doc/Alo/P000000/12780/192316/Rapport du gouverneur de la BCEAO.pdf</field_path>
+<field_pathLink id="ANNEX">QcoV5hnjdchqpIsWmZ0MnCKF1OwQc0dy&#13;
+</field_pathLink>
+<field id="ANNEX" order="2">Rapport spécial sur la situation de la Guinnee bissau 8-12-99</field>
+<field_path id="ANNEX" order="2">doc/Alo/P000000/12780/192317/Rapport spécial sur la situation de la Guinnee bissau 8-12-99.pdf</field_path>
+<field_pathLink id="ANNEX">QcoV5hnjdchqpIsWmZ0MnCd_6DEOWPHT&#13;
+</field_pathLink>
+<field id="ANNEX" order="3">Rapport spécial sur la situation des banques 8-12-1999</field>
+<field_path id="ANNEX" order="3">doc/Alo/P000000/12780/192318/Rapport spécial sur la situation des banques 8-12-1999.pdf</field_path>
+<field_pathLink id="ANNEX">QcoV5hnjdchqpIsWmZ0MnPMcx5pSFPRt&#13;
+</field_pathLink>
+</record>
+<record id="12781">
+<recordnature code="ARC">ARCHIVES</recordnature>
+<recordtype code="CCEUEMOA">Conférence des Chefs d'Etat UEMOA</recordtype>
+<recordcreation datetime="14/02/12 09:33" format="JJ/MM/AAAA">14/02/2012</recordcreation>
+<recordupdate datetime="12/03/12 10:16" format="JJ/MM/AAAA">12/03/2012</recordupdate>
+<recordindex datetime="14/02/12 09:33" format="JJ/MM/AAAA">14/02/2012</recordindex>
+<uri>https://documentation.boad.org/dyn/portal/index.seam?page=alo&amp;aloId=12781</uri>
+<field id="TIT" order="1">Session extraordinaire de la Conférence des Chefs d’état de l’UEMOA du 23 Décembre 2005</field>
+<field id="LIEUARC">Niamey</field>
+<field datetime="23/12/05 00:00" format="JJ/MM/AAAA" id="DRE">23/12/2005</field>
+<field id="PAYS" idthes="173" order="1" thes="50">Niger</field>
+<field id="COT">1A15</field>
+<field id="ANNEX" order="1">Communiqué final de la conférence</field>
+<field_path id="ANNEX" order="1">doc/Alo/P000000/12781/192332/Communiqué final de la conférence des Chefs d'Etat et de Gouvernement du 23.12.05.pdf</field_path>
+<field_pathLink id="ANNEX">QcoV5hnjdchqpIsWmZ0MnJbGahTRozpY&#13;
+</field_pathLink>
+<field id="ANNEX" order="2">Guide pratique des opérateurs privés</field>
+<field_path id="ANNEX" order="2">doc/Alo/P000000/12781/192333/Guide pratique des opérateurs privés.pdf</field_path>
+<field_pathLink id="ANNEX">QcoV5hnjdchqpIsWmZ0MnJuznhcWPYvA&#13;
+</field_pathLink>
+<field id="ANNEX" order="3">La BOAD en bref</field>
+<field_path id="ANNEX" order="3">doc/Alo/P000000/12781/192334/La BOAD en bref.pdf</field_path>
+<field_pathLink id="ANNEX">QcoV5hnjdchqpIsWmZ0MnDCQZJhThRjF&#13;
+</field_pathLink>
+<field id="ANNEX" order="4">Rapport d'activités du président de la BOAD</field>
+<field_path id="ANNEX" order="4">doc/Alo/P000000/12781/192335/Rapport d'activités du président de la BOAD octobre 2005.pdf</field_path>
+<field_pathLink id="ANNEX">QcoV5hnjdchqpIsWmZ0MnEhishY97qiz&#13;
+</field_pathLink>
+<field id="ANNEX" order="5">Rapport sur la problematique du VIH-SIDA</field>
+<field_path id="ANNEX" order="5">doc/Alo/P000000/12781/192354/Rapport sur la problematique du VIH-SIDA.pdf</field_path>
+<field_pathLink id="ANNEX">QcoV5hnjdchqpIsWmZ0MnPLIPCzylecX&#13;
+</field_pathLink>
+</record>
+<record id="12782">
+<recordnature code="ARC">ARCHIVES</recordnature>
+<recordtype code="CCEUEMOA">Conférence des Chefs d'Etat UEMOA</recordtype>
+<recordcreation datetime="14/02/12 09:53" format="JJ/MM/AAAA">14/02/2012</recordcreation>
+<recordupdate datetime="12/03/12 11:02" format="JJ/MM/AAAA">12/03/2012</recordupdate>
+<recordindex datetime="14/02/12 09:53" format="JJ/MM/AAAA">14/02/2012</recordindex>
+<uri>https://documentation.boad.org/dyn/portal/index.seam?page=alo&amp;aloId=12782</uri>
+<field id="TIT" order="1">Onzième session de la Conférence des Chefs d’État de l'UEMOA du 20 Janvier 2007</field>
+<field id="LIEUARC">Ouagadougou</field>
+<field datetime="20/01/07 00:00" format="JJ/MM/AAAA" id="DRE">20/01/2007</field>
+<field id="PAYS" idthes="162" order="1" thes="50">Burkina Faso</field>
+<field id="COT">1A17A</field>
+<field id="ANNEX" order="1">Audit institutionnel et organisationnel Rapport définitif</field>
+<field_path id="ANNEX" order="1">doc/Alo/P000000/12782/192349/Audit institutionnel et organisationnel Rapport définitif.pdf</field_path>
+<field_pathLink id="ANNEX">QcoV5hnjdchqpIsWmZ0MnPWgCOKW7re4&#13;
+</field_pathLink>
+<field id="ANNEX" order="2">Note d'information sur la situation du groupe de la BRS</field>
+<field_path id="ANNEX" order="2">doc/Alo/P000000/12782/192350/Note d'information sur la situation du groupe de la BRS.pdf</field_path>
+<field_pathLink id="ANNEX">QcoV5hnjdchqpIsWmZ0MnDSdSbELnXlz&#13;
+</field_pathLink>
+<field id="ANNEX" order="3">Rapport d'activités du gouverneur de la BCEAO 12-2006</field>
+<field_path id="ANNEX" order="3">doc/Alo/P000000/12782/192351/Rapport d'activités du gouverneur de la BCEAO 12-2006.pdf</field_path>
+<field_pathLink id="ANNEX">QcoV5hnjdchqpIsWmZ0MnCqhmno_baQK&#13;
+</field_pathLink>
+<field id="ANNEX" order="4">Rapport de l'audit institutionnel et organisationnel BCEAO</field>
+<field_path id="ANNEX" order="4">doc/Alo/P000000/12782/192352/Rapport de l'audit institutionnel et organisationnel BCEAO.pdf</field_path>
+<field_pathLink id="ANNEX">QcoV5hnjdchqpIsWmZ0MnPnSG-bSFnry&#13;
+</field_pathLink>
+<field id="ANNEX" order="5">Rapport du conseil des ministres sur les conclusions de l'audit institutionnel</field>
+<field_path id="ANNEX" order="5">doc/Alo/P000000/12782/192353/Rapport du conseil des ministres sur les conclusions de l'audit institutionnel.pdf</field_path>
+<field_pathLink id="ANNEX">QcoV5hnjdchqpIsWmZ0MnBA_QrvO1J9d&#13;
+</field_pathLink>
+</record>
+<record id="14072">
+<recordnature code="ARC">ARCHIVES</recordnature>
+<recordtype code="CCEUEMOA">Conférence des Chefs d'Etat UEMOA</recordtype>
+<recordcreation datetime="04/05/12 08:53" format="JJ/MM/AAAA">04/05/2012</recordcreation>
+<recordupdate datetime="09/02/16 09:48" format="JJ/MM/AAAA">09/02/2016</recordupdate>
+<recordindex datetime="09/02/16 09:48" format="JJ/MM/AAAA">09/02/2016</recordindex>
+<uri>https://documentation.boad.org/dyn/portal/index.seam?page=alo&amp;aloId=14072</uri>
+<field id="TIT" order="1">Dixième conférence des chefs d’État et de gouvernement de l'UEMOA du 27 mars 2006</field>
+<field id="LIEUARC">Niamey </field>
+<field datetime="27/03/06 00:00" format="JJ/MM/AAAA" id="DRE">27/03/2006</field>
+<field id="PAYS" idthes="173" order="1" thes="50">Niger</field>
+<field id="COT">1A16</field>
+<field id="ANNEX" order="1">Rapport du président de la BOAD</field>
+<field_path id="ANNEX" order="1">doc/Alo/P000000/14072/211420/Rapport du président de la BOAD.pdf</field_path>
+<field_pathLink id="ANNEX">QcoV5hnjdciu2WGF6EdLreqHAcQ9gtLP&#13;
+</field_pathLink>
+<field id="ANNEX" order="2">Rapport annuel de la commission sur le fonctionnement et l'évolution de l'union 2005</field>
+<field_path id="ANNEX" order="2">doc/Alo/P000000/14072/211418/Rapport annuel de la commission sur le fonctionnement et l'évolution de l'union 2005.pdf</field_path>
+<field_pathLink id="ANNEX">QcoV5hnjdciu2WGF6EdLreILUcZcCZzi&#13;
+</field_pathLink>
+<field id="ANNEX" order="3">Rapport annuel de la commission sur le fonctionnement et l'évolution de l'union 2005 suite</field>
+<field_path id="ANNEX" order="3">doc/Alo/P000000/14072/211419/Rapport annuel de la commission sur le fonctionnement et l'évolution de l'union 2005 suite.pdf</field_path>
+<field_pathLink id="ANNEX">QcoV5hnjdciu2WGF6EdLraF72cf9NuHo&#13;
+</field_pathLink>
+<field id="ANNEX" order="4">Notes sur le financement du programme économique régional</field>
+<field_path id="ANNEX" order="4">doc/Alo/P000000/14072/211416/Notes sur le financement du programme économique régional.pdf</field_path>
+<field_pathLink id="ANNEX">QcoV5hnjdciu2WGF6EdLrWui4Ht69D41&#13;
+</field_pathLink>
+<field id="ANNEX" order="5">Présentation du président du conseil des ministres</field>
+<field_path id="ANNEX" order="5">doc/Alo/P000000/14072/211417/Présentation du président du conseil des ministres.pdf</field_path>
+<field_pathLink id="ANNEX">QcoV5hnjdciu2WGF6EdLrTIMrJBsPeqo&#13;
+</field_pathLink>
+<field id="ANNEX" order="6">Magazine le renouveau n°18 de mars 2006 suite 3</field>
+<field_path id="ANNEX" order="6">doc/Alo/P000000/14072/211414/Magazine le renouveau n°18 de mars 2006 suite 3.pdf</field_path>
+<field_pathLink id="ANNEX">QcoV5hnjdciu2WGF6EdLrXxbesFef4dX&#13;
+</field_pathLink>
+<field id="ANNEX" order="7">Note de présentation du rapport d'activité du président de la BOAD</field>
+<field_path id="ANNEX" order="7">doc/Alo/P000000/14072/211415/Note de présentation du rapport d'activité du président de la BOAD.pdf</field_path>
+<field_pathLink id="ANNEX">QcoV5hnjdciu2WGF6EdLrd_xAfm7eXpB&#13;
+</field_pathLink>
+<field id="ANNEX" order="8">Magazine le renouveau n°18 de mars 2006 suite 1</field>
+<field_path id="ANNEX" order="8">doc/Alo/P000000/14072/211412/Magazine le renouveau n°18 de mars 2006 suite 1.pdf</field_path>
+<field_pathLink id="ANNEX">QcoV5hnjdciu2WGF6EdLra9qMbSTzJni&#13;
+</field_pathLink>
+<field id="ANNEX" order="9">Magazine le renouveau n°18 de mars 2006 suite 2</field>
+<field_path id="ANNEX" order="9">doc/Alo/P000000/14072/211413/Magazine le renouveau n°18 de mars 2006 suite 2.pdf</field_path>
+<field_pathLink id="ANNEX">QcoV5hnjdciu2WGF6EdLrRkEUcNZ2agO&#13;
+</field_pathLink>
+<field id="ANNEX" order="10">Les correspondances</field>
+<field_path id="ANNEX" order="10">doc/Alo/P000000/14072/211410/Les correspondances.pdf</field_path>
+<field_pathLink id="ANNEX">QcoV5hnjdciu2WGF6EdLrV-sQ-yfCBvv&#13;
+</field_pathLink>
+<field id="ANNEX" order="11">Magazine le renouveau n°18 de mars 2006</field>
+<field_path id="ANNEX" order="11">doc/Alo/P000000/14072/211411/Magazine le renouveau n°18 de mars 2006.pdf</field_path>
+<field_pathLink id="ANNEX">QcoV5hnjdciu2WGF6EdLrf1mvZMSJX0e&#13;
+</field_pathLink>
+<field id="ANNEX" order="12">Documentation sur le programme économique régional</field>
+<field_path id="ANNEX" order="12">doc/Alo/P000000/14072/211408/Documentation sur le programme économique régional.pdf</field_path>
+<field_pathLink id="ANNEX">QcoV5hnjdciu2WGF6EdLrcs670xnYIp9&#13;
+</field_pathLink>
+<field id="ANNEX" order="13">Etat de l'union économique et monétaire de l'ouest africaine</field>
+<field_path id="ANNEX" order="13">doc/Alo/P000000/14072/211409/Etat de l'union économique et monétaire de l'ouest africaine.pdf</field_path>
+<field_pathLink id="ANNEX">QcoV5hnjdciu2WGF6EdLrb6vfUZeQmIx&#13;
+</field_pathLink>
+<field id="ANNEX" order="14">Communiqué final de la conférence des chefs d'Etat et de gouvernement</field>
+<field_path id="ANNEX" order="14">doc/Alo/P000000/14072/211407/Communiqué final de la conférence des chefs d'Etat et de gouvernement.pdf</field_path>
+<field_pathLink id="ANNEX">QcoV5hnjdciu2WGF6EdLrXNZa_1rRuOF&#13;
+</field_pathLink>
+</record>
+<record id="14077">
+<recordnature code="ARC">ARCHIVES</recordnature>
+<recordtype code="CCEUEMOA">Conférence des Chefs d'Etat UEMOA</recordtype>
+<recordcreation datetime="09/05/12 13:41" format="JJ/MM/AAAA">09/05/2012</recordcreation>
+<recordupdate datetime="09/05/12 14:14" format="JJ/MM/AAAA">09/05/2012</recordupdate>
+<recordindex datetime="09/05/12 13:41" format="JJ/MM/AAAA">09/05/2012</recordindex>
+<uri>https://documentation.boad.org/dyn/portal/index.seam?page=alo&amp;aloId=14077</uri>
+<field id="TIT" order="1">Conférence des chefs d'états de l'UEMOA DU 14 Décembre 2000</field>
+<field id="LIEUARC">Bamako </field>
+<field datetime="14/12/00 00:00" format="JJ/MM/AAAA" id="DRE">14/12/2000</field>
+<field id="PAYS" idthes="171" order="1" thes="50">Mali</field>
+<field id="COT">1A8B</field>
+<field id="ANNEX" order="1">24ème sommet de la CEDEAO</field>
+<field_path id="ANNEX" order="1">doc/Alo/P000000/14077/211679/24 ème sommet de la CEDEAO.pdf</field_path>
+<field_pathLink id="ANNEX">QcoV5hnjdciu2WGF6EdLrbbRTkLVUXvj&#13;
+</field_pathLink>
+<field id="ANNEX" order="2">Communiqué final</field>
+<field_path id="ANNEX" order="2">doc/Alo/P000000/14077/211680/Communiqué final.pdf</field_path>
+<field_pathLink id="ANNEX">QcoV5hnjdciu2WGF6EdLrZs_0xvrObhu&#13;
+</field_pathLink>
+<field id="ANNEX" order="3">Note administrative inter structure</field>
+<field_path id="ANNEX" order="3">doc/Alo/P000000/14077/211681/Note administrative inter structure.pdf</field_path>
+<field_pathLink id="ANNEX">QcoV5hnjdciu2WGF6EdLrbu0hWn1CaHB&#13;
+</field_pathLink>
+<field id="ANNEX" order="4">Projet de communiqué final</field>
+<field_path id="ANNEX" order="4">doc/Alo/P000000/14077/211682/Projet de communiqué final.pdf</field_path>
+<field_pathLink id="ANNEX">QcoV5hnjdciu2WGF6EdLrVTZMOAOAqhy&#13;
+</field_pathLink>
+<field id="ANNEX" order="5">Projet du rapport du Président du CM</field>
+<field_path id="ANNEX" order="5">doc/Alo/P000000/14077/211683/Projet du rapport du Président du CM.pdf</field_path>
+<field_pathLink id="ANNEX">QcoV5hnjdciu2WGF6EdLrQvOVpHvEK4W&#13;
+</field_pathLink>
+<field id="ANNEX" order="6">Requête d'assistance financière soumise à la Finlande</field>
+<field_path id="ANNEX" order="6">doc/Alo/P000000/14077/211685/Requète d'assistance financière soumise à la Finlande.pdf</field_path>
+<field_pathLink id="ANNEX">QcoV5hnjdciu2WGF6EdLraHDsU2_VB40&#13;
+</field_pathLink>
+<field id="ANNEX" order="7">Requête d'assistance financière soumise au royaume du Danemark</field>
+<field_path id="ANNEX" order="7">doc/Alo/P000000/14077/211686/Requète d'assistance financière soumise au royaume du Danemark.pdf</field_path>
+<field_pathLink id="ANNEX">QcoV5hnjdciu2WGF6EdLreucq64CxaeQ&#13;
+</field_pathLink>
+<field id="ANNEX" order="8">UMOA Conseil régional</field>
+<field_path id="ANNEX" order="8">doc/Alo/P000000/14077/211687/UMOA Conseil régional.pdf</field_path>
+<field_pathLink id="ANNEX">QcoV5hnjdciu2WGF6EdLrcUkAvCS2ltF&#13;
+</field_pathLink>
+<field id="ANNEX" order="9">Rapport du président de la BOAD I</field>
+<field_path id="ANNEX" order="9">doc/Alo/P000000/14077/211688/Rapport du président de la BOAD I.pdf</field_path>
+<field_pathLink id="ANNEX">QcoV5hnjdciu2WGF6EdLrTkHy3oF4_Ys&#13;
+</field_pathLink>
+<field id="ANNEX" order="10">Rapport du président de la BOAD II</field>
+<field_path id="ANNEX" order="10">doc/Alo/P000000/14077/211689/Rapport du président de la BOAD II.pdf</field_path>
+<field_pathLink id="ANNEX">QcoV5hnjdciu2WGF6EdLrbY5V6_9xUut&#13;
+</field_pathLink>
+<field id="ANNEX" order="11">Rapport du président de la BOAD III</field>
+<field_path id="ANNEX" order="11">doc/Alo/P000000/14077/211690/Rapport du président de la BOAD III.pdf</field_path>
+<field_pathLink id="ANNEX">QcoV5hnjdciu2WGF6EdLrbaMDP22fGqt&#13;
+</field_pathLink>
+</record>
+<record id="14078">
+<recordnature code="ARC">ARCHIVES</recordnature>
+<recordtype code="CCEUEMOA">Conférence des Chefs d'Etat UEMOA</recordtype>
+<recordcreation datetime="09/05/12 14:29" format="JJ/MM/AAAA">09/05/2012</recordcreation>
+<recordupdate datetime="26/06/12 12:30" format="JJ/MM/AAAA">26/06/2012</recordupdate>
+<recordindex datetime="09/05/12 14:29" format="JJ/MM/AAAA">09/05/2012</recordindex>
+<uri>https://documentation.boad.org/dyn/portal/index.seam?page=alo&amp;aloId=14078</uri>
+<field id="TIT" order="1">Conférence des chefs d'états de l'UEMOA du 30 Mars 2005</field>
+<field id="LIEUARC">Niamey </field>
+<field datetime="30/03/05 00:00" format="JJ/MM/AAAA" id="DRE">30/03/2005</field>
+<field id="PAYS" idthes="173" order="1" thes="50">Niger</field>
+<field id="COT">1A14B</field>
+<field id="ANNEX" order="1">Neuviène conférence des Chefs d'Etats et de Gouvernement NiAMEY 30 Mars 2005</field>
+<field_path id="ANNEX" order="1">doc/Alo/P000000/14078/211696/1.Neuviène conférence des Chefs d'Etats et de Gouvernement NiAMEY 30 Mars 2005.pdf</field_path>
+<field_pathLink id="ANNEX">QcoV5hnjdciu2WGF6EdLrUUd9qSN5at7&#13;
+</field_pathLink>
+<field id="ANNEX" order="2">Communiqué final de la dernière réunion des Chefs d’États</field>
+<field_path id="ANNEX" order="2">doc/Alo/P000000/14078/211697/2.Communiqué final de la dernière réunion des Chefs d'Etats.pdf</field_path>
+<field_pathLink id="ANNEX">QcoV5hnjdciu2WGF6EdLrTb5okg0X12J&#13;
+</field_pathLink>
+<field id="ANNEX" order="3">La BOAD en chiffres 1994-2004</field>
+<field_path id="ANNEX" order="3">doc/Alo/P000000/14078/211699/La BOAD en chiffres 1994-2004.pdf</field_path>
+<field_pathLink id="ANNEX">QcoV5hnjdciu2WGF6EdLrQ_g-O3pmUpM&#13;
+</field_pathLink>
+<field id="ANNEX" order="4">Financement du programme économique I</field>
+<field_path id="ANNEX" order="4">doc/Alo/P000000/14078/211701/Financement du programme économique I.pdf</field_path>
+<field_pathLink id="ANNEX">QcoV5hnjdciu2WGF6EdLra4oBEg_h2Fi&#13;
+</field_pathLink>
+<field id="ANNEX" order="5">Financement du programme économique II</field>
+<field_path id="ANNEX" order="5">doc/Alo/P000000/14078/211702/Financement du programme économique II.pdf</field_path>
+<field_pathLink id="ANNEX">QcoV5hnjdciu2WGF6EdLrWHDlJk_CQIu&#13;
+</field_pathLink>
+<field id="ANNEX" order="6">Financement du programme économique III</field>
+<field_path id="ANNEX" order="6">doc/Alo/P000000/14078/211703/Financement du programme économique III.pdf</field_path>
+<field_pathLink id="ANNEX">QcoV5hnjdciu2WGF6EdLreYValeY-wZP&#13;
+</field_pathLink>
+<field id="ANNEX" order="7">Financement du programme économique IV</field>
+<field_path id="ANNEX" order="7">doc/Alo/P000000/14078/211704/Financement du programme économique IV[0].pdf</field_path>
+<field_pathLink id="ANNEX">QcoV5hnjdciu2WGF6EdLrcAZggItpKpR&#13;
+</field_pathLink>
+<field id="ANNEX" order="8">Rapport du président de la BOAD I</field>
+<field_path id="ANNEX" order="8">doc/Alo/P000000/14078/211705/Rapport du président de la BOAD I.pdf</field_path>
+<field_pathLink id="ANNEX">QcoV5hnjdciu2WGF6EdLrY1WxQed4Mzl&#13;
+</field_pathLink>
+<field id="ANNEX" order="9">Rapport du président de la BOAD II</field>
+<field_path id="ANNEX" order="9">doc/Alo/P000000/14078/211706/Rapport du président de la BOAD II.pdf</field_path>
+<field_pathLink id="ANNEX">QcoV5hnjdciu2WGF6EdLrYOZ0MmPKy37&#13;
+</field_pathLink>
+<field id="ANNEX" order="10">Rapport du président de la BOAD III</field>
+<field_path id="ANNEX" order="10">doc/Alo/P000000/14078/211707/Rapport du président de la BOAD III[0].pdf</field_path>
+<field_pathLink id="ANNEX">QcoV5hnjdciu2WGF6EdLrbVBkLSOaBsv&#13;
+</field_pathLink>
+</record>
+<record id="14350">
+<recordnature code="ARC">ARCHIVES</recordnature>
+<recordtype code="CCEUEMOA">Conférence des Chefs d'Etat UEMOA</recordtype>
+<recordcreation datetime="15/11/12 11:55" format="JJ/MM/AAAA">15/11/2012</recordcreation>
+<recordupdate datetime="15/11/12 12:06" format="JJ/MM/AAAA">15/11/2012</recordupdate>
+<recordindex datetime="15/11/12 11:55" format="JJ/MM/AAAA">15/11/2012</recordindex>
+<uri>https://documentation.boad.org/dyn/portal/index.seam?page=alo&amp;aloId=14350</uri>
+<field id="TIT" order="1">Conférence des Chefs d'Etat de l'UEMOA du 19 Février 2005</field>
+<field id="LIEUARC">Niamey</field>
+<field datetime="19/02/05 00:00" format="JJ/MM/AAAA" id="DRE">19/02/2005</field>
+<field id="PAYS" idthes="173" order="1" thes="50">Niger</field>
+<field id="COT">1A13B</field>
+<field id="ANNEX" order="1">Ordre du jour</field>
+<field_path id="ANNEX" order="1">doc/Alo/P000000/14350/221628/Ordre du jour.pdf</field_path>
+<field_pathLink id="ANNEX">QcoV5hnjdciu2WGF6EdLrWWSEbE-FWoK&#13;
+</field_pathLink>
+<field id="ANNEX" order="2">Projet de convention regissant la commision bancaire de l'UMOA&#13;
+</field>
+<field_path id="ANNEX" order="2">doc/Alo/P000000/14350/221629/Projet de convention regissant la commision bancaire de l'UMOA.pdf</field_path>
+<field_pathLink id="ANNEX">QcoV5hnjdciu2WGF6EdLrR-WqJZoI8Xt&#13;
+</field_pathLink>
+<field id="ANNEX" order="3">Projet de loi portant règlementation bancaire&#13;
+</field>
+<field_path id="ANNEX" order="3">doc/Alo/P000000/14350/221630/Projet de loi portant règlementation bancaire.pdf</field_path>
+<field_pathLink id="ANNEX">QcoV5hnjdciu2WGF6EdLrdXywolNrsmb&#13;
+</field_pathLink>
+<field id="ANNEX" order="4">Projet de loi sur le contentieux des infractions à la règlementation des relations financières extérieures des Etats membres de l'UEMOA&#13;
+</field>
+<field_path id="ANNEX" order="4">doc/Alo/P000000/14350/221631/Projet de loi sur le contentieux des infractions à la règlementation des relations financières extérieures des Etats membres de l'UEMOA.pdf</field_path>
+<field_pathLink id="ANNEX">QcoV5hnjdciu2WGF6EdLrVLCuznNzCq7&#13;
+</field_pathLink>
+<field id="ANNEX" order="5">Projet de protocole relatif aux privilèges et immunités de la BCEAO&#13;
+</field>
+<field_path id="ANNEX" order="5">doc/Alo/P000000/14350/221632/Projet de protocole relatif aux privilèges et immunités de la BCEAO.pdf</field_path>
+<field_pathLink id="ANNEX">QcoV5hnjdciu2WGF6EdLrW4EoJllqSZ5&#13;
+</field_pathLink>
+<field id="ANNEX" order="6">Projet de règlement relatif aux relations financières exterieures des Etats membres de l'UEMOA&#13;
+</field>
+<field_path id="ANNEX" order="6">doc/Alo/P000000/14350/221639/Projet de règlement relatif aux relations financières exterieures des Etats membres  de l'UEMOA.pdf</field_path>
+<field_pathLink id="ANNEX">QcoV5hnjdciu2WGF6EdLrUILYzzGpuRD&#13;
+</field_pathLink>
+<field id="ANNEX" order="7">Projet de statuts de la BCEAO&#13;
+</field>
+<field_path id="ANNEX" order="7">doc/Alo/P000000/14350/221640/Projet de statuts de la BCEAO.pdf</field_path>
+<field_pathLink id="ANNEX">QcoV5hnjdciu2WGF6EdLrdqUMc0NO3v5&#13;
+</field_pathLink>
+<field id="ANNEX" order="8">Rapport de traite de l'UMOA&#13;
+</field>
+<field_path id="ANNEX" order="8">doc/Alo/P000000/14350/221641/Rapport de traite de l'UMOA.pdf</field_path>
+<field_pathLink id="ANNEX">QcoV5hnjdciu2WGF6EdLrUd7UAKC_lK8&#13;
+</field_pathLink>
+<field id="ANNEX" order="9">Rapport du comité de reforme institutionnelle&#13;
+</field>
+<field_path id="ANNEX" order="9">doc/Alo/P000000/14350/221642/Rapport du comité de reforme institutionnelle.pdf</field_path>
+<field_pathLink id="ANNEX">QcoV5hnjdciu2WGF6EdLrcqamlPBs9J_&#13;
+</field_pathLink>
+<field id="ANNEX" order="10">Rapport du gouverneur de la BCEAO&#13;
+</field>
+<field_path id="ANNEX" order="10">doc/Alo/P000000/14350/221643/Rapport du gouverneur de la BCEAO.pdf</field_path>
+<field_pathLink id="ANNEX">QcoV5hnjdciu2WGF6EdLrR8aFEhYGDdw&#13;
+</field_pathLink>
+</record>
+<record id="17725">
+<recordnature code="ARC">ARCHIVES</recordnature>
+<recordtype code="CCEUEMOA">Conférence des Chefs d'Etat UEMOA</recordtype>
+<recordcreation datetime="19/08/13 08:05" format="JJ/MM/AAAA">19/08/2013</recordcreation>
+<recordupdate datetime="19/08/13 08:05" format="JJ/MM/AAAA">19/08/2013</recordupdate>
+<recordindex datetime="19/08/13 08:05" format="JJ/MM/AAAA">19/08/2013</recordindex>
+<uri>https://documentation.boad.org/dyn/portal/index.seam?page=alo&amp;aloId=17725</uri>
+<field id="TIT" order="1">Douzième session de la Conférence des Chefs d’État de l'UEMOA du 17 Janvier 2008</field>
+<field_path id="TIT" order="1">doc/Alo/P000000/17725/248564/Communiqué final de la 12ème CCEG  UEMOA du 17.01.2008.pdf</field_path>
+<field_pathLink id="TIT">QcoV5hnjdciu2WGF6EdLrY_355RMmYLl&#13;
+</field_pathLink>
+<field_path id="TIT" order="1">doc/Alo/P000000/17725/248564/Convocation 12ème session CCEG UEMOA du 17.01.2008.pdf</field_path>
+<field_pathLink id="TIT">QcoV5hnjdciu2WGF6EdLrbg9QFry86Gs&#13;
+</field_pathLink>
+<field id="LIEUARC">Ouagadougou</field>
+<field datetime="17/01/08 00:00" format="JJ/MM/AAAA" id="DRE">17/01/2008</field>
+<field id="PAYS" idthes="162" order="1" thes="50">Burkina Faso</field>
+</record>
+<record id="17726">
+<recordnature code="ARC">ARCHIVES</recordnature>
+<recordtype code="CCEUEMOA">Conférence des Chefs d'Etat UEMOA</recordtype>
+<recordcreation datetime="19/08/13 08:11" format="JJ/MM/AAAA">19/08/2013</recordcreation>
+<recordupdate datetime="19/08/13 08:11" format="JJ/MM/AAAA">19/08/2013</recordupdate>
+<recordindex datetime="19/08/13 08:11" format="JJ/MM/AAAA">19/08/2013</recordindex>
+<uri>https://documentation.boad.org/dyn/portal/index.seam?page=alo&amp;aloId=17726</uri>
+<field id="TIT" order="1">Treuzième session de la Conférence des Chefs d’État de l'UEMOA du 17 mars 2009</field>
+<field_path id="TIT" order="1">doc/Alo/P000000/17726/248568/Communiqué final de la 13ème CCEG  UEMOA du 17.03.2009.pdf</field_path>
+<field_pathLink id="TIT">QcoV5hnjdciu2WGF6EdLrUXZIOWENIMQ&#13;
+</field_pathLink>
+<field id="LIEUARC">Ouagadougou</field>
+<field datetime="17/03/09 00:00" format="JJ/MM/AAAA" id="DRE">17/03/2009</field>
+<field id="PAYS" idthes="162" order="1" thes="50">Burkina Faso</field>
+</record>
+<record id="17727">
+<recordnature code="ARC">ARCHIVES</recordnature>
+<recordtype code="CCEUEMOA">Conférence des Chefs d'Etat UEMOA</recordtype>
+<recordcreation datetime="19/08/13 08:14" format="JJ/MM/AAAA">19/08/2013</recordcreation>
+<recordupdate datetime="19/08/13 08:14" format="JJ/MM/AAAA">19/08/2013</recordupdate>
+<recordindex datetime="19/08/13 08:14" format="JJ/MM/AAAA">19/08/2013</recordindex>
+<uri>https://documentation.boad.org/dyn/portal/index.seam?page=alo&amp;aloId=17727</uri>
+<field id="TIT" order="1">Quatorzième session de la Conférence des Chefs d’État de l'UEMOA du 20 février 2010</field>
+<field_path id="TIT" order="1">doc/Alo/P000000/17727/248572/Communiqué final de la 14ème CCEG  UEMOA du 20.02.2010.pdf</field_path>
+<field_pathLink id="TIT">QcoV5hnjdciu2WGF6EdLrQjp6pZOnU0e&#13;
+</field_pathLink>
+<field id="LIEUARC">Bamako</field>
+<field datetime="20/02/10 00:00" format="JJ/MM/AAAA" id="DRE">20/02/2010</field>
+<field id="PAYS" idthes="171" order="1" thes="50">Mali</field>
+</record>
+<record id="17728">
+<recordnature code="ARC">ARCHIVES</recordnature>
+<recordtype code="CCEUEMOA">Conférence des Chefs d'Etat UEMOA</recordtype>
+<recordcreation datetime="19/08/13 08:17" format="JJ/MM/AAAA">19/08/2013</recordcreation>
+<recordupdate datetime="19/08/13 08:20" format="JJ/MM/AAAA">19/08/2013</recordupdate>
+<recordindex datetime="19/08/13 08:20" format="JJ/MM/AAAA">19/08/2013</recordindex>
+<uri>https://documentation.boad.org/dyn/portal/index.seam?page=alo&amp;aloId=17728</uri>
+<field id="TIT" order="1">Quinzième session de la Conférence des Chefs d’État de l'UEMOA du 22 Janvier 2011</field>
+<field_path id="TIT" order="1">doc/Alo/P000000/17728/248576/Communiqué final de la 15ème CCEG  UEMOA du 22.01.2011.pdf</field_path>
+<field_pathLink id="TIT">QcoV5hnjdciu2WGF6EdLrdyGEFThKh3l&#13;
+</field_pathLink>
+<field_path id="TIT" order="1">doc/Alo/P000000/17728/248576/Discours Ouverture session  du 22.01.11.pdf</field_path>
+<field_pathLink id="TIT">QcoV5hnjdciu2WGF6EdLrcIZ99X0FnUS&#13;
+</field_pathLink>
+<field id="LIEUARC">Bamako</field>
+<field datetime="22/01/11 00:00" format="JJ/MM/AAAA" id="DRE">22/01/2011</field>
+<field id="PAYS" idthes="171" order="1" thes="50">Mali</field>
+</record>
+<record id="19709">
+<recordnature code="ARC">ARCHIVES</recordnature>
+<recordtype code="CCEUEMOA">Conférence des Chefs d'Etat UEMOA</recordtype>
+<recordcreation datetime="20/07/15 17:08" format="JJ/MM/AAAA">20/07/2015</recordcreation>
+<recordupdate datetime="20/07/15 17:08" format="JJ/MM/AAAA">20/07/2015</recordupdate>
+<recordindex datetime="20/07/15 17:08" format="JJ/MM/AAAA">20/07/2015</recordindex>
+<uri>https://documentation.boad.org/dyn/portal/index.seam?page=alo&amp;aloId=19709</uri>
+<field id="TIT" order="1">Session de la Conférence des Chefs d’État de l'UEMOA du 10 juin 2013&#13;
+</field>
+<field_path id="TIT" order="1">doc/Alo/P000000/19709/269528/Acte additionnel 3 CCEG du 10.06.2013.pdf</field_path>
+<field_pathLink id="TIT">QcoV5hnjdciu2WGF6EdLrXlqyWe573le&#13;
+</field_pathLink>
+<field id="LIEUARC">Lomé</field>
+<field datetime="10/06/13 00:00" format="JJ/MM/AAAA" id="DRE">10/06/2013</field>
+<field id="PAYS" idthes="178" order="1" thes="50">Togo</field>
+</record>
+<record id="19710">
+<recordnature code="ARC">ARCHIVES</recordnature>
+<recordtype code="CCEUEMOA">Conférence des Chefs d'Etat UEMOA</recordtype>
+<recordcreation datetime="20/07/15 17:20" format="JJ/MM/AAAA">20/07/2015</recordcreation>
+<recordupdate datetime="20/07/15 17:20" format="JJ/MM/AAAA">20/07/2015</recordupdate>
+<recordindex datetime="20/07/15 17:20" format="JJ/MM/AAAA">20/07/2015</recordindex>
+<uri>https://documentation.boad.org/dyn/portal/index.seam?page=alo&amp;aloId=19710</uri>
+<field id="TIT" order="1">Session extraordinaire de la Conférence des Chefs d’État de l'UEMOA du 30 mai 2011&#13;
+</field>
+<field_path id="TIT" order="1">doc/Alo/P000000/19710/269532/OJ CCEG du 30 Mai 2011.pdf</field_path>
+<field_pathLink id="TIT">QcoV5hnjdciu2WGF6EdLrRNsrORlc079&#13;
+</field_pathLink>
+<field id="LIEUARC">Lomé</field>
+<field datetime="30/05/11 00:00" format="JJ/MM/AAAA" id="DRE">30/05/2011</field>
+<field id="PAYS" idthes="178" order="1" thes="50">Togo</field>
+<field id="ANNEX" order="1">Allocutions, communiqué, PV</field>
+<field_path id="ANNEX" order="1">doc/Alo/P000000/19710/269536/Allocutions CCEG du 30 Mai 2011.pdf</field_path>
+<field_pathLink id="ANNEX">QcoV5hnjdciu2WGF6EdLrZCAgNHVOQmc&#13;
+</field_pathLink>
+<field_path id="ANNEX" order="1">doc/Alo/P000000/19710/269536/Communiqué CCEG extra  du 30.05.2011.pdf</field_path>
+<field_pathLink id="ANNEX">QcoV5hnjdciu2WGF6EdLrVYuiA9Ctlpb&#13;
+</field_pathLink>
+<field_path id="ANNEX" order="1">doc/Alo/P000000/19710/269536/PV CCEG Extra du 30.05.2011.pdf</field_path>
+<field_pathLink id="ANNEX">QcoV5hnjdciu2WGF6EdLrSTMkMt6b3Tn&#13;
+</field_pathLink>
+<field id="ANNEX" order="2">Dossiers IRED, inflation</field>
+<field_path id="ANNEX" order="2">doc/Alo/P000000/19710/269537/Dossier avancement IRED CCEG du 30.05.2011.pdf</field_path>
+<field_pathLink id="ANNEX">QcoV5hnjdciu2WGF6EdLrVCAbGPVDp-w&#13;
+</field_pathLink>
+<field_path id="ANNEX" order="2">doc/Alo/P000000/19710/269537/Dossier Inflation CCEG du 30.05.2011.pdf</field_path>
+<field_pathLink id="ANNEX">QcoV5hnjdciu2WGF6EdLrWGYBOP7p6bS&#13;
+</field_pathLink>
+</record>
+<record id="19746">
+<recordnature code="ARC">ARCHIVES</recordnature>
+<recordtype code="CCEUEMOA">Conférence des Chefs d'Etat UEMOA</recordtype>
+<recordcreation datetime="28/07/15 08:53" format="JJ/MM/AAAA">28/07/2015</recordcreation>
+<recordupdate datetime="28/07/15 08:53" format="JJ/MM/AAAA">28/07/2015</recordupdate>
+<recordindex datetime="28/07/15 08:53" format="JJ/MM/AAAA">28/07/2015</recordindex>
+<uri>https://documentation.boad.org/dyn/portal/index.seam?page=alo&amp;aloId=19746</uri>
+<field id="TIT" order="1">Dix-septième session de la Conférence des Chefs d’État de l'UEMOA du 24 octobre 2013 </field>
+<field_path id="TIT" order="1">doc/Alo/P000000/19746/269925/Communiqué 17ème CCEG du 24.10.2013.pdf</field_path>
+<field_pathLink id="TIT">QcoV5hnjdciu2WGF6EdLreDqKWAYKlap&#13;
+</field_pathLink>
+<field id="LIEUARC">Dakar</field>
+<field datetime="24/10/13 00:00" format="JJ/MM/AAAA" id="DRE">24/10/2013</field>
+<field id="PAYS" idthes="176" order="1" thes="50">Sénégal</field>
+</record>
+<record id="19747">
+<recordnature code="ARC">ARCHIVES</recordnature>
+<recordtype code="CCEUEMOA">Conférence des Chefs d'Etat UEMOA</recordtype>
+<recordcreation datetime="28/07/15 09:59" format="JJ/MM/AAAA">28/07/2015</recordcreation>
+<recordupdate datetime="28/07/15 09:59" format="JJ/MM/AAAA">28/07/2015</recordupdate>
+<recordindex datetime="28/07/15 09:59" format="JJ/MM/AAAA">28/07/2015</recordindex>
+<uri>https://documentation.boad.org/dyn/portal/index.seam?page=alo&amp;aloId=19747</uri>
+<field id="TIT" order="1">Dix-huitième session de la Conférence des Chefs d’État de l'UEMOA du 19 janvier 2015 </field>
+<field_path id="TIT" order="1">doc/Alo/P000000/19747/269929/Communiqué final 18è CCEG du 19.01.2015.pdf</field_path>
+<field_pathLink id="TIT">QcoV5hnjdciu2WGF6EdLrXvRN_U1rhfy&#13;
+</field_pathLink>
+<field_path id="TIT" order="1">doc/Alo/P000000/19747/269929/Déclaration 18è CCEG du 19.01.2015.pdf</field_path>
+<field_pathLink id="TIT">QcoV5hnjdciu2WGF6EdLrbAE-J42ic29&#13;
+</field_pathLink>
+<field id="LIEUARC">Cotonou</field>
+<field datetime="19/01/15 00:00" format="JJ/MM/AAAA" id="DRE">19/01/2015</field>
+<field id="PAYS" idthes="161" order="1" thes="50">Bénin</field>
+</record>
+<record id="19748">
+<recordnature code="ARC">ARCHIVES</recordnature>
+<recordtype code="CCEUEMOA">Conférence des Chefs d'Etat UEMOA</recordtype>
+<recordcreation datetime="28/07/15 10:07" format="JJ/MM/AAAA">28/07/2015</recordcreation>
+<recordupdate datetime="28/07/15 10:07" format="JJ/MM/AAAA">28/07/2015</recordupdate>
+<recordindex datetime="28/07/15 10:07" format="JJ/MM/AAAA">28/07/2015</recordindex>
+<uri>https://documentation.boad.org/dyn/portal/index.seam?page=alo&amp;aloId=19748</uri>
+<field id="TIT" order="1">Seizième session de la Conférence des Chefs d’État de l'UEMOA du 06 juin 2012&#13;
+</field>
+<field_path id="TIT" order="1">doc/Alo/P000000/19748/269933/Communiqué final 16è CCEG UEMOA du 06.06.2012.pdf</field_path>
+<field_pathLink id="TIT">QcoV5hnjdciu2WGF6EdLrVSFAk8LDjsH&#13;
+</field_pathLink>
+<field id="LIEUARC">Lomé</field>
+<field datetime="06/06/12 00:00" format="JJ/MM/AAAA" id="DRE">06/06/2012</field>
+<field id="PAYS" idthes="178" order="1" thes="50">Togo</field>
+</record>
+<record id="20028">
+<recordnature code="ARC">ARCHIVES</recordnature>
+<recordtype code="CCEUEMOA">Conférence des Chefs d'Etat UEMOA</recordtype>
+<recordcreation datetime="28/04/16 15:30" format="JJ/MM/AAAA">28/04/2016</recordcreation>
+<recordupdate datetime="28/04/16 15:30" format="JJ/MM/AAAA">28/04/2016</recordupdate>
+<recordindex datetime="28/04/16 15:30" format="JJ/MM/AAAA">28/04/2016</recordindex>
+<uri>https://documentation.boad.org/dyn/portal/index.seam?page=alo&amp;aloId=20028</uri>
+<field id="TIT" order="1">Dix-neuvième session de la Conférence des Chefs d’État de l'UEMOA du 08 janvier 2016&#13;
+</field>
+<field_path id="TIT" order="1">doc/Alo/P000001/20028/272489/communique final 19ème session CCEG.pdf</field_path>
+<field_pathLink id="TIT">QcoV5hnjdciu2WGF6EdLrcNjv4yawEhS&#13;
+</field_pathLink>
+<field id="LIEUARC">Cotonou</field>
+<field datetime="08/01/16 00:00" format="JJ/MM/AAAA" id="DRE">08/01/2016</field>
+<field id="PAYS" idthes="161" order="1" thes="50">Bénin</field>
+</record>
+<record id="21423">
+<recordnature code="ARC">ARCHIVES</recordnature>
+<recordtype code="CCEUEMOA">Conférence des Chefs d'Etat UEMOA</recordtype>
+<recordcreation datetime="03/08/18 17:13" format="JJ/MM/AAAA">03/08/2018</recordcreation>
+<recordupdate datetime="03/08/18 17:13" format="JJ/MM/AAAA">03/08/2018</recordupdate>
+<recordindex datetime="03/08/18 17:13" format="JJ/MM/AAAA">03/08/2018</recordindex>
+<uri>https://documentation.boad.org/dyn/portal/index.seam?page=alo&amp;aloId=21423</uri>
+<field id="TIT" order="1">Vingtième session ordinaire de la Conférence des Chefs d’État de l'UEMOA du 30 juillet 2018.</field>
+<field_path id="TIT" order="1">doc/Alo/P000001/21423/288355/Communiqué final 20ème CCEG du 30.07.2018.pdf</field_path>
+<field_pathLink id="TIT">QcoV5hnjdciu2WGF6EdLrcKY3xF9C0oI&#13;
+</field_pathLink>
+<field id="LIEUARC">Lomé</field>
+<field datetime="30/07/18 00:00" format="JJ/MM/AAAA" id="DRE">30/07/2018</field>
+<field id="PAYS" idthes="178" order="1" thes="50">Togo</field>
+</record>
+<record id="21625">
+<recordnature code="ARC">ARCHIVES</recordnature>
+<recordtype code="CCEUEMOA">Conférence des Chefs d'Etat UEMOA</recordtype>
+<recordcreation datetime="13/02/19 09:48" format="JJ/MM/AAAA">13/02/2019</recordcreation>
+<recordupdate datetime="13/02/19 09:48" format="JJ/MM/AAAA">13/02/2019</recordupdate>
+<recordindex datetime="13/02/19 09:48" format="JJ/MM/AAAA">13/02/2019</recordindex>
+<uri>https://documentation.boad.org/dyn/portal/index.seam?page=alo&amp;aloId=21625</uri>
+<field id="TIT" order="1">Session extraordinaire de la Conférence des Chefs d’État de l'UEMOA du 05 juin 2016.</field>
+<field_path id="TIT" order="1">doc/Alo/P000001/21625/290456/Communique final CCEG UEMOA Extra du_5 juin 2016.pdf</field_path>
+<field_pathLink id="TIT">QcoV5hnjdciu2WGF6EdLre-82wzJYFC2&#13;
+</field_pathLink>
+<field id="LIEUARC">Dakar</field>
+<field datetime="05/06/16 00:00" format="JJ/MM/AAAA" id="DRE">05/06/2016</field>
+<field id="PAYS" idthes="176" order="1" thes="50">Sénégal</field>
+</record>
+<record id="21626">
+<recordnature code="ARC">ARCHIVES</recordnature>
+<recordtype code="CCEUEMOA">Conférence des Chefs d'Etat UEMOA</recordtype>
+<recordcreation datetime="13/02/19 10:47" format="JJ/MM/AAAA">13/02/2019</recordcreation>
+<recordupdate datetime="13/02/19 10:47" format="JJ/MM/AAAA">13/02/2019</recordupdate>
+<recordindex datetime="13/02/19 10:47" format="JJ/MM/AAAA">13/02/2019</recordindex>
+<uri>https://documentation.boad.org/dyn/portal/index.seam?page=alo&amp;aloId=21626</uri>
+<field id="TIT" order="1">Session extraordinaire de la Conférence des Chefs d’État de l'UEMOA du 10 avril 2017</field>
+<field_path id="TIT" order="1">doc/Alo/P000001/21626/290460/Communique final CCEG UEMOA Extra du 10 avril 2017.pdf</field_path>
+<field_pathLink id="TIT">QcoV5hnjdciu2WGF6EdLrQIa7sEs0IGK&#13;
+</field_pathLink>
+<field id="LIEUARC">Abidjan </field>
+<field datetime="10/04/17 00:00" format="JJ/MM/AAAA" id="DRE">10/04/2017</field>
+<field id="PAYS" idthes="165" order="1" thes="50">Côte d'Ivoire</field>
+</record>
+<record id="24513">
+<recordnature code="ARC">ARCHIVES</recordnature>
+<recordtype code="CCEUEMOA">Conférence des Chefs d'Etat UEMOA</recordtype>
+<recordcreation datetime="04/08/20 12:14" format="JJ/MM/AAAA">04/08/2020</recordcreation>
+<recordupdate datetime="04/08/20 12:14" format="JJ/MM/AAAA">04/08/2020</recordupdate>
+<recordindex datetime="04/08/20 12:14" format="JJ/MM/AAAA">04/08/2020</recordindex>
+<uri>https://documentation.boad.org/dyn/portal/index.seam?page=alo&amp;aloId=24513</uri>
+<field id="TIT" order="1">Vingt et unième session ordinaire de la Conférence des Chefs d’État de l'UEMOA du 12 juillet 2019.</field>
+<field_path id="TIT" order="1">doc/Alo/P000001/24513/332396/Communique de presse CCEG UEMOA du 12.07.2019.pdf</field_path>
+<field_pathLink id="TIT">QcoV5hnjdciT1KqKBxFP3uMzaWP1eOPS&#13;
+</field_pathLink>
+<field_path id="TIT" order="1">doc/Alo/P000001/24513/332396/Communique final CCEG UEMOA du 12.07.2019.pdf</field_path>
+<field_pathLink id="TIT">QcoV5hnjdciT1KqKBxFP3tewzAnpIaug&#13;
+</field_pathLink>
+<field id="LIEUARC">Abidjan</field>
+<field datetime="12/07/19 00:00" format="JJ/MM/AAAA" id="DRE">12/07/2019</field>
+<field id="PAYS" idthes="165" order="1" thes="50">Côte d'Ivoire</field>
+</record>
+<record id="24514">
+<recordnature code="ARC">ARCHIVES</recordnature>
+<recordtype code="CCEUEMOA">Conférence des Chefs d'Etat UEMOA</recordtype>
+<recordcreation datetime="04/08/20 12:17" format="JJ/MM/AAAA">04/08/2020</recordcreation>
+<recordupdate datetime="04/08/20 12:17" format="JJ/MM/AAAA">04/08/2020</recordupdate>
+<recordindex datetime="04/08/20 12:17" format="JJ/MM/AAAA">04/08/2020</recordindex>
+<uri>https://documentation.boad.org/dyn/portal/index.seam?page=alo&amp;aloId=24514</uri>
+<field id="TIT" order="1">Session extraordinaire de la Conférence des Chefs d’État et de Gouverneement de l'UEMOA du 27 avril 2020.</field>
+<field_path id="TIT" order="1">doc/Alo/P000001/24514/332400/Communique final CCEG UEMOA du 27.04.2020.pdf</field_path>
+<field_pathLink id="TIT">QcoV5hnjdciT1KqKBxFP3sDHJbOpE0qz&#13;
+</field_pathLink>
+<field id="LIEUARC">Abidjan</field>
+<field datetime="27/04/20 00:00" format="JJ/MM/AAAA" id="DRE">27/04/2020</field>
+<field id="PAYS" idthes="165" order="1" thes="50">Côte d'Ivoire</field>
+</record>
+<record id="24515">
+<recordnature code="ARC">ARCHIVES</recordnature>
+<recordtype code="CCEUEMOA">Conférence des Chefs d'Etat UEMOA</recordtype>
+<recordcreation datetime="04/08/20 12:20" format="JJ/MM/AAAA">04/08/2020</recordcreation>
+<recordupdate datetime="04/08/20 12:43" format="JJ/MM/AAAA">04/08/2020</recordupdate>
+<recordindex datetime="04/08/20 12:43" format="JJ/MM/AAAA">04/08/2020</recordindex>
+<uri>https://documentation.boad.org/dyn/portal/index.seam?page=alo&amp;aloId=24515</uri>
+<field id="TIT" order="1">Session extraordinaire de la Conférence des Chefs d’État et de Gouverneement de l'UEMOA du 03 décembre 2019.</field>
+<field_path id="TIT" order="1">doc/Alo/P000001/24515/332404/Communique final CCEG UEMOA extraordinaire du 03.12.19.pdf</field_path>
+<field_pathLink id="TIT">QcoV5hnjdciT1KqKBxFP3kbC1ksYsl8w&#13;
+</field_pathLink>
+<field id="LIEUARC">Dakar</field>
+<field datetime="03/12/19 00:00" format="JJ/MM/AAAA" id="DRE">03/12/2019</field>
+<field id="PAYS" idthes="176" order="1" thes="50">Sénégal</field>
+</record>
+<record id="24728">
+<recordnature code="ARC">ARCHIVES</recordnature>
+<recordtype code="CCEUEMOA">Conférence des Chefs d'Etat UEMOA</recordtype>
+<recordcreation datetime="09/04/21 15:58" format="JJ/MM/AAAA">09/04/2021</recordcreation>
+<recordupdate datetime="09/04/21 15:58" format="JJ/MM/AAAA">09/04/2021</recordupdate>
+<recordindex datetime="09/04/21 15:58" format="JJ/MM/AAAA">09/04/2021</recordindex>
+<uri>https://documentation.boad.org/dyn/portal/index.seam?page=alo&amp;aloId=24728</uri>
+<field id="TIT" order="1">22ème session ordinaire de la Conférence des Chefs d’Etat et de Gouvernement de l’Union Economique et Monétaire ouest africaine</field>
+<field_path id="TIT" order="1">doc/Alo/P000001/24728/334332/Communiqué final signé_22èeme CCEG.pdf</field_path>
+<field_pathLink id="TIT">QcoV5hnjdciT1KqKBxFP3qMEHJAoXQPS&#13;
+</field_pathLink>
+<field id="LIEUARC">Visioconférence</field>
+<field datetime="25/03/21 00:00" format="JJ/MM/AAAA" id="DRE">25/03/2021</field>
+</record>
+</records>
+</Alexandrie>

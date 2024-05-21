@@ -183,12 +183,12 @@ const createDefaultArchive = () => {
 const setArchiveDetails = (archiveDetails ) => {
     let archive = createDefaultArchive()
     archive.archive.archiveName = archiveDetails.archiveName
-    // archive.archive.originatingDate = archiveDetails.originatingDate ?? archiveDetails.recordcreation ?? new Date().toISOString()
+    archive.archive.originatingDate = archiveDetails.originatingDate ?? archiveDetails.recordcreation ?? new Date().toISOString()
     archive.archive.description.title = [archiveDetails.type]
     archive.archive.description.description = archiveDetails.desText
     archive.archive.description.documentType = archiveDetails.type
     archive.archive.description.descriptionLevel = archiveDetails.recordnature
-    // archive.archive.archivalProfileReference = archiveDetails.recordnatureCode ?? ''
+    archive.archive.archivalProfileReference = archiveDetails.recordnatureCode ?? ''
     archive.archive.description.keyword = archiveDetails.keyWords
     archive.archive.description.description = archiveDetails.desText
     archive.archive.description.fullTextIndexation = archiveDetails.fullText ? 'fulltext' : 'none'
