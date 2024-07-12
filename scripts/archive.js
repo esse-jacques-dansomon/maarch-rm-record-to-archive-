@@ -20,7 +20,8 @@ const profiles = [
 ]
 
 
-const  XML_FILES = [ process.env.XML_FILES ];
+//const  XML_FILES = [ process.env.XML_FILES ];
+const  XML_FILES = [ 'data/ConférenceDesChefsdEtatUEMOA.xml' ];
 
 
 
@@ -43,11 +44,17 @@ async function importArchivesFromXMls() {
             }
             // URL de l'API à laquelle envoyer les données
             for (const recordData of records) {
-                let archiveDetails = readArchiveDetails(recordData)
-                let archive = setArchiveDetails(archiveDetails);
+
                 try {
-                    let res = await postRequest(archive, apiUrl)
-                    console.log("success")
+
+                    let archiveDetails = readArchiveDetails(recordData)
+                    // console.log(archiveDetails)
+
+                    let archive = setArchiveDetails(archiveDetails);
+
+                    // let res = await postRequest(archive, apiUrl)
+                    console.log(archive.archive.digitalResources.length)
+
                 } catch (error) {
                     console.error('Error:', error);
                 }

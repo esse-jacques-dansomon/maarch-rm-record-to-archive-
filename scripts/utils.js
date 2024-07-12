@@ -171,10 +171,10 @@ const createDefaultArchive = () => {
                 "descriptionLevel": "Item",
             },
             "archiveName": "",
-            "archivalProfileReference": "actes_v2",
-            "fullTextIndexation": "none",
-            "descriptionClass": "seda2",
-
+            "archivalProfileReference": "Reprise",
+            "fullTextIndexation": "fulltext",
+            "descriptionClass": "Reprise",
+            "text":"TODO",
         },
         "zipContainer": false
     }
@@ -188,15 +188,20 @@ const setArchiveDetails = (archiveDetails ) => {
     archive.archive.description.description = archiveDetails.desText
     archive.archive.description.documentType = archiveDetails.type
     archive.archive.description.descriptionLevel = archiveDetails.recordnature
-    // archive.archive.archivalProfileReference = archiveDetails.recordnatureCode ?? ''
+    archive.archive.archivalProfileReference = archiveDetails.recordnatureCode ?? ''
     archive.archive.archivalProfileReference = 'actes_v2'
     archive.archive.description.keyword = archiveDetails.keyWords
     archive.archive.description.description = archiveDetails.desText
-    archive.archive.description.fullTextIndexation = archiveDetails.fullText ? 'fulltext' : 'none'
+    // archive.archive.description.fullTextIndexation = archiveDetails.fullText ? 'fulltext' : 'none'
+    archive.archive.description.fullTextIndexation =  'fulltext'
     // archive.archive.digitalResources[0].handler = archiveDetails.digitalResources[0].handler
     // archive.archive.digitalResources[0].size = archiveDetails.digitalResources[0].size
     // archive.archive.digitalResources[0].fileName = archiveDetails.digitalResources[0].fileName
     // archive.archive.digitalResources[0].mimetype = archiveDetails.digitalResources[0].mimetype
+
+    for (const digitalResource in  archive.archive.digitalResources) {
+        archiveDetails.digitalResources.push(digitalResource)
+    }
     return archive
 
 }
@@ -221,6 +226,8 @@ const readArchiveDetails = (recordData ) => {
     }else if (!fields){
         fields = []
     }
+
+
     for (const field of fields) {
         if (field['id'] === 'DTJUR') {
             originatingDate = field['datetime'];
