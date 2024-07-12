@@ -43,6 +43,7 @@ Le script se base sur Node.js et utilise les packages suivants :
    ```sh
    cp .env.example .env
    ```
+- mettez a jour les variables d'env'
 
 4. Lancer le script :
    ```shell
