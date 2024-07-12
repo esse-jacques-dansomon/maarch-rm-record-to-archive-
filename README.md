@@ -1,4 +1,3 @@
-
 # SCRIPT D'IMPORT DES DONNÉES D'ARCHIVES
 
 ## Table des matières
@@ -52,7 +51,3 @@ Le script se base sur Node.js et utilise les packages suivants :
 
 ## L’exploitation des logs
 Une fois le script lancé, des logs des appels seront affichés dans le terminal.
-
----
-
-N'hésitez pas à ajouter des détails spécifiques à votre projet si nécessaire, comme des informations sur la configuration des variables d'environnement dans le fichier `.env`, ou des détails sur les fichiers d'entrée attendus.
